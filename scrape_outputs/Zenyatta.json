@@ -1,0 +1,792 @@
+[
+  {
+    "id": "zenyatta-classic",
+    "name": "Classic",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0f/Zenyatta_Skin_Classic.png/revision/latest?cb=20240622154225"
+  },
+  {
+    "id": "zenyatta-overwatch-2",
+    "name": "Overwatch 2",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fa/Zenyatta_Skin_Overwatch_2.png/revision/latest?cb=20240622154333"
+  },
+  {
+    "id": "zenyatta-air",
+    "name": "Air",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6c/Zenyatta_Skin_Air.png/revision/latest?cb=20160921222925"
+  },
+  {
+    "id": "zenyatta-earth",
+    "name": "Earth",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/61/Zenyatta_Skin_Earth.png/revision/latest?cb=20160921222953"
+  },
+  {
+    "id": "zenyatta-leaf",
+    "name": "Leaf",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Zenyatta_Skin_Leaf.png/revision/latest?cb=20160921223013"
+  },
+  {
+    "id": "zenyatta-water",
+    "name": "Water",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b5/Zenyatta_Skin_Water.png/revision/latest?cb=20160921223034"
+  },
+  {
+    "id": "zenyatta-ascendant",
+    "name": "Ascendant",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/29/Zenyatta_Skin_Ascendant.png/revision/latest?cb=20160921222932"
+  },
+  {
+    "id": "zenyatta-carbon-fiber",
+    "name": "Carbon Fiber",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b6/Zenyatta_Skin_Carbon_Fiber.png/revision/latest?cb=20180125122007"
+  },
+  {
+    "id": "zenyatta-harmonious",
+    "name": "Harmonious",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9d/Zenyatta_Skin_Harmonious.png/revision/latest?cb=20160921223000"
+  },
+  {
+    "id": "zenyatta-subaquatic",
+    "name": "Subaquatic",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d9/Zenyatta_Skin_Subaquatic.png/revision/latest?cb=20230331065142"
+  },
+  {
+    "id": "zenyatta-skullyatta",
+    "name": "Skullyatta",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/ff/Zenyatta_Skin_Skullyatta.png/revision/latest?cb=20161011211751"
+  },
+  {
+    "id": "zenyatta-pinocchio",
+    "name": "Pinocchio",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ee/Zenyatta_Skin_Pinocchio.png/revision/latest?cb=20230608055441"
+  },
+  {
+    "id": "zenyatta-bathmaster",
+    "name": "Bathmaster",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/91/Zenyatta_Skin_Bathmaster.png/revision/latest?cb=20231017231705"
+  },
+  {
+    "id": "zenyatta-beast-whisperer",
+    "name": "Beast Whisperer",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Zenyatta_Skin_Beast_Whisperer.png/revision/latest?cb=20231210214141"
+  },
+  {
+    "id": "zenyatta-8-bit",
+    "name": "8-Bit",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dd/Zenyatta_Skin_8-Bit.png/revision/latest?cb=20250825145018"
+  },
+  {
+    "id": "zenyatta-cursed-teddy",
+    "name": "Cursed Teddy",
+    "rarity": "epic",
+    "image_url": null
+  },
+  {
+    "id": "zenyatta-djinnyatta",
+    "name": "Djinnyatta",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8e/Zenyatta_Skin_Djinnyatta.png/revision/latest?cb=20160921222947"
+  },
+  {
+    "id": "zenyatta-ifrit",
+    "name": "Ifrit",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Zenyatta_Skin_Ifrit.png/revision/latest?cb=20160921223006"
+  },
+  {
+    "id": "zenyatta-ra",
+    "name": "Ra",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d9/Zenyatta_Skin_Ra.png/revision/latest?cb=20160921223020"
+  },
+  {
+    "id": "zenyatta-sunyatta",
+    "name": "Sunyatta",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bd/Zenyatta_Skin_Sunyatta.png/revision/latest?cb=20160921223027"
+  },
+  {
+    "id": "zenyatta-sanzang",
+    "name": "Sanzang",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Zenyatta_Skin_Sanzang.png/revision/latest?cb=20170124225801"
+  },
+  {
+    "id": "zenyatta-zhuge-liang",
+    "name": "Zhuge Liang",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ec/Zenyatta_Skin_Zhuge_Liang.png/revision/latest?cb=20190127081359"
+  },
+  {
+    "id": "zenyatta-huitzilopochtli",
+    "name": "Huitzilopochtli",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d5/Zenyatta_Skin_Huitzilopochtli.png/revision/latest?cb=20221213184341"
+  },
+  {
+    "id": "zenyatta-zealot",
+    "name": "Zealot",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/ff/Zenyatta_Skin_Zealot.png/revision/latest?cb=20221213184828"
+  },
+  {
+    "id": "zenyatta-fastball",
+    "name": "Fastball",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/47/Zenyatta_Skin_Fastball.png/revision/latest?cb=20180810092141"
+  },
+  {
+    "id": "zenyatta-cultist",
+    "name": "Cultist",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/47/Zenyatta_Skin_Cultist.png/revision/latest?cb=20171011174806"
+  },
+  {
+    "id": "zenyatta-nutcracker",
+    "name": "Nutcracker",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Zenyatta_Skin_Nutcracker.png/revision/latest?cb=20161213231820"
+  },
+  {
+    "id": "zenyatta-toybot",
+    "name": "Toybot",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6a/Zenyatta_Skin_Toybot.png/revision/latest?cb=20210107194450"
+  },
+
+
+  {
+    "id": "zenyatta-clockwork",
+    "name": "Clockwork",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e6/Zenyatta_Skin_Clockwork.png/revision/latest?cb=20250611220848"
+  },
+  {
+    "id": "zenyatta-zen-nakji",
+    "name": "Zen-Nakji",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4a/Zenyatta_Skin_Zen-Nakji.png/revision/latest?cb=20250611220814"
+  },
+
+
+  {
+    "id": "zenyatta-cosmic",
+    "name": "Cosmic",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/Zenyatta_Skin_Cosmic.png/revision/latest?cb=20250611220710"
+  },
+  {
+    "id": "zenyatta-solaris",
+    "name": "Solaris",
+    "rarity": "legendary",
+    "image_url": null
+  },
+  {
+    "id": "zenyatta-royal-astronomer",
+    "name": "Royal Astronomer",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c0/Zenyatta_Skin_Royal_Astronomer.png/revision/latest?cb=20250611221155"
+  },
+  {
+    "id": "zenyatta-cybermonk",
+    "name": "Cybermonk",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/41/Zenyatta_Skin_Cybermonk.png/revision/latest?cb=20221213185056"
+  },
+  {
+    "id": "zenyatta-takoyaki",
+    "name": "Takoyaki",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dd/Zenyatta_Skin_Takoyaki.png/revision/latest?cb=20230207212605"
+  },
+  {
+    "id": "zenyatta-z-3n-destroyer",
+    "name": "Z-3N Destroyer",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/Zenyatta_Skin_Z-3N_Destroyer.png/revision/latest?cb=20250611214632"
+  },
+  {
+    "id": "zenyatta-kaiju",
+    "name": "Kaiju",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4d/Zenyatta_Skin_Kaiju.png/revision/latest?cb=20250611214547"
+  },
+  {
+    "id": "zenyatta-thrall",
+    "name": "Thrall",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/66/Zenyatta_Skin_Thrall.png/revision/latest?cb=20240919053635"
+  },
+  {
+    "id": "zenyatta-aang",
+    "name": "Aang",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ee/Zenyatta_Skin_Aang.png/revision/latest?cb=20250611214500"
+  },
+  {
+    "id": "zenyatta-celestial",
+    "name": "Celestial",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/31/Zenyatta_Skin_Celestial.png/revision/latest?cb=20250611211809"
+  },
+  {
+    "id": "zenyatta-dhalsim",
+    "name": "Dhalsim",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/59/Zenyatta_Skin_Dhalsim.png/revision/latest?cb=20250611214741"
+  },
+  {
+    "id": "zenyatta-pixiu",
+    "name": "Pixiu",
+    "rarity": "mythic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f0/Zenyatta_Skin_Pixiu.png/revision/latest?cb=20250611211255"
+  },
+  {
+    "id": "zenyatta-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fa/Zenyatta_Skin_Overwatch_2.png/revision/latest?cb=20240622154333"
+  },
+  {
+    "id": "zenyatta-balance",
+    "name": "Balance",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2f/Zenyatta_VP_Balance.png/revision/latest?cb=20240625133844"
+  },
+  {
+    "id": "zenyatta-harmony",
+    "name": "Harmony",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/25/Zenyatta_VP_Harmony.png/revision/latest?cb=20240625133850"
+  },
+  {
+    "id": "zenyatta-peace",
+    "name": "Peace",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f3/Zenyatta_VP_Peace.png/revision/latest?cb=20240625133910"
+  },
+  {
+    "id": "zenyatta-meditation",
+    "name": "Meditation",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/20/Zenyatta_VP_Meditation.png/revision/latest?cb=20240625134331"
+  },
+  {
+    "id": "zenyatta-medals",
+    "name": "Medals",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Zenyatta_VP_Medals.png/revision/latest?cb=20240625134355"
+  },
+  {
+    "id": "zenyatta-rip",
+    "name": "R.I.P.",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/28/Zenyatta_VP_R.I.P..png/revision/latest?cb=20240625134414"
+  },
+  {
+    "id": "zenyatta-pumpkin",
+    "name": "Pumpkin",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e7/Zenyatta_VP_Pumpkin.png/revision/latest?cb=20240625134440"
+  },
+  {
+    "id": "zenyatta-toast",
+    "name": "Toast",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Zenyatta_VP_Toast.png/revision/latest?cb=20240625134904"
+  },
+  {
+    "id": "zenyatta-retro-hero",
+    "name": "Retro Hero",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fe/Zenyatta_VP_Retro_Hero.png/revision/latest?cb=20240625135554"
+  },
+  {
+    "id": "zenyatta-coin-collect",
+    "name": "Coin Collect",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a0/Zenyatta_VP_Coin_Collect.png/revision/latest?cb=20250827060646"
+  },
+  {
+    "id": "zenyatta-dzo",
+    "name": "Dōzo",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/45/Zenyatta_VP_D%C5%8Dzo.png/revision/latest?cb=20240625134918"
+  },
+  {
+    "id": "zenyatta-quest-giver",
+    "name": "Quest Giver",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e0/Zenyatta_VP_Quest_Giver.png/revision/latest?cb=20240920180753"
+  },
+  {
+    "id": "zenyatta-dhalsim-wins",
+    "name": "Dhalsim Wins",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a5/Zenyatta_VP_Dhalsim_Wins.png/revision/latest?cb=20250824213309"
+  },
+  {
+    "id": "zenyatta-studious",
+    "name": "Studious",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/55/Zenyatta_VP_Studious.png/revision/latest?cb=20240625134955"
+  },
+  {
+    "id": "zenyatta-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Zenyatta_Emote_Heroic.webm"
+  },
+  {
+    "id": "zenyatta-focusing",
+    "name": "Focusing",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Zenyatta_Emote_Focusing.webm"
+  },
+  {
+    "id": "zenyatta-meditate",
+    "name": "Meditate",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Zenyatta_Emote_Meditate.webm"
+  },
+  {
+    "id": "zenyatta-round-of-applause",
+    "name": "Round of Applause",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Zenyatta_Emote_Round_of_Applause.webm"
+  },
+  {
+    "id": "zenyatta-taunt",
+    "name": "Taunt",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Zenyatta_Emote_Taunt.webm"
+  },
+  {
+    "id": "zenyatta-tickled",
+    "name": "Tickled",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Zenyatta_Emote_Tickled.webm"
+  },
+  {
+    "id": "zenyatta-dance",
+    "name": "Dance",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Zenyatta_Emote_Dance.webm"
+  },
+  {
+    "id": "zenyatta-stretch",
+    "name": "Stretch",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Zenyatta_Emote_Stretch.webm"
+  },
+  {
+    "id": "zenyatta-snowflake",
+    "name": "Snowflake",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Zenyatta_Emote_Snowflake.webm"
+  },
+  {
+    "id": "zenyatta-retro-hero",
+    "name": "Retro Hero",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Zenyatta_Emote_Retro_Hero.webm"
+  },
+  {
+    "id": "zenyatta-airbending",
+    "name": "Airbending",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Zenyatta_Emote_Airbending.webm"
+  },
+  {
+    "id": "zenyatta-quest-giver",
+    "name": "Quest Giver",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Zenyatta_Emote_Quest_Giver.webm"
+  },
+  {
+    "id": "zenyatta-dhalsim-wins",
+    "name": "Dhalsim Wins",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Zenyatta_Emote_Dhalsim_Wins.webm"
+  },
+  {
+    "id": "zenyatta-adorable",
+    "name": "Adorable",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cd/Spray_Zenyatta_Adorable.png/revision/latest?cb=20160906141934"
+  },
+  {
+    "id": "zenyatta-aura",
+    "name": "Aura",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b5/Spray_Zenyatta_Aura.png/revision/latest?cb=20160906141955"
+  },
+  {
+    "id": "zenyatta-balance",
+    "name": "Balance",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2d/Spray_Zenyatta_Balance.png/revision/latest?cb=20160906142020"
+  },
+  {
+    "id": "zenyatta-contemplative",
+    "name": "Contemplative",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/Spray_Zenyatta_Contemplative.png/revision/latest?cb=20160906142042"
+  },
+  {
+    "id": "zenyatta-discord",
+    "name": "Discord",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/53/Spray_Zenyatta_Discord.png/revision/latest?cb=20160906142128"
+  },
+  {
+    "id": "zenyatta-enlightened",
+    "name": "Enlightened",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e6/Spray_Zenyatta_Enlightened.png/revision/latest?cb=20160906142203"
+  },
+  {
+    "id": "zenyatta-fist-bump",
+    "name": "Fist Bump",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/da/Spray_Zenyatta_Fist_Bump.png/revision/latest?cb=20160906142229"
+  },
+  {
+    "id": "zenyatta-flow",
+    "name": "Flow",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/55/Spray_Zenyatta_Flow.png/revision/latest?cb=20160906142254"
+  },
+  {
+    "id": "zenyatta-foot",
+    "name": "Foot",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f7/Spray_Zenyatta_Foot.png/revision/latest?cb=20160906142317"
+  },
+  {
+    "id": "zenyatta-graphic",
+    "name": "Graphic",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/79/Spray_Zenyatta_Graphic.png/revision/latest?cb=20160906142341"
+  },
+  {
+    "id": "zenyatta-guru",
+    "name": "Guru",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/15/Spray_Zenyatta_Guru.png/revision/latest?cb=20160906142405"
+  },
+  {
+    "id": "zenyatta-hand",
+    "name": "Hand",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/86/Spray_Zenyatta_Hand.png/revision/latest?cb=20160906142427"
+  },
+  {
+    "id": "zenyatta-harmony",
+    "name": "Harmony",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bd/Spray_Zenyatta_Harmony.png/revision/latest?cb=20160906142449"
+  },
+  {
+    "id": "zenyatta-icon",
+    "name": "Icon",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d0/Spray_Zenyatta_Icon.png/revision/latest?cb=20160906142514"
+  },
+  {
+    "id": "zenyatta-ifrit",
+    "name": "Ifrit",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b0/Spray_Zenyatta_Ifrit.png/revision/latest?cb=20180204234904"
+  },
+  {
+    "id": "zenyatta-inner-fire",
+    "name": "Inner Fire",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Spray_Zenyatta_Inner_Fire.png/revision/latest?cb=20160906142539"
+  },
+  {
+    "id": "zenyatta-nine",
+    "name": "Nine",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/af/Spray_Zenyatta_Nine.png/revision/latest?cb=20160906142602"
+  },
+  {
+    "id": "zenyatta-orb",
+    "name": "Orb",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cd/Spray_Zenyatta_Orb.png/revision/latest?cb=20160906142624"
+  },
+  {
+    "id": "zenyatta-orbs",
+    "name": "Orbs",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7a/Spray_Zenyatta_Orbs.png/revision/latest?cb=20160906142646"
+  },
+  {
+    "id": "zenyatta-peace",
+    "name": "Peace",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c0/Spray_Zenyatta_Peace.png/revision/latest?cb=20160906142708"
+  },
+  {
+    "id": "zenyatta-taunt",
+    "name": "Taunt",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7b/Spray_Zenyatta_Taunt.png/revision/latest?cb=20160906142820"
+  },
+  {
+    "id": "zenyatta-tekhartha",
+    "name": "Tekhartha",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/20/Spray_Zenyatta_Tekhartha.png/revision/latest?cb=20160906142846"
+  },
+  {
+    "id": "zenyatta-throw",
+    "name": "Throw",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bb/Spray_Zenyatta_Throw.png/revision/latest?cb=20160906142909"
+  },
+  {
+    "id": "zenyatta-together",
+    "name": "Together",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/53/Spray_Zenyatta_Together.png/revision/latest?cb=20160906142931"
+  },
+  {
+    "id": "zenyatta-cute",
+    "name": "Cute",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d6/Spray_Zenyatta_Cute.png/revision/latest?cb=20160906142104"
+  },
+  {
+    "id": "zenyatta-pixel",
+    "name": "Pixel",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/11/Spray_Zenyatta_Pixel.png/revision/latest?cb=20230425042927"
+  },
+  {
+    "id": "zenyatta-dev-doodle-zenyatta",
+    "name": "Dev Doodle Zenyatta",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/36/Spray_Zenyatta_Dev_Doodle_Zenyatta.png/revision/latest?cb=20240427012228"
+  },
+  {
+    "id": "zenyatta-dragon-dance",
+    "name": "Dragon Dance",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f4/Spray_Zenyatta_Dragon_Dance.png/revision/latest?cb=20170125024237"
+  },
+  {
+    "id": "zenyatta-yut-nori",
+    "name": "Yut Nori",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/41/Spray_Zenyatta_Yut_Nori.png/revision/latest?cb=20170125024347"
+  },
+  {
+    "id": "zenyatta-deep-in-thought",
+    "name": "Deep In Thought",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/40/Spray_Zenyatta_Deep_In_Thought.png/revision/latest?cb=20240427205209"
+  },
+  {
+    "id": "zenyatta-shell",
+    "name": "Shell",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e9/Spray_Zenyatta_Shell.png/revision/latest?cb=20170505012252"
+  },
+  {
+    "id": "zenyatta-huitzilopochtli",
+    "name": "Huitzilopochtli",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/08/Spray_Zenyatta_Huitzilopochtli.png/revision/latest?cb=20240427221328"
+  },
+  {
+    "id": "zenyatta-king-of-spades",
+    "name": "King of Spades",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f4/Spray_Zenyatta_King_of_Spades.png/revision/latest?cb=20171206023414"
+  },
+  {
+    "id": "zenyatta-taekwondo",
+    "name": "Taekwondo",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4d/Spray_Zenyatta_Taekwondo.png/revision/latest?cb=20240427205734"
+  },
+  {
+    "id": "zenyatta-trick-or-treat",
+    "name": "Trick or Treat",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2e/Spray_Zenyatta_Trick_or_Treat.png/revision/latest?cb=20161011214342"
+  },
+  {
+    "id": "zenyatta-nutcracker",
+    "name": "Nutcracker",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/91/Spray_Zenyatta_Nutcracker.png/revision/latest?cb=20240427012100"
+  },
+  {
+    "id": "zenyatta-ornament",
+    "name": "Ornament",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/32/Spray_Zenyatta_Ornament.png/revision/latest?cb=20161214034207"
+  },
+  {
+    "id": "zenyatta-snowball-fight",
+    "name": "Snowball Fight",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/Spray_Zenyatta_Snowball_Fight.png/revision/latest?cb=20161214034211"
+  },
+  {
+    "id": "zenyatta-toybot",
+    "name": "Toybot",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Spray_Zenyatta_Toybot.png/revision/latest?cb=20240427012112"
+  },
+  {
+    "id": "zenyatta-kaiju-kick",
+    "name": "Kaiju Kick",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/59/Spray_Zenyatta_Kaiju_Kick.png/revision/latest?cb=20240831042758"
+  },
+  {
+    "id": "zenyatta-pixius-gold",
+    "name": "Pixiu's Gold",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d5/Spray_Zenyatta_Pixiu%27s_Gold.png/revision/latest?cb=20250222020326"
+  },
+  {
+    "id": "zenyatta-pixius-seal",
+    "name": "Pixiu's Seal",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/34/Spray_Zenyatta_Pixiu%27s_Seal.png/revision/latest?cb=20250222020313"
+  },
+  {
+    "id": "zenyatta-cursed-teddy-zenyatta",
+    "name": "Cursed Teddy Zenyatta",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "zenyatta-irasshaimase",
+    "name": "Irasshaimase!",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9d/Spray_Zenyatta_Irasshaimase%21.png/revision/latest?cb=20240427012129"
+  },
+  {
+    "id": "zenyatta-pinocchio",
+    "name": "Pinocchio",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c9/Spray_Zenyatta_Pinocchio.png/revision/latest?cb=20240427012156"
+  },
+  {
+    "id": "zenyatta-bathmaster",
+    "name": "Bathmaster",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6f/Spray_Zenyatta_Bathmaster.png/revision/latest?cb=20240427012212"
+  },
+  {
+    "id": "zenyatta-thrall-zenyatta",
+    "name": "Thrall Zenyatta",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cf/Spray_Zenyatta_Thrall_Zenyatta.png/revision/latest?cb=20241023035853"
+  },
+  {
+    "id": "zenyatta-aang-and-ran",
+    "name": "Aang and Ran",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3e/Spray_Zenyatta_Aang_and_Ran.png/revision/latest?cb=20250221010546"
+  },
+  {
+    "id": "zenyatta-8-bit-harmony",
+    "name": "8-bit Harmony",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/61/Spray_Zenyatta_8-Bit_Harmony.png/revision/latest?cb=20250822223330"
+  },
+  {
+    "id": "zenyatta-dhalsim-zenyatta",
+    "name": "Dhalsim Zenyatta",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dd/Spray_Zenyatta_Dhalsim_Zenyatta.png/revision/latest?cb=20250822223310"
+  },
+  {
+    "id": "zenyatta-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Zenyatta_Intro_Heroic.webm"
+  },
+  {
+    "id": "zenyatta-focused",
+    "name": "Focused",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Zenyatta_Intro_Focused.webm"
+  },
+  {
+    "id": "zenyatta-harmony-and-discord",
+    "name": "Harmony and Discord",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Zenyatta_Intro_Harmony_and_Discord.webm"
+  },
+  {
+    "id": "zenyatta-transcendence",
+    "name": "Transcendence",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Zenyatta_Intro_Transcendence.webm"
+  },
+  {
+    "id": "zenyatta-release",
+    "name": "Release",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Zenyatta_Intro_Release.webm"
+  },
+  {
+    "id": "zenyatta-perspective",
+    "name": "Perspective",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Zenyatta_Intro_Perspective.webm"
+  },
+  {
+    "id": "zenyatta-uplift",
+    "name": "Uplift",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Zenyatta_Intro_Uplift.webm"
+  },
+  {
+    "id": "zenyatta-snap-kick",
+    "name": "Snap Kick",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Zenyatta_Intro_Snap_Kick.webm"
+  },
+  {
+    "id": "zenyatta-air-scooter",
+    "name": "Air Scooter",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Zenyatta_Intro_Air_Scooter.webm"
+  },
+  {
+    "id": "zenyatta-doomhammer",
+    "name": "Doomhammer",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Zenyatta_Intro_Doomhammer.webm"
+  },
+  {
+    "id": "zenyatta-focused-fire",
+    "name": "Focused Fire",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Zenyatta_Intro_Focused_Fire.webm"
+  }
+]

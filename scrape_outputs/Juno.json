@@ -1,0 +1,440 @@
+[
+  {
+    "id": "juno-overwatch-2",
+    "name": "Overwatch 2",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/78/Juno_Skin_Overwatch_2.png/revision/latest?cb=20240822233542"
+  },
+  {
+    "id": "juno-mercury",
+    "name": "Mercury",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3e/Juno_Skin_Mercury.png/revision/latest?cb=20240823002730"
+  },
+  {
+    "id": "juno-neptune",
+    "name": "Neptune",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a9/Juno_Skin_Neptune.png/revision/latest?cb=20240823003341"
+  },
+  {
+    "id": "juno-saturn",
+    "name": "Saturn",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e9/Juno_Skin_Saturn.png/revision/latest?cb=20240823004813"
+  },
+  {
+    "id": "juno-venus",
+    "name": "Venus",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7f/Juno_Skin_Venus.png/revision/latest?cb=20240823010754"
+  },
+  {
+    "id": "juno-owcs",
+    "name": "OWCS",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e1/Juno_Skin_OWCS.png/revision/latest?cb=20250228004604"
+  },
+  {
+    "id": "juno-away-owcs",
+    "name": "Away OWCS",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ce/Juno_Skin_Away_OWCS.png/revision/latest?cb=20250228004442"
+  },
+  {
+    "id": "juno-ember",
+    "name": "Ember",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4b/Juno_Skin_Ember.png/revision/latest?cb=20250408211455"
+  },
+  {
+    "id": "juno-scarlet-ember",
+    "name": "Scarlet Ember",
+    "rarity": "legendary",
+    "image_url": null
+  },
+  {
+    "id": "juno-stadium-all-star",
+    "name": "Stadium All-Star",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/18/Juno_Skin_Stadium_All-Star.png/revision/latest?cb=20250424210546"
+  },
+  {
+    "id": "juno-uravity",
+    "name": "Uravity",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a8/Juno_Skin_Uravity.png/revision/latest?cb=20241017221952"
+  },
+  {
+    "id": "juno-celestial",
+    "name": "Celestial",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4e/Juno_Skin_Celestial.png/revision/latest?cb=20250611210046"
+  },
+  {
+    "id": "juno-fearless",
+    "name": "FEARLESS",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f9/Juno_Skin_FEARLESS.png/revision/latest?cb=20250318225639"
+  },
+  {
+    "id": "juno-chun-li",
+    "name": "Chun-Li",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e9/Juno_Skin_Chun-Li.png/revision/latest?cb=20250520182026"
+  },
+  {
+    "id": "juno-freshman-teo-minh",
+    "name": "Freshman Teo Minh",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/Juno_Skin_Freshman_Teo_Minh.png/revision/latest?cb=20250624225929"
+  },
+  {
+    "id": "juno-forget-me-not",
+    "name": "Forget-Me-Not",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a5/Juno_Skin_Forget-Me-Not.png/revision/latest?cb=20250827045851"
+  },
+  {
+    "id": "juno-music-festival",
+    "name": "Music Festival",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2c/Juno_Skin_Music_Festival.png/revision/latest?cb=20250918215047"
+  },
+  {
+    "id": "juno-heart-of-hope",
+    "name": "Heart of Hope",
+    "rarity": "mythic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/20/Juno_Skin_Heart_of_Hope.png/revision/latest?cb=20250611210507"
+  },
+  {
+    "id": "juno-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Juno_Emote_Heroic.webm"
+  },
+  {
+    "id": "juno-disapproving",
+    "name": "Disapproving",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Juno_Emote_Disapproving.webm"
+  },
+  {
+    "id": "juno-giddy",
+    "name": "Giddy",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Juno_Emote_Giddy.webm"
+  },
+  {
+    "id": "juno-laser-training",
+    "name": "Laser Training",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Juno_Emote_Laser_Training.webm"
+  },
+  {
+    "id": "juno-laugh-attack",
+    "name": "Laugh Attack",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Juno_Emote_Laugh_Attack.webm"
+  },
+  {
+    "id": "juno-winding-down",
+    "name": "Winding Down",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Juno_Emote_Winding_Down.webm"
+  },
+  {
+    "id": "juno-galaxy-gazing",
+    "name": "Galaxy Gazing",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Juno_Emote_Galaxy_Gazing.webm"
+  },
+  {
+    "id": "juno-release",
+    "name": "Release!",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Juno_Emote_Release!.webm"
+  },
+  {
+    "id": "juno-crazy-choreography",
+    "name": "Crazy Choreography",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Juno_Emote_Crazy_Choreography.webm"
+  },
+  {
+    "id": "juno-chun-li-wins",
+    "name": "Chun-Li Wins",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Juno_Emote_Chun-Li_Wins.webm"
+  },
+  {
+    "id": "juno-spinning-bird-kick",
+    "name": "Spinning Bird Kick",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Juno_Emote_Spinning_Bird_Kick.webm"
+  },
+  {
+    "id": "juno-cheer-routine",
+    "name": "Cheer Routine",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Juno_Emote_Cheer_Routine.webm"
+  },
+  {
+    "id": "juno-blooming",
+    "name": "Blooming",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "juno-shuffle",
+    "name": "Shuffle",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "juno-game-start",
+    "name": "Game Start",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Juno_Emote_Game_Start.webm"
+  },
+  {
+    "id": "juno-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/78/Juno_Skin_Overwatch_2.png/revision/latest?cb=20240822233542"
+  },
+  {
+    "id": "juno-locked-on",
+    "name": "Locked On",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/Juno_VP_Locked_On.png/revision/latest?cb=20240823011206"
+  },
+  {
+    "id": "juno-ready-stance",
+    "name": "Ready Stance",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/86/Juno_VP_Ready_Stance.png/revision/latest?cb=20240823011241"
+  },
+  {
+    "id": "juno-joyful",
+    "name": "Joyful",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a4/Juno_VP_Joyful.png/revision/latest?cb=20250424210914"
+  },
+  {
+    "id": "juno-salute",
+    "name": "Salute",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d4/Juno_VP_Salute.png/revision/latest?cb=20250827050123"
+  },
+  {
+    "id": "juno-zero-gravity",
+    "name": "Zero Gravity",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9d/Juno_VP_Zero_Gravity.png/revision/latest?cb=20241020153924"
+  },
+  {
+    "id": "juno-crazy-choreography",
+    "name": "Crazy Choreography",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a2/Juno_VP_Crazy_Choreography.png/revision/latest?cb=20250318235137"
+  },
+  {
+    "id": "juno-chun-li-wins",
+    "name": "Chun-Li Wins",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ce/Juno_VP_Chun-Li_Wins.png/revision/latest?cb=20250520182609"
+  },
+  {
+    "id": "juno-cheer-routine",
+    "name": "Cheer Routine",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fe/Juno_VP_Cheer_Routine.png/revision/latest?cb=20250827050133"
+  },
+  {
+    "id": "juno-owcs-trophy",
+    "name": "OWCS Trophy",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "juno-ally-detected",
+    "name": "Ally Detected",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1f/Spray_Juno_Ally_Detected.png/revision/latest?cb=20240831043800"
+  },
+  {
+    "id": "juno-discovery",
+    "name": "Discovery",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f5/Spray_Juno_Discovery.png/revision/latest?cb=20240831043535"
+  },
+  {
+    "id": "juno-enemy-detected",
+    "name": "Enemy Detected",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4d/Spray_Juno_Enemy_Detected.png/revision/latest?cb=20240831043811"
+  },
+  {
+    "id": "juno-greetings",
+    "name": "Greetings",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d2/Spray_Juno_Greetings.png/revision/latest?cb=20240831043554"
+  },
+  {
+    "id": "juno-hyper-ring",
+    "name": "Hyper Ring",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4b/Spray_Juno_Hyper_Ring.png/revision/latest?cb=20240831043608"
+  },
+  {
+    "id": "juno-mars-gazing",
+    "name": "Mars Gazing",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9e/Spray_Juno_Mars_Gazing.png/revision/latest?cb=20240831043650"
+  },
+  {
+    "id": "juno-pulsar-love",
+    "name": "Pulsar Love",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Spray_Juno_Pulsar_Love.png/revision/latest?cb=20240831043701"
+  },
+  {
+    "id": "juno-star-girl",
+    "name": "Star Girl",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e7/Spray_Juno_Star_Girl.png/revision/latest?cb=20240831043713"
+  },
+  {
+    "id": "juno-star-glider",
+    "name": "Star Glider",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/67/Spray_Juno_Star_Glider.png/revision/latest?cb=20240831043720"
+  },
+  {
+    "id": "juno-torpedo-down",
+    "name": "Torpedo Down",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d1/Spray_Juno_Torpedo_Down.png/revision/latest?cb=20240831043731"
+  },
+  {
+    "id": "juno-cute",
+    "name": "Cute",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/49/Spray_Juno_Cute.png/revision/latest?cb=20240831043418"
+  },
+  {
+    "id": "juno-pixel",
+    "name": "Pixel",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/25/Spray_Juno_Pixel.png/revision/latest?cb=20240831043430"
+  },
+  {
+    "id": "juno-uravity",
+    "name": "Uravity",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Spray_Juno_Uravity.png/revision/latest?cb=20241128010604"
+  },
+  {
+    "id": "juno-juno-keychain",
+    "name": "Juno Keychain",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0e/Spray_Juno_Juno_Keychain.png/revision/latest?cb=20240926034105"
+  },
+  {
+    "id": "juno-dev-doodle-juno",
+    "name": "Dev Doodle Juno",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/34/Spray_Juno_Dev_Doodle_Juno.png/revision/latest?cb=20250610011207"
+  },
+  {
+    "id": "juno-ornament",
+    "name": "Ornament",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bd/Spray_Juno_Ornament.png/revision/latest?cb=20241217174138"
+  },
+  {
+    "id": "juno-chun-li-juno",
+    "name": "Chun-Li Juno",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/83/Spray_Juno_Chun-Li_Juno.png/revision/latest?cb=20250527220853"
+  },
+  {
+    "id": "juno-equestrian-juno",
+    "name": "Equestrian Juno",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ce/Spray_Juno_Equestrian_Juno.png/revision/latest?cb=20250913001050"
+  },
+  {
+    "id": "juno-celestial-juno",
+    "name": "Celestial Juno",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/35/Spray_Juno_Celestial_Juno.png/revision/latest?cb=20250221010300"
+  },
+  {
+    "id": "juno-fearless-juno",
+    "name": "FEARLESS Juno",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8d/Spray_Juno_FEARLESS_Juno.png/revision/latest?cb=20250822224113"
+  },
+  {
+    "id": "juno-freshman-teo-minh",
+    "name": "Freshman Teo Minh",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d4/Spray_Juno_Freshman_Teo_Minh.png/revision/latest?cb=20250822224131"
+  },
+  {
+    "id": "juno-forget-me-not-juno",
+    "name": "Forget-Me-Not Juno",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9e/Spray_Juno_Forget-Me-Not_Juno.png/revision/latest?cb=20250913001429"
+  },
+  {
+    "id": "juno-music-festival-juno",
+    "name": "Music Festival Juno",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "juno-ember-fan",
+    "name": "Ember Fan",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d4/Spray_Juno_Ember_Fan.png/revision/latest?cb=20250408220849"
+  },
+  {
+    "id": "juno-phobos-and-deimos",
+    "name": "Phobos and Deimos",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c8/Spray_Juno_Phobos_and_Deimos.png/revision/latest?cb=20250610020617"
+  },
+  {
+    "id": "juno-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Juno_Intro_Heroic.webm"
+  },
+  {
+    "id": "juno-martian-greeting",
+    "name": "Martian Greeting",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Juno_Intro_Martian_Greeting.webm"
+  },
+  {
+    "id": "juno-zero-gravity",
+    "name": "Zero Gravity",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Juno_Intro_Zero_Gravity.webm"
+  },
+  {
+    "id": "juno-hopeful-heart",
+    "name": "Hopeful Heart",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Juno_Intro_Hopeful_Heart.webm"
+  },
+  {
+    "id": "juno-spinning-bird-kick",
+    "name": "Spinning Bird Kick",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Juno_Intro_Spinning_Bird_Kick.webm"
+  }
+]

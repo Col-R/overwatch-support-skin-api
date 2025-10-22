@@ -1,0 +1,638 @@
+[
+  {
+    "id": "baptiste-classic",
+    "name": "Classic",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ec/Baptiste_Skin_Classic.png/revision/latest?cb=20200419225830"
+  },
+  {
+    "id": "baptiste-overwatch-2",
+    "name": "Overwatch 2",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/98/Baptiste_Skin_Overwatch_2.png/revision/latest?cb=20230313221234"
+  },
+  {
+    "id": "baptiste-ble",
+    "name": "Ble",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/41/Baptiste_Skin_Ble.png/revision/latest?cb=20200419225824"
+  },
+  {
+    "id": "baptiste-vyolt",
+    "name": "Vyolèt",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bd/Baptiste_Skin_Vyol%C3%A8t.png/revision/latest?cb=20200419225818"
+  },
+  {
+    "id": "baptiste-vt",
+    "name": "Vèt",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/70/Baptiste_Skin_V%C3%A8t.png/revision/latest?cb=20200419225816"
+  },
+  {
+    "id": "baptiste-wouj",
+    "name": "Wouj",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b6/Baptiste_Skin_Wouj.png/revision/latest?cb=20200419225822"
+  },
+  {
+    "id": "baptiste-camouflage",
+    "name": "Camouflage",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ab/Baptiste_Skin_Camouflage.png/revision/latest?cb=20200419225828"
+  },
+  {
+    "id": "baptiste-wasteland",
+    "name": "Wasteland",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4a/Baptiste_Skin_Wasteland.png/revision/latest?cb=20200419225820"
+  },
+  {
+    "id": "baptiste-terracotta-medic",
+    "name": "Terracotta Medic",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c1/Baptiste_Skin_Terracotta_Medic.png/revision/latest?cb=20220710170958"
+  },
+  {
+    "id": "baptiste-vampire",
+    "name": "Vampire",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b1/Baptiste_Skin_Vampire.png/revision/latest?cb=20200419225815"
+  },
+  {
+    "id": "baptiste-combat-medic",
+    "name": "Combat Medic",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b7/Baptiste_Skin_Combat_Medic.png/revision/latest?cb=20220710170823"
+  },
+  {
+    "id": "baptiste-deluxe",
+    "name": "Deluxe",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5e/Baptiste_Skin_Deluxe.png/revision/latest?cb=20230207220743"
+  },
+  {
+    "id": "baptiste-mummy",
+    "name": "Mummy",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a7/Baptiste_Skin_Mummy.png/revision/latest?cb=20240824182053"
+  },
+  {
+    "id": "baptiste-blue-steel",
+    "name": "Blue Steel",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/Baptiste_Skin_Blue_Steel.png/revision/latest?cb=20221214064911"
+  },
+  {
+    "id": "baptiste-polar",
+    "name": "Polar",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/56/Baptiste_Skin_Polar.png/revision/latest?cb=20240824182133"
+  },
+  {
+    "id": "baptiste-desert-ops",
+    "name": "Desert Ops",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7b/Baptiste_Skin_Desert_Ops.png/revision/latest?cb=20200419225832"
+  },
+  {
+    "id": "baptiste-spec-ops",
+    "name": "Spec Ops",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b5/Baptiste_Skin_Spec_Ops.png/revision/latest?cb=20200419225836"
+  },
+  {
+    "id": "baptiste-buccaneer",
+    "name": "Buccaneer",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ee/Baptiste_Skin_Buccaneer.png/revision/latest?cb=20200419225826"
+  },
+  {
+    "id": "baptiste-pirate",
+    "name": "Pirate",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ef/Baptiste_Skin_Pirate.png/revision/latest?cb=20200419225834"
+  },
+  {
+    "id": "baptiste-talon",
+    "name": "Talon",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/02/Baptiste_Skin_Talon.png/revision/latest?cb=20200419225813"
+  },
+  {
+    "id": "baptiste-funky",
+    "name": "Funky",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7d/Baptiste_Skin_Funky.png/revision/latest?cb=20230313223212"
+  },
+  {
+    "id": "baptiste-arctic-ops",
+    "name": "Arctic Ops",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cd/Baptiste_Skin_Arctic_Ops.png/revision/latest?cb=20221214064740"
+  },
+  {
+    "id": "baptiste-tropical",
+    "name": "Tropical",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5a/Baptiste_Skin_Tropical.png/revision/latest?cb=20230313221956"
+  },
+  {
+    "id": "baptiste-snowboarder",
+    "name": "Snowboarder",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f4/Baptiste_Skin_Snowboarder.png/revision/latest?cb=20230313222540"
+  },
+  {
+    "id": "baptiste-formalwear",
+    "name": "Formalwear",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ce/Baptiste_Skin_Formalwear.png/revision/latest?cb=20231207202325"
+  },
+  {
+    "id": "baptiste-bounty-hunter",
+    "name": "Bounty Hunter",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5a/Baptiste_Skin_Bounty_Hunter.png/revision/latest?cb=20230430100807"
+  },
+  {
+    "id": "baptiste-flirty-flare",
+    "name": "Flirty Flare",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/47/Baptiste_Skin_Flirty_Flare.png/revision/latest?cb=20250217195352"
+  },
+  {
+    "id": "baptiste-archangel",
+    "name": "Archangel",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "baptiste-scorpion",
+    "name": "Scorpion",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/Baptiste_Skin_Scorpion.png/revision/latest?cb=20240418235338"
+  },
+  {
+    "id": "baptiste-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Baptiste_Emote_Heroic.webm"
+  },
+  {
+    "id": "baptiste-come-at-me",
+    "name": "Come At Me",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Baptiste_Emote_Come_At_Me.webm"
+  },
+  {
+    "id": "baptiste-good-one",
+    "name": "Good One",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Baptiste_Emote_Good_One.webm"
+  },
+  {
+    "id": "baptiste-nice-smile",
+    "name": "Nice Smile",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Baptiste_Emote_Nice_Smile.webm"
+  },
+  {
+    "id": "baptiste-scout",
+    "name": "Scout",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Baptiste_Emote_Scout.webm"
+  },
+  {
+    "id": "baptiste-take-a-knee",
+    "name": "Take A Knee",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Baptiste_Emote_Take_A_Knee.webm"
+  },
+  {
+    "id": "baptiste-konpa-dance",
+    "name": "Konpa Dance",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Baptiste_Emote_Konpa_Dance.webm"
+  },
+  {
+    "id": "baptiste-zombie-walk",
+    "name": "Zombie Walk",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Baptiste_Emote_Zombie_Walk.webm"
+  },
+  {
+    "id": "baptiste-mistletoe",
+    "name": "Mistletoe",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Baptiste_Emote_Mistletoe.webm"
+  },
+  {
+    "id": "baptiste-area-sweep",
+    "name": "Area Sweep",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Baptiste_Emote_Area_Sweep.webm"
+  },
+  {
+    "id": "baptiste-rabday",
+    "name": "Rabòday",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Baptiste_Emote_Rab%C3%B2day.webm"
+  },
+  {
+    "id": "baptiste-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6f/Baptiste_VP_Heroic.png/revision/latest?cb=20240527220643"
+  },
+  {
+    "id": "baptiste-on-alert",
+    "name": "On Alert",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a7/Baptiste_VP_On_Alert.png/revision/latest?cb=20240527220805"
+  },
+  {
+    "id": "baptiste-peace-out",
+    "name": "Peace Out",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4c/Baptiste_VP_Peace_Out.png/revision/latest?cb=20240527220854"
+  },
+  {
+    "id": "baptiste-say-cheese",
+    "name": "Say Cheese",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/aa/Baptiste_VP_Say_Cheese.png/revision/latest?cb=20240527221108"
+  },
+  {
+    "id": "baptiste-hot-soup",
+    "name": "Hot Soup",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c2/Baptiste_VP_Hot_Soup.png/revision/latest?cb=20240527221322"
+  },
+  {
+    "id": "baptiste-ta-da",
+    "name": "Ta-Da!",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9a/Baptiste_VP_Ta-Da%21.png/revision/latest?cb=20240527221223"
+  },
+  {
+    "id": "baptiste-pumpkin",
+    "name": "Pumpkin",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/23/Baptiste_VP_Pumpkin.png/revision/latest?cb=20240527221650"
+  },
+  {
+    "id": "baptiste-chuckle",
+    "name": "Chuckle",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b9/Baptiste_VP_Chuckle.png/revision/latest?cb=20240527221612"
+  },
+  {
+    "id": "baptiste-disk-toss",
+    "name": "Disk Toss",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cc/Baptiste_VP_Disk_Toss.png/revision/latest?cb=20240527221735"
+  },
+  {
+    "id": "baptiste-vigilant",
+    "name": "Vigilant",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e7/Baptiste_VP_Vigilant.png/revision/latest?cb=20230430083629"
+  },
+  {
+    "id": "baptiste-attention",
+    "name": "Attention",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Spray_Baptiste_Attention.png/revision/latest?cb=20230420144855"
+  },
+  {
+    "id": "baptiste-baptiste",
+    "name": "Baptiste",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/79/Spray_Baptiste_Baptiste.png/revision/latest?cb=20230420152808"
+  },
+  {
+    "id": "baptiste-choices",
+    "name": "Choices",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0d/Spray_Baptiste_Choices.png/revision/latest?cb=20230420144748"
+  },
+  {
+    "id": "baptiste-close-shave",
+    "name": "Close Shave",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/61/Spray_Baptiste_Close_Shave.png/revision/latest?cb=20230420144733"
+  },
+  {
+    "id": "baptiste-cool-story",
+    "name": "Cool Story",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/40/Spray_Baptiste_Cool_Story.png/revision/latest?cb=20230420144741"
+  },
+  {
+    "id": "baptiste-do-you-even-lift",
+    "name": "Do You Even Lift",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/21/Spray_Baptiste_Do_You_Even_Lift.png/revision/latest?cb=20230420144907"
+  },
+  {
+    "id": "baptiste-goddess",
+    "name": "Goddess",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/36/Spray_Baptiste_Goddess.png/revision/latest?cb=20230420152911"
+  },
+  {
+    "id": "baptiste-hammock",
+    "name": "Hammock",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e0/Spray_Baptiste_Hammock.png/revision/latest?cb=20230420144915"
+  },
+  {
+    "id": "baptiste-helmet",
+    "name": "Helmet",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5e/Spray_Baptiste_Helmet.png/revision/latest?cb=20230420152748"
+  },
+  {
+    "id": "baptiste-hey-there",
+    "name": "Hey There",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b3/Spray_Baptiste_Hey_There.png/revision/latest?cb=20230420152738"
+  },
+  {
+    "id": "baptiste-icon",
+    "name": "Icon",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cf/Spray_Baptiste_Icon.png/revision/latest?cb=20230420144757"
+  },
+  {
+    "id": "baptiste-immortal",
+    "name": "Immortal",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/15/Spray_Baptiste_Immortal.png/revision/latest?cb=20230420144806"
+  },
+  {
+    "id": "baptiste-lieutenant-augustin",
+    "name": "Lieutenant Augustin",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/19/Spray_Baptiste_Lieutenant_Augustin.png/revision/latest?cb=20230420144834"
+  },
+  {
+    "id": "baptiste-long-shadows",
+    "name": "Long Shadows",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/63/Spray_Baptiste_Long_Shadows.png/revision/latest?cb=20230420144848"
+  },
+  {
+    "id": "baptiste-maneuvers",
+    "name": "Maneuvers",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/78/Spray_Baptiste_Maneuvers.png/revision/latest?cb=20230420144557"
+  },
+  {
+    "id": "baptiste-mission-complete",
+    "name": "Mission Complete",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7d/Spray_Baptiste_Mission_Complete.png/revision/latest?cb=20230420144620"
+  },
+  {
+    "id": "baptiste-one-up",
+    "name": "One Up",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c5/Spray_Baptiste_One_Up.png/revision/latest?cb=20230420144605"
+  },
+  {
+    "id": "baptiste-origin",
+    "name": "Origin",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9a/Spray_Baptiste_Origin.png/revision/latest?cb=20230420152758"
+  },
+  {
+    "id": "baptiste-schematic",
+    "name": "Schematic",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/74/Spray_Baptiste_Schematic.png/revision/latest?cb=20230420152919"
+  },
+  {
+    "id": "baptiste-taunt",
+    "name": "Taunt",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ab/Spray_Baptiste_Taunt.png/revision/latest?cb=20230420144628"
+  },
+  {
+    "id": "baptiste-too-powerful",
+    "name": "Too Powerful",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7d/Spray_Baptiste_Too_Powerful.png/revision/latest?cb=20230420144653"
+  },
+  {
+    "id": "baptiste-tropical",
+    "name": "Tropical",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/52/Spray_Baptiste_Tropical.png/revision/latest?cb=20230420152928"
+  },
+  {
+    "id": "baptiste-watchful",
+    "name": "Watchful",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/70/Spray_Baptiste_Watchful.png/revision/latest?cb=20230420152935"
+  },
+  {
+    "id": "baptiste-cute",
+    "name": "Cute",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/56/Spray_Baptiste_Cute.png/revision/latest?cb=20230420144418"
+  },
+  {
+    "id": "baptiste-pixel",
+    "name": "Pixel",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/30/Spray_Baptiste_Pixel.png/revision/latest?cb=20230420144456"
+  },
+  {
+    "id": "baptiste-analyst-nguyen",
+    "name": "Analyst Nguyen",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8c/Spray_Baptiste_Analyst_Nguyen.png/revision/latest?cb=20230420153118"
+  },
+  {
+    "id": "baptiste-combat-medic",
+    "name": "Combat Medic",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e9/Spray_Baptiste_Combat_Medic.png/revision/latest?cb=20230420153019"
+  },
+  {
+    "id": "baptiste-getaway",
+    "name": "Getaway",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/54/Spray_Baptiste_Getaway.png/revision/latest?cb=20230420153126"
+  },
+  {
+    "id": "baptiste-mauga",
+    "name": "Mauga",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b1/Spray_Baptiste_Mauga.png/revision/latest?cb=20230420153003"
+  },
+  {
+    "id": "baptiste-old-buddies",
+    "name": "Old Buddies",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/73/Spray_Baptiste_Old_Buddies.png/revision/latest?cb=20230420153111"
+  },
+  {
+    "id": "baptiste-so-done",
+    "name": "So Done",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2e/Spray_Baptiste_So_Done.png/revision/latest?cb=20230420153035"
+  },
+  {
+    "id": "baptiste-so-fresh",
+    "name": "So Fresh",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bf/Spray_Baptiste_So_Fresh.png/revision/latest?cb=20230420152954"
+  },
+  {
+    "id": "baptiste-working-vacation",
+    "name": "Working Vacation",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cf/Spray_Baptiste_Working_Vacation.png/revision/latest?cb=20230420153043"
+  },
+  {
+    "id": "baptiste-terracotta-squad",
+    "name": "Terracotta Squad",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b7/Spray_Baptiste_Terracotta_Squad.png/revision/latest?cb=20230420154422"
+  },
+  {
+    "id": "baptiste-dragon-dance",
+    "name": "Dragon Dance",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/da/Spray_Baptiste_Dragon_Dance.png/revision/latest?cb=20230420153230"
+  },
+  {
+    "id": "baptiste-lion-dance",
+    "name": "Lion Dance",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2e/Spray_Baptiste_Lion_Dance.png/revision/latest?cb=20230420153237"
+  },
+  {
+    "id": "baptiste-carry",
+    "name": "Carry",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/93/Spray_Baptiste_Carry.png/revision/latest?cb=20230420154854"
+  },
+  {
+    "id": "baptiste-eight-of-hearts",
+    "name": "Eight of Hearts",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3a/Spray_Baptiste_Eight_of_Hearts.png/revision/latest?cb=20230420153335"
+  },
+  {
+    "id": "baptiste-keepin-alive",
+    "name": "Keepin Alive",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2f/Spray_Baptiste_Keepin_Alive.png/revision/latest?cb=20230420153350"
+  },
+  {
+    "id": "baptiste-pole-vault",
+    "name": "Pole Vault",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/70/Spray_Baptiste_Pole_Vault.png/revision/latest?cb=20230420153144"
+  },
+  {
+    "id": "baptiste-trick-or-treat",
+    "name": "Trick Or Treat",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8c/Spray_Baptiste_Trick_Or_Treat.png/revision/latest?cb=20230420153157"
+  },
+  {
+    "id": "baptiste-vampire",
+    "name": "Vampire",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c4/Spray_Baptiste_Vampire.png/revision/latest?cb=20230420153204"
+  },
+  {
+    "id": "baptiste-ornament",
+    "name": "Ornament",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f3/Spray_Baptiste_Ornament.png/revision/latest?cb=20230420153255"
+  },
+  {
+    "id": "baptiste-snowball-fight",
+    "name": "Snowball Fight",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/Spray_Baptiste_Snowball_Fight.png/revision/latest?cb=20230420153303"
+  },
+  {
+    "id": "baptiste-snowboarder",
+    "name": "Snowboarder",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d8/Spray_Baptiste_Snowboarder.png/revision/latest?cb=20230420153312"
+  },
+  {
+    "id": "baptiste-sparkle-and-shine",
+    "name": "Sparkle and Shine",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/41/Spray_Baptiste_Sparkle_and_Shine.png/revision/latest?cb=20240425192916"
+  },
+  {
+    "id": "baptiste-mummy-awakening",
+    "name": "Mummy Awakening",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b0/Spray_Baptiste_Mummy_Awakening.png/revision/latest?cb=20240831042904"
+  },
+  {
+    "id": "baptiste-archangel-baptiste",
+    "name": "Archangel Baptiste",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "baptiste-dev-doodle-baptiste",
+    "name": "Dev Doodle Baptiste",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/86/Spray_Baptiste_Dev_Doodle_Baptiste.png/revision/latest?cb=20250610011100"
+  },
+  {
+    "id": "baptiste-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Baptiste_Intro_Heroic.webm"
+  },
+  {
+    "id": "baptiste-blast-off",
+    "name": "Blast Off",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Baptiste_Intro_Blast_Off.webm"
+  },
+  {
+    "id": "baptiste-closeup",
+    "name": "Closeup",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Baptiste_Intro_Closeup.webm"
+  },
+  {
+    "id": "baptiste-safe-zone",
+    "name": "Safe Zone",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Baptiste_Intro_Safe_Zone.webm"
+  },
+  {
+    "id": "baptiste-discus",
+    "name": "Discus",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Baptiste_Intro_Discus.webm"
+  },
+  {
+    "id": "baptiste-qui-vive",
+    "name": "Qui Vive",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Baptiste_Intro_Qui_Vive.webm"
+  },
+  {
+    "id": "baptiste-patrol",
+    "name": "Patrol",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Baptiste_Intro_Patrol.webm"
+  }
+]

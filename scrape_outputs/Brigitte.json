@@ -1,0 +1,662 @@
+[
+  {
+    "id": "brigitte-classic",
+    "name": "Classic",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/da/Brigitte_Skin_Classic.png/revision/latest?cb=20240224105659"
+  },
+  {
+    "id": "brigitte-overwatch-2",
+    "name": "Overwatch 2",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/68/Brigitte_Skin_Overwatch_2.png/revision/latest?cb=20240224105901"
+  },
+  {
+    "id": "brigitte-bl",
+    "name": "Blå",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3d/Brigitte_Skin_Bl%C3%A5.png/revision/latest?cb=20240224110724"
+  },
+  {
+    "id": "brigitte-grn",
+    "name": "Grön",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/Brigitte_Skin_Gr%C3%B6n.png/revision/latest?cb=20240224110707"
+  },
+  {
+    "id": "brigitte-plommon",
+    "name": "Plommon",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c6/Brigitte_Skin_Plommon.png/revision/latest?cb=20240224110713"
+  },
+  {
+    "id": "brigitte-rd",
+    "name": "Röd",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/Brigitte_Skin_R%C3%B6d.png/revision/latest?cb=20240224110718"
+  },
+  {
+    "id": "brigitte-carbon-fiber",
+    "name": "Carbon Fiber",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ce/Brigitte_Skin_Carbon_Fiber.png/revision/latest?cb=20240224111044"
+  },
+  {
+    "id": "brigitte-ironclad",
+    "name": "Ironclad",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b3/Brigitte_Skin_Ironclad.png/revision/latest?cb=20240224111106"
+  },
+  {
+    "id": "brigitte-general",
+    "name": "General",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/Brigitte_Skin_General.png/revision/latest?cb=20240224111321"
+  },
+  {
+    "id": "brigitte-tre-kronor",
+    "name": "Tre Kronor",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/af/Brigitte_Skin_Tre_Kronor.png/revision/latest?cb=20240224111453"
+  },
+  {
+    "id": "brigitte-stone",
+    "name": "Stone",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c4/Brigitte_Skin_Stone.png/revision/latest?cb=20240224111613"
+  },
+  {
+    "id": "brigitte-ice-queen",
+    "name": "Ice Queen",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c9/Brigitte_Skin_Ice_Queen.png/revision/latest?cb=20221214062342"
+  },
+  {
+    "id": "brigitte-peppermint-bark",
+    "name": "Peppermint Bark",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Brigitte_Skin_Peppermint_Bark.png/revision/latest?cb=20240224111744"
+  },
+  {
+    "id": "brigitte-talon",
+    "name": "Talon",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Brigitte_Skin_Talon.png/revision/latest?cb=20240419012128"
+  },
+  {
+    "id": "brigitte-pearlescent",
+    "name": "Pearlescent",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c6/Brigitte_Skin_Pearlescent.png/revision/latest?cb=20230313212755"
+  },
+  {
+    "id": "brigitte-mni",
+    "name": "Máni",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/44/Brigitte_Skin_M%C3%A1ni.png/revision/latest?cb=20240224112217"
+  },
+  {
+    "id": "brigitte-sl",
+    "name": "Sól",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b5/Brigitte_Skin_S%C3%B3l.png/revision/latest?cb=20240224112231"
+  },
+  {
+    "id": "brigitte-engineer",
+    "name": "Engineer",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1c/Brigitte_Skin_Engineer.png/revision/latest?cb=20240224112237"
+  },
+  {
+    "id": "brigitte-mechanic",
+    "name": "Mechanic",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b9/Brigitte_Skin_Mechanic.png/revision/latest?cb=20240224112224"
+  },
+  {
+    "id": "brigitte-medic",
+    "name": "Medic",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2d/Brigitte_Skin_Medic.png/revision/latest?cb=20221214063408"
+  },
+  {
+    "id": "brigitte-opera",
+    "name": "Opera",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1f/Brigitte_Skin_Opera.png/revision/latest?cb=20221214063147"
+  },
+  {
+    "id": "brigitte-shieldmaiden",
+    "name": "Shieldmaiden",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7f/Brigitte_Skin_Shieldmaiden.png/revision/latest?cb=20240224112658"
+  },
+  {
+    "id": "brigitte-riot-police",
+    "name": "Riot Police",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7a/Brigitte_Skin_Riot_Police.png/revision/latest?cb=20221214062643"
+  },
+  {
+    "id": "brigitte-feskarn",
+    "name": "Feskarn",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e0/Brigitte_Skin_Feskarn.png/revision/latest?cb=20221214062812"
+  },
+  {
+    "id": "brigitte-vampire-hunter",
+    "name": "Vampire Hunter",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f5/Brigitte_Skin_Vampire_Hunter.png/revision/latest?cb=20221214062955"
+  },
+  {
+    "id": "brigitte-sparkplug",
+    "name": "Sparkplug",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2a/Brigitte_Skin_Sparkplug.png/revision/latest?cb=20230915202226"
+  },
+  {
+    "id": "brigitte-solaris",
+    "name": "Solaris",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "brigitte-royal-captain",
+    "name": "Royal Captain",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fe/Brigitte_Skin_Royal_Captain.png/revision/latest?cb=20230518041248"
+  },
+  {
+    "id": "brigitte-azure-drake",
+    "name": "Azure Drake",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/85/Brigitte_Skin_Azure_Drake.png/revision/latest?cb=20230928235327"
+  },
+  {
+    "id": "brigitte-antifragile-bb",
+    "name": "Antifragile BB",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/03/Brigitte_Skin_Antifragile_BB.png/revision/latest?cb=20240320031731"
+  },
+  {
+    "id": "brigitte-polar",
+    "name": "Polar",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/59/Brigitte_Skin_Polar.png/revision/latest?cb=20240824182617"
+  },
+  {
+    "id": "brigitte-turned-hunter",
+    "name": "Turned Hunter",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ab/Brigitte_Skin_Turned_Hunter.png/revision/latest?cb=20241017143407"
+  },
+  {
+    "id": "brigitte-cardboard",
+    "name": "Cardboard",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3f/Brigitte_Skin_Cardboard.png/revision/latest?cb=20241210211430"
+  },
+  {
+    "id": "brigitte-blue-flame",
+    "name": "Blue Flame",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5a/Brigitte_Skin_Blue_Flame.png/revision/latest?cb=20250612153524"
+  },
+  {
+    "id": "brigitte-tyrian-drake",
+    "name": "Tyrian Drake",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "brigitte-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Brigitte_Emote_Heroic.webm"
+  },
+  {
+    "id": "brigitte-cheer",
+    "name": "Cheer",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Brigitte_Emote_Cheer.webm"
+  },
+  {
+    "id": "brigitte-hilarious",
+    "name": "Hilarious",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Brigitte_Emote_Hilarious.webm"
+  },
+  {
+    "id": "brigitte-kneel",
+    "name": "Kneel",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Brigitte_Emote_Kneel.webm"
+  },
+  {
+    "id": "brigitte-recalibrate",
+    "name": "Recalibrate",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Brigitte_Emote_Recalibrate.webm"
+  },
+  {
+    "id": "brigitte-taunt",
+    "name": "Taunt",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Brigitte_Emote_Taunt.webm"
+  },
+  {
+    "id": "brigitte-dance",
+    "name": "Dance",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Brigitte_Emote_Dance.webm"
+  },
+  {
+    "id": "brigitte-power-flail",
+    "name": "Power Flail",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Brigitte_Emote_Power_Flail.webm"
+  },
+  {
+    "id": "brigitte-guard-duty",
+    "name": "Guard Duty",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Brigitte_Emote_Guard_Duty.webm"
+  },
+  {
+    "id": "brigitte-choreography",
+    "name": "Choreography",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Brigitte_Emote_Choreography.webm"
+  },
+  {
+    "id": "brigitte-flail-tricks",
+    "name": "Flail Tricks",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Brigitte_Emote_Flail_Tricks.webm"
+  },
+  {
+    "id": "brigitte-katt",
+    "name": "Katt",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Brigitte_Emote_Katt.webm"
+  },
+  {
+    "id": "brigitte-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3b/Brigitte_VP_Heroic.png/revision/latest?cb=20240527230901"
+  },
+  {
+    "id": "brigitte-confident",
+    "name": "Confident",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e3/Brigitte_VP_Confident.png/revision/latest?cb=20240527230951"
+  },
+  {
+    "id": "brigitte-rally",
+    "name": "Rally",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/08/Brigitte_VP_Rally.png/revision/latest?cb=20240527232152"
+  },
+  {
+    "id": "brigitte-relaxed",
+    "name": "Relaxed",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f7/Brigitte_VP_Relaxed.png/revision/latest?cb=20240527232252"
+  },
+  {
+    "id": "brigitte-sparkling-company",
+    "name": "Sparkling Company",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/27/Brigitte_VP_Sparkling_Company.png/revision/latest?cb=20240527234519"
+  },
+  {
+    "id": "brigitte-kneel",
+    "name": "Kneel",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5c/Brigitte_VP_Kneel.png/revision/latest?cb=20240527234559"
+  },
+  {
+    "id": "brigitte-medal",
+    "name": "Medal",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/57/Brigitte_VP_Medal.png/revision/latest?cb=20240527234722"
+  },
+  {
+    "id": "brigitte-pumpkin",
+    "name": "Pumpkin",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/58/Brigitte_VP_Pumpkin.png/revision/latest?cb=20240527235152"
+  },
+  {
+    "id": "brigitte-toast",
+    "name": "Toast",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d8/Brigitte_VP_Toast.png/revision/latest?cb=20240527235042"
+  },
+  {
+    "id": "brigitte-noble",
+    "name": "Noble",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c6/Brigitte_VP_Noble.png/revision/latest?cb=20230411124713"
+  },
+  {
+    "id": "brigitte-mitzi-pats",
+    "name": "Mitzi Pats",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8d/Brigitte_VP_Mitzi_Pats.png/revision/latest?cb=20240527235520"
+  },
+  {
+    "id": "brigitte-challenge",
+    "name": "Challenge",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Brigitte_VP_Challenge.png/revision/latest?cb=20240527235313"
+  },
+  {
+    "id": "brigitte-drake-egg",
+    "name": "Drake Egg",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/52/Brigitte_VP_Drake_Egg.png/revision/latest?cb=20240527235724"
+  },
+  {
+    "id": "brigitte-bb-pose",
+    "name": "BB Pose",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e3/Brigitte_VP_BB_Pose.png/revision/latest?cb=20240527235635"
+  },
+  {
+    "id": "brigitte-cat-in-the-box",
+    "name": "Cat-In-The-Box",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/43/Brigitte_VP_Cat-In-The-Box.png/revision/latest?cb=20250219055627"
+  },
+  {
+    "id": "brigitte-adjustment",
+    "name": "Adjustment",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/40/Spray_Brigitte_Adjustment.png/revision/latest?cb=20181017135138"
+  },
+  {
+    "id": "brigitte-apprentice",
+    "name": "Apprentice",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/91/Spray_Brigitte_Apprentice.png/revision/latest?cb=20181017135214"
+  },
+  {
+    "id": "brigitte-armor",
+    "name": "Armor",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a3/Spray_Brigitte_Armor.png/revision/latest?cb=20181017135237"
+  },
+  {
+    "id": "brigitte-armored-lion",
+    "name": "Armored Lion",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2d/Spray_Brigitte_Armored_Lion.png/revision/latest?cb=20181017135255"
+  },
+  {
+    "id": "brigitte-cat-person",
+    "name": "Cat Person",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ef/Spray_Brigitte_Cat_Person.png/revision/latest?cb=20181017135314"
+  },
+  {
+    "id": "brigitte-challenge",
+    "name": "Challenge",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/eb/Spray_Brigitte_Challenge.png/revision/latest?cb=20181017135333"
+  },
+  {
+    "id": "brigitte-dessert",
+    "name": "Dessert",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3f/Spray_Brigitte_Dessert.png/revision/latest?cb=20181017135400"
+  },
+  {
+    "id": "brigitte-flail-with-chain",
+    "name": "Flail with Chain",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Spray_Brigitte_Flail_with_Chain.png/revision/latest?cb=20181017135515"
+  },
+  {
+    "id": "brigitte-fuel",
+    "name": "Fuel",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/34/Spray_Brigitte_Fuel.png/revision/latest?cb=20181017135533"
+  },
+  {
+    "id": "brigitte-heraldry",
+    "name": "Heraldry",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a2/Spray_Brigitte_Heraldry.png/revision/latest?cb=20181017135556"
+  },
+  {
+    "id": "brigitte-high-five",
+    "name": "High Five",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Spray_Brigitte_High_Five.png/revision/latest?cb=20181017135616"
+  },
+  {
+    "id": "brigitte-icon",
+    "name": "Icon",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/de/Spray_Brigitte_Icon.png/revision/latest?cb=20181017135634"
+  },
+  {
+    "id": "brigitte-lindholms",
+    "name": "Lindholms",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/35/Spray_Brigitte_Lindholms.png/revision/latest?cb=20181017135702"
+  },
+  {
+    "id": "brigitte-mounted-combat",
+    "name": "Mounted Combat",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/ba/Spray_Brigitte_Mounted_Combat.png/revision/latest?cb=20181017135731"
+  },
+  {
+    "id": "brigitte-paj",
+    "name": "Paj",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1e/Spray_Brigitte_Paj.png/revision/latest?cb=20181017135749"
+  },
+  {
+    "id": "brigitte-prints",
+    "name": "Prints",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2b/Spray_Brigitte_Prints.png/revision/latest?cb=20181017135809"
+  },
+  {
+    "id": "brigitte-raketblte",
+    "name": "Raketbälte",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4d/Spray_Brigitte_Raketb%C3%A4lte.png/revision/latest?cb=20181017135841"
+  },
+  {
+    "id": "brigitte-rally",
+    "name": "Rally",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/45/Spray_Brigitte_Rally.png/revision/latest?cb=20181017135901"
+  },
+  {
+    "id": "brigitte-skl",
+    "name": "Skål!",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6b/Spray_Brigitte_Sk%C3%A5l%21.png/revision/latest?cb=20181017135928"
+  },
+  {
+    "id": "brigitte-stories",
+    "name": "Stories",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f9/Spray_Brigitte_Stories.png/revision/latest?cb=20181017135946"
+  },
+  {
+    "id": "brigitte-training",
+    "name": "Training",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1c/Spray_Brigitte_Training.png/revision/latest?cb=20181017140005"
+  },
+  {
+    "id": "brigitte-wink",
+    "name": "Wink",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c0/Spray_Brigitte_Wink.png/revision/latest?cb=20181017140027"
+  },
+  {
+    "id": "brigitte-wrestle",
+    "name": "Wrestle",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/42/Spray_Brigitte_Wrestle.png/revision/latest?cb=20181017140046"
+  },
+  {
+    "id": "brigitte-cute",
+    "name": "Cute",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/32/Spray_Brigitte_Cute.png/revision/latest?cb=20240427210528"
+  },
+  {
+    "id": "brigitte-pixel",
+    "name": "Pixel",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/18/Spray_Brigitte_Pixel.png/revision/latest?cb=20230425042715"
+  },
+  {
+    "id": "brigitte-semlor",
+    "name": "Semlor",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/46/Spray_Brigitte_Semlor.png/revision/latest?cb=20230425223154"
+  },
+  {
+    "id": "brigitte-dragon-dance",
+    "name": "Dragon Dance",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Spray_Brigitte_Dragon_Dance.png/revision/latest?cb=20240224124708"
+  },
+  {
+    "id": "brigitte-feast",
+    "name": "Feast",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/45/Spray_Brigitte_Feast.png/revision/latest?cb=20240224124811"
+  },
+  {
+    "id": "brigitte-opera-warrior",
+    "name": "Opera Warrior",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f6/Spray_Brigitte_Opera_Warrior.png/revision/latest?cb=20240224124823"
+  },
+  {
+    "id": "brigitte-frustrated",
+    "name": "Frustrated",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/98/Spray_Brigitte_Frustrated.png/revision/latest?cb=20181017140522"
+  },
+  {
+    "id": "brigitte-eight-of-spades",
+    "name": "Eight of Spades",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/81/Spray_Brigitte_Eight_of_Spades.png/revision/latest?cb=20181017140628"
+  },
+  {
+    "id": "brigitte-hammer-throw",
+    "name": "Hammer Throw",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/82/Spray_Brigitte_Hammer_Throw.png/revision/latest?cb=20181017140133"
+  },
+  {
+    "id": "brigitte-trick-or-treat",
+    "name": "Trick or Treat",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/Spray_Brigitte_Trick_or_Treat.png/revision/latest?cb=20181017140424"
+  },
+  {
+    "id": "brigitte-vampire-hunter",
+    "name": "Vampire Hunter",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/Spray_Brigitte_Vampire_Hunter.png/revision/latest?cb=20240224125341"
+  },
+  {
+    "id": "brigitte-stone",
+    "name": "Stone",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/13/Spray_Brigitte_Stone.png/revision/latest?cb=20240224125316"
+  },
+  {
+    "id": "brigitte-knitting",
+    "name": "Knitting",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9b/Spray_Brigitte_Knitting.png/revision/latest?cb=20190108234343"
+  },
+  {
+    "id": "brigitte-ornament",
+    "name": "Ornament",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/35/Spray_Brigitte_Ornament.png/revision/latest?cb=20190108234353"
+  },
+  {
+    "id": "brigitte-peppermint-bark",
+    "name": "Peppermint Bark",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cb/Spray_Brigitte_Peppermint_Bark.png/revision/latest?cb=20240224123507"
+  },
+  {
+    "id": "brigitte-talons-pet",
+    "name": "Talon's Pet",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/84/Spray_Brigitte_Talon%27s_Pet.png/revision/latest?cb=20240425154748"
+  },
+  {
+    "id": "brigitte-calliopes-heart",
+    "name": "Calliope's Heart",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/32/Spray_Brigitte_Calliope%27s_Heart.png/revision/latest?cb=20250610020817"
+  },
+  {
+    "id": "brigitte-cute-talon-brigitte",
+    "name": "Cute Talon Brigitte",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/21/Spray_Brigitte_Cute_Talon_Brigitte.png/revision/latest?cb=20240425155336"
+  },
+  {
+    "id": "brigitte-mitzi-ice-sculpture",
+    "name": "Mitzi Ice Sculpture",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "brigitte-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Brigitte_Intro_Heroic.webm"
+  },
+  {
+    "id": "brigitte-defender",
+    "name": "Defender",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Brigitte_Intro_Defender.webm"
+  },
+  {
+    "id": "brigitte-flail",
+    "name": "Flail",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Brigitte_Intro_Flail.webm"
+  },
+  {
+    "id": "brigitte-rally",
+    "name": "Rally",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Brigitte_Intro_Rally.webm"
+  },
+  {
+    "id": "brigitte-shield-bash",
+    "name": "Shield Bash",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Brigitte_Intro_Shield_Bash.webm"
+  },
+  {
+    "id": "brigitte-strong-heart",
+    "name": "Strong Heart",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Brigitte_Intro_Strong_Heart.webm"
+  }
+]

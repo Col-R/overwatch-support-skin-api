@@ -1,0 +1,2553 @@
+[
+  {
+    "id": "ana",
+    "name": "Ana",
+    "role": "support",
+    "portrait_url": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3429c394716364bbef802180e9763d04812757c205e1b4568bc321772096ed86.png",
+    "skins": [
+        {
+            "id": "ana-classic",
+            "name": "Classic",
+            "rarity": "common",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Ana_Skin_Classic.png/revision/latest?cb=20240330121756"
+        },
+        {
+            "id": "ana-overwatch-2",
+            "name": "Overwatch 2",
+            "rarity": "common",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6e/Ana_Skin_Overwatch_2.png/revision/latest?cb=20230309221110"
+        },
+        {
+            "id": "ana-citrine",
+            "name": "Citrine",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3e/Ana_Skin_Citrine.png/revision/latest?cb=20240330122101"
+        },
+        {
+            "id": "ana-garnet",
+            "name": "Garnet",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/41/Ana_Skin_Garnet.png/revision/latest?cb=20240330124344"
+        },
+        {
+            "id": "ana-peridot",
+            "name": "Peridot",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6f/Ana_Skin_Peridot.png/revision/latest?cb=20240330125243"
+        },
+        {
+            "id": "ana-turquoise",
+            "name": "Turquoise",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/Ana_Skin_Turquoise.png/revision/latest?cb=20240330125415"
+        },
+        {
+            "id": "ana-merciful",
+            "name": "Merciful",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4f/Ana_Skin_Merciful.png/revision/latest?cb=20240330130047"
+        },
+        {
+            "id": "ana-shrike",
+            "name": "Shrike",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7f/Ana_Skin_Shrike.png/revision/latest?cb=20240330130724"
+        },
+        {
+            "id": "ana-tal",
+            "name": "Tal",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/eb/Ana_Skin_Tal.png/revision/latest?cb=20240330130919"
+        },
+        {
+            "id": "ana-cybermedic",
+            "name": "Cybermedic",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c0/Ana_Skin_Cybermedic.png/revision/latest?cb=20240330131400"
+        },
+        {
+            "id": "ana-ghoul",
+            "name": "Ghoul",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8c/Ana_Skin_Ghoul.png/revision/latest?cb=20240330132537"
+        },
+        {
+            "id": "ana-gingerbread",
+            "name": "Gingerbread",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/82/Ana_Skin_Gingerbread.png/revision/latest?cb=20221214065534"
+        },
+        {
+            "id": "ana-bastet",
+            "name": "Bastet",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/17/Ana_Skin_Bastet.png/revision/latest?cb=20190109032244"
+        },
+        {
+            "id": "ana-spiritwarder",
+            "name": "Spiritwarder",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Ana_Skin_Spiritwarder.png/revision/latest?cb=20230915203153"
+        },
+        {
+            "id": "ana-polar",
+            "name": "Polar",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ae/Ana_Skin_Polar.png/revision/latest?cb=20230621180243"
+        },
+        {
+            "id": "ana-sakura",
+            "name": "Sakura",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/95/Ana_Skin_Sakura.png/revision/latest?cb=20250825155713"
+        },
+        {
+            "id": "ana-midnight-camo",
+            "name": "Midnight Camo",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bd/Ana_Skin_Midnight_Camo.png/revision/latest?cb=20230309221448"
+        },
+        {
+            "id": "ana-sanguine-curse",
+            "name": "Sanguine Curse",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3e/Ana_Skin_Sanguine_Curse.png/revision/latest?cb=20240215190351"
+        },
+        {
+            "id": "ana-ultrawatch",
+            "name": "Ultrawatch",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b9/Ana_Skin_Ultrawatch.png/revision/latest?cb=20240623195752"
+        },
+        {
+            "id": "ana-lightbringer",
+            "name": "Lightbringer",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/85/Ana_Skin_Lightbringer.png/revision/latest?cb=20250825155538"
+        },
+        {
+            "id": "ana-elite",
+            "name": "Elite",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4d/Ana_Skin_Elite.png/revision/latest?cb=20250827041206"
+        },
+        {
+            "id": "ana-wadjet",
+            "name": "Wadjet",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e1/Ana_Skin_Wadjet.png/revision/latest?cb=20160910203436"
+        },
+        {
+            "id": "ana-wasteland",
+            "name": "Wasteland",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Ana_Skin_Wasteland.png/revision/latest?cb=20160910203445"
+        },
+        {
+            "id": "ana-captain-amari",
+            "name": "Captain Amari",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Ana_Skin_Captain_Amari.png/revision/latest?cb=20160910203304"
+        },
+        {
+            "id": "ana-horus",
+            "name": "Horus",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8e/Ana_Skin_Horus.png/revision/latest?cb=20160910203343"
+        },
+        {
+            "id": "ana-sniper",
+            "name": "Sniper",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6a/Ana_Skin_Sniper.png/revision/latest?cb=20210418104921"
+        },
+        {
+            "id": "ana-night-owl",
+            "name": "Night Owl",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9c/Ana_Skin_Night_Owl.png/revision/latest?cb=20220518043514"
+        },
+        {
+            "id": "ana-cabana",
+            "name": "Cabana",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b9/Ana_Skin_Cabana.png/revision/latest?cb=20180810021715"
+        },
+        {
+            "id": "ana-snow-owl",
+            "name": "Snow Owl",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/75/Ana_Skin_Snow_Owl.png/revision/latest?cb=20171216133834"
+        },
+        {
+            "id": "ana-botanist",
+            "name": "Botanist",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/21/Ana_Skin_Botanist.png/revision/latest?cb=20221214070040"
+        },
+        {
+            "id": "ana-nighthawker",
+            "name": "Nighthawker",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/06/Ana_Skin_Nighthawker.png/revision/latest?cb=20231207200829"
+        },
+        {
+            "id": "ana-oni",
+            "name": "Oni",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/89/Ana_Skin_Oni.png/revision/latest?cb=20240824180846"
+        },
+        {
+            "id": "ana-bog-witch",
+            "name": "Bog Witch",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/72/Ana_Skin_Bog_Witch.png/revision/latest?cb=20241017114915"
+        },
+        {
+            "id": "ana-blackbraid",
+            "name": "Blackbraid",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d1/Ana_Skin_Blackbraid.png/revision/latest?cb=20231207195752"
+        },
+        {
+            "id": "ana-arch-commandant-amari",
+            "name": "Arch-Commandant Amari",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bc/Ana_Skin_Arch-Commandant_Amari.png/revision/latest?cb=20240418234827"
+        },
+        {
+            "id": "ana-stakeout",
+            "name": "Stakeout",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c4/Ana_Skin_Stakeout.png/revision/latest?cb=20240516154012"
+        },
+        {
+            "id": "ana-tomb-walker",
+            "name": "Tomb Walker",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f8/Ana_Skin_Tomb_Walker.png/revision/latest?cb=20240824181059"
+        },
+        {
+            "id": "ana-demon",
+            "name": "Demon",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Ana_Skin_Demon.png/revision/latest?cb=20250827041134"
+        },
+        {
+            "id": "ana-blue-lotus",
+            "name": "Blue Lotus",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/60/Ana_Skin_Blue_Lotus.png/revision/latest?cb=20250827041152"
+        },
+        {
+            "id": "ana-cosmic",
+            "name": "Cosmic",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/29/Ana_Skin_Cosmic.png/revision/latest?cb=20250601183000"
+        },
+        {
+            "id": "ana-a-7000-wargod",
+            "name": "A-7000 Wargod",
+            "rarity": "mythic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2a/Ana_Skin_A-7000_Wargod.png/revision/latest?cb=20240503031333"
+        }
+    ]
+  },
+  {
+    "id": "baptiste",
+    "name": "Baptiste",
+    "role": "support",
+    "portrait_url": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f979896f74ba22db2a92a85ae1260124ab0a26665957a624365e0f96e5ac5b5c.png",
+    "skins": [
+        {
+            "id": "baptiste-classic",
+            "name": "Classic",
+            "rarity": "common",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ec/Baptiste_Skin_Classic.png/revision/latest?cb=20200419225830"
+        },
+        {
+            "id": "baptiste-overwatch-2",
+            "name": "Overwatch 2",
+            "rarity": "common",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/98/Baptiste_Skin_Overwatch_2.png/revision/latest?cb=20230313221234"
+        },
+        {
+            "id": "baptiste-ble",
+            "name": "Ble",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/41/Baptiste_Skin_Ble.png/revision/latest?cb=20200419225824"
+        },
+        {
+            "id": "baptiste-vyolet",
+            "name": "Vyolèt",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bd/Baptiste_Skin_Vyol%C3%A8t.png/revision/latest?cb=20200419225818"
+        },
+        {
+            "id": "baptiste-vet",
+            "name": "Vèt",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/70/Baptiste_Skin_V%C3%A8t.png/revision/latest?cb=20200419225816"
+        },
+        {
+            "id": "baptiste-wouj",
+            "name": "Wouj",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b6/Baptiste_Skin_Wouj.png/revision/latest?cb=20200419225822"
+        },
+        {
+            "id": "baptiste-camouflage",
+            "name": "Camouflage",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ab/Baptiste_Skin_Camouflage.png/revision/latest?cb=20200419225828"
+        },
+        {
+            "id": "baptiste-wasteland",
+            "name": "Wasteland",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4a/Baptiste_Skin_Wasteland.png/revision/latest?cb=20200419225820"
+        },
+        {
+            "id": "baptiste-terracotta-medic",
+            "name": "Terracotta Medic",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c1/Baptiste_Skin_Terracotta_Medic.png/revision/latest?cb=20220710170958"
+        },
+        {
+            "id": "baptiste-vampire",
+            "name": "Vampire",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b1/Baptiste_Skin_Vampire.png/revision/latest?cb=20200419225815"
+        },
+        {
+            "id": "baptiste-combat-medic",
+            "name": "Combat Medic",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b7/Baptiste_Skin_Combat_Medic.png/revision/latest?cb=20220710170823"
+        },
+        {
+            "id": "baptiste-deluxe",
+            "name": "Deluxe",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5e/Baptiste_Skin_Deluxe.png/revision/latest?cb=20230207220743"
+        },
+        {
+            "id": "baptiste-mummy",
+            "name": "Mummy",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a7/Baptiste_Skin_Mummy.png/revision/latest?cb=20240824182053"
+        },
+        {
+            "id": "baptiste-blue-steel",
+            "name": "Blue Steel",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/Baptiste_Skin_Blue_Steel.png/revision/latest?cb=20221214064911"
+        },
+        {
+            "id": "baptiste-polar",
+            "name": "Polar",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/56/Baptiste_Skin_Polar.png/revision/latest?cb=20240824182133"
+        },
+        {
+            "id": "baptiste-desert-ops",
+            "name": "Desert Ops",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7b/Baptiste_Skin_Desert_Ops.png/revision/latest?cb=20200419225832"
+        },
+        {
+            "id": "baptiste-spec-ops",
+            "name": "Spec Ops",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b5/Baptiste_Skin_Spec_Ops.png/revision/latest?cb=20200419225836"
+        },
+        {
+            "id": "baptiste-buccaneer",
+            "name": "Buccaneer",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ee/Baptiste_Skin_Buccaneer.png/revision/latest?cb=20200419225826"
+        },
+        {
+            "id": "baptiste-pirate",
+            "name": "Pirate",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ef/Baptiste_Skin_Pirate.png/revision/latest?cb=20200419225834"
+        },
+        {
+            "id": "baptiste-talon",
+            "name": "Talon",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/02/Baptiste_Skin_Talon.png/revision/latest?cb=20200419225813"
+        },
+        {
+            "id": "baptiste-funky",
+            "name": "Funky",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7d/Baptiste_Skin_Funky.png/revision/latest?cb=20230313223212"
+        },
+        {
+            "id": "baptiste-arctic-ops",
+            "name": "Arctic Ops",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cd/Baptiste_Skin_Arctic_Ops.png/revision/latest?cb=20221214064740"
+        },
+        {
+            "id": "baptiste-tropical",
+            "name": "Tropical",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5a/Baptiste_Skin_Tropical.png/revision/latest?cb=20230313221956"
+        },
+        {
+            "id": "baptiste-snowboarder",
+            "name": "Snowboarder",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f4/Baptiste_Skin_Snowboarder.png/revision/latest?cb=20230313222540"
+        },
+        {
+            "id": "baptiste-formalwear",
+            "name": "Formalwear",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ce/Baptiste_Skin_Formalwear.png/revision/latest?cb=20231207202325"
+        },
+        {
+            "id": "baptiste-bounty-hunter",
+            "name": "Bounty Hunter",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5a/Baptiste_Skin_Bounty_Hunter.png/revision/latest?cb=20230430100807"
+        },
+        {
+            "id": "baptiste-flirty-flare",
+            "name": "Flirty Flare",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/47/Baptiste_Skin_Flirty_Flare.png/revision/latest?cb=20250217195352"
+        },
+        {
+            "id": "baptiste-archangel",
+            "name": "Archangel",
+            "rarity": "legendary",
+            "image_url": null
+        },
+        {
+            "id": "baptiste-scorpion",
+            "name": "Scorpion",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f1/Baptiste_Skin_Scorpion.png/revision/latest?cb=20240418235338"
+        }
+    ]
+  },
+  {
+    "id": "brigitte",
+    "name": "Brigitte",
+    "role": "support",
+    "portrait_url": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/48392820c6976ee1cd8dde13e71df85bf15560083ee5c8658fe7c298095d619a.png",
+    "skins": [
+        {
+            "id": "brigitte-classic",
+            "name": "Classic",
+            "rarity": "common",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/da/Brigitte_Skin_Classic.png/revision/latest?cb=20240224105659"
+        },
+        {
+            "id": "brigitte-overwatch-2",
+            "name": "Overwatch 2",
+            "rarity": "common",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/68/Brigitte_Skin_Overwatch_2.png/revision/latest?cb=20240224105901"
+        },
+        {
+            "id": "brigitte-bla",
+            "name": "Blå",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3d/Brigitte_Skin_Bl%C3%A5.png/revision/latest?cb=20240224110724"
+        },
+        {
+            "id": "brigitte-gron",
+            "name": "Grön",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/Brigitte_Skin_Gr%C3%B6n.png/revision/latest?cb=20240224110707"
+        },
+        {
+            "id": "brigitte-plommon",
+            "name": "Plommon",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c6/Brigitte_Skin_Plommon.png/revision/latest?cb=20240224110713"
+        },
+        {
+            "id": "brigitte-rod",
+            "name": "Röd",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/Brigitte_Skin_R%C3%B6d.png/revision/latest?cb=20240224110718"
+        },
+        {
+            "id": "brigitte-carbon-fiber",
+            "name": "Carbon Fiber",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ce/Brigitte_Skin_Carbon_Fiber.png/revision/latest?cb=20240224111044"
+        },
+        {
+            "id": "brigitte-ironclad",
+            "name": "Ironclad",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b3/Brigitte_Skin_Ironclad.png/revision/latest?cb=20240224111106"
+        },
+        {
+            "id": "brigitte-general",
+            "name": "General",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/Brigitte_Skin_General.png/revision/latest?cb=20240224111321"
+        },
+        {
+            "id": "brigitte-tre-kronor",
+            "name": "Tre Kronor",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/af/Brigitte_Skin_Tre_Kronor.png/revision/latest?cb=20240224111453"
+        },
+        {
+            "id": "brigitte-stone",
+            "name": "Stone",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c4/Brigitte_Skin_Stone.png/revision/latest?cb=20240224111613"
+        },
+        {
+            "id": "brigitte-ice-queen",
+            "name": "Ice Queen",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c9/Brigitte_Skin_Ice_Queen.png/revision/latest?cb=20221214062342"
+        },
+        {
+            "id": "brigitte-peppermint-bark",
+            "name": "Peppermint Bark",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Brigitte_Skin_Peppermint_Bark.png/revision/latest?cb=20240224111744"
+        },
+        {
+            "id": "brigitte-talon",
+            "name": "Talon",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Brigitte_Skin_Talon.png/revision/latest?cb=20240419012128"
+        },
+        {
+            "id": "brigitte-pearlescent",
+            "name": "Pearlescent",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c6/Brigitte_Skin_Pearlescent.png/revision/latest?cb=20230313212755"
+        },
+        {
+            "id": "brigitte-mani",
+            "name": "Máni",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/44/Brigitte_Skin_M%C3%A1ni.png/revision/latest?cb=20240224112217"
+        },
+        {
+            "id": "brigitte-sol",
+            "name": "Sól",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b5/Brigitte_Skin_S%C3%B3l.png/revision/latest?cb=20240224112231"
+        },
+        {
+            "id": "brigitte-engineer",
+            "name": "Engineer",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1c/Brigitte_Skin_Engineer.png/revision/latest?cb=20240224112237"
+        },
+        {
+            "id": "brigitte-mechanic",
+            "name": "Mechanic",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b9/Brigitte_Skin_Mechanic.png/revision/latest?cb=20240224112224"
+        },
+        {
+            "id": "brigitte-medic",
+            "name": "Medic",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2d/Brigitte_Skin_Medic.png/revision/latest?cb=20221214063408"
+        },
+        {
+            "id": "brigitte-opera",
+            "name": "Opera",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1f/Brigitte_Skin_Opera.png/revision/latest?cb=20221214063147"
+        },
+        {
+            "id": "brigitte-shieldmaiden",
+            "name": "Shieldmaiden",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7f/Brigitte_Skin_Shieldmaiden.png/revision/latest?cb=20240224112658"
+        },
+        {
+            "id": "brigitte-riot-police",
+            "name": "Riot Police",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7a/Brigitte_Skin_Riot_Police.png/revision/latest?cb=20221214062643"
+        },
+        {
+            "id": "brigitte-feskarn",
+            "name": "Feskarn",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e0/Brigitte_Skin_Feskarn.png/revision/latest?cb=20221214062812"
+        },
+        {
+            "id": "brigitte-vampire-hunter",
+            "name": "Vampire Hunter",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f5/Brigitte_Skin_Vampire_Hunter.png/revision/latest?cb=20221214062955"
+        },
+        {
+            "id": "brigitte-sparkplug",
+            "name": "Sparkplug",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2a/Brigitte_Skin_Sparkplug.png/revision/latest?cb=20230915202226"
+        },
+        {
+            "id": "brigitte-goat",
+            "name": "Goat",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4e/Brigitte_Skin_Goat.png/revision/latest?cb=20221214074413"
+        },
+        {
+            "id": "brigitte-heart-of-strength",
+            "name": "Heart of Strength",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/12/Brigitte_Skin_Heart_of_Strength.png/revision/latest?cb=20250612153114"
+        },
+        {
+            "id": "brigitte-solaris",
+            "name": "Solaris",
+            "rarity": "legendary",
+            "image_url": null
+        },
+        {
+            "id": "brigitte-royal-captain",
+            "name": "Royal Captain",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fe/Brigitte_Skin_Royal_Captain.png/revision/latest?cb=20230518041248"
+        },
+        {
+            "id": "brigitte-azure-drake",
+            "name": "Azure Drake",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/85/Brigitte_Skin_Azure_Drake.png/revision/latest?cb=20230928235327"
+        },
+        {
+            "id": "brigitte-antifragile-bb",
+            "name": "Antifragile BB",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/03/Brigitte_Skin_Antifragile_BB.png/revision/latest?cb=20240320031731"
+        },
+        {
+            "id": "brigitte-polar",
+            "name": "Polar",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/59/Brigitte_Skin_Polar.png/revision/latest?cb=20240824182617"
+        },
+        {
+            "id": "brigitte-turned-hunter",
+            "name": "Turned Hunter",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ab/Brigitte_Skin_Turned_Hunter.png/revision/latest?cb=20241017143407"
+        },
+        {
+            "id": "brigitte-cardboard",
+            "name": "Cardboard",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3f/Brigitte_Skin_Cardboard.png/revision/latest?cb=20241210211430"
+        },
+        {
+            "id": "brigitte-blue-flame",
+            "name": "Blue Flame",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5a/Brigitte_Skin_Blue_Flame.png/revision/latest?cb=20250612153524"
+        },
+        {
+            "id": "brigitte-tyrian-drake",
+            "name": "Tyrian Drake",
+            "rarity": "legendary",
+            "image_url": null
+        }
+    ]
+  },
+  {
+    "id": "illari",
+    "name": "Illari",
+    "role": "support",
+    "portrait_url": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/5ea986038f9d307bd4613d5e6f2c4c8e7f15f30ceeeabbdd7a06637a38f17e1f.png",
+    "skins": [           
+        {
+            "id": "illari-overwatch-2",
+            "name": "Overwatch 2",
+            "rarity": "common",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/74/Illari_Skin_Overwatch_2.png/revision/latest?cb=20240507030820"
+        },
+        {
+            "id": "illari-anqas",
+            "name": "Anqas",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Illari_Skin_Anqas.png/revision/latest?cb=20230827093359"
+        },
+        {
+            "id": "illari-chumpi",
+            "name": "Chumpi",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b5/Illari_Skin_Chumpi.png/revision/latest?cb=20230827092841"
+        },
+        {
+            "id": "illari-kulli",
+            "name": "Kulli",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/67/Illari_Skin_Kulli.png/revision/latest?cb=20230827093746"
+        },
+        {
+            "id": "illari-qumir",
+            "name": "Qumir",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/Illari_Skin_Qumir.png/revision/latest?cb=20230827094214"
+        },
+        {
+            "id": "illari-amethyst",
+            "name": "Amethyst",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Illari_Skin_Amethyst.png/revision/latest?cb=20230915200120"
+        },
+        {
+            "id": "illari-eclipse",
+            "name": "Eclipse",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7b/Illari_Skin_Eclipse.png/revision/latest?cb=20230915200210"
+        },
+        {
+            "id": "illari-nightfall",
+            "name": "Nightfall",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/23/Illari_Skin_Nightfall.png/revision/latest?cb=20231013200942"
+        },
+        {
+            "id": "illari-sophomore-ruiz",
+            "name": "Sophomore Ruiz",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e7/Illari_Skin_Sophomore_Ruiz.png/revision/latest?cb=20250825154025"
+        },
+        {
+            "id": "illari-shadowchild",
+            "name": "Shadowchild",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/67/Illari_Skin_Shadowchild.png/revision/latest?cb=20240215192227"
+        },
+        {
+            "id": "illari-daybreak",
+            "name": "Daybreak",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/83/Illari_Skin_Daybreak.png/revision/latest?cb=20230827094926"
+        },
+        {
+            "id": "illari-sundown",
+            "name": "Sundown",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/12/Illari_Skin_Sundown.png/revision/latest?cb=20230827095521"
+        },
+        {
+            "id": "illari-llama-pajamas",
+            "name": "Llama Pajamas",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8a/Illari_Skin_Llama_Pajamas.png/revision/latest?cb=20230827100117"
+        },
+        {
+            "id": "illari-nightraven",
+            "name": "Nightraven",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/06/Illari_Skin_Nightraven.png/revision/latest?cb=20231013201021"
+        },
+        {
+            "id": "illari-thoth",
+            "name": "Thoth",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0d/Illari_Skin_Thoth.png/revision/latest?cb=20240824184358"
+        },
+        {
+            "id": "illari-winter-jammies",
+            "name": "Winter Jammies",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f4/Illari_Skin_Winter_Jammies.png/revision/latest?cb=20231216205913"
+        },
+        {
+            "id": "illari-arcee",
+            "name": "Arcee",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7e/Illari_Skin_Arcee.png/revision/latest?cb=20240710022507"
+        },
+        {
+            "id": "illari-black-cat",
+            "name": "Black Cat",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2d/Illari_Skin_Black_Cat.png/revision/latest?cb=20241116135412"
+        },
+        {
+            "id": "illari-fearless",
+            "name": "FEARLESS",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b0/Illari_Skin_FEARLESS.png/revision/latest?cb=20250318235806"
+        },
+        {
+            "id": "illari-demon-rocker",
+            "name": "Demon Rocker",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b6/Illari_Skin_Demon_Rocker.png/revision/latest?cb=20250825153857"
+        },
+        {
+            "id": "illari-poolside",
+            "name": "Poolside",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/12/Illari_Skin_Poolside.png/revision/latest?cb=20250827043236"
+        },
+        {
+            "id": "illari-gothic-cat",
+            "name": "Gothic Cat",
+            "rarity": "legendary",
+            "image_url": null
+        }
+    ]
+  },
+  {
+    "id": "juno",
+    "name": "Juno",
+    "role": "support",
+    "portrait_url": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/585b2d60cbd3c271b6ad5ad0922537af0c6836fab6c89cb9979077f7bb0832b5.png",
+    "skins": [
+        {
+            "id": "juno-overwatch-2",
+            "name": "Overwatch 2",
+            "rarity": "common",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/78/Juno_Skin_Overwatch_2.png/revision/latest?cb=20240822233542"
+        },
+        {
+            "id": "juno-mercury",
+            "name": "Mercury",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3e/Juno_Skin_Mercury.png/revision/latest?cb=20240823002730"
+        },
+        {
+            "id": "juno-neptune",
+            "name": "Neptune",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a9/Juno_Skin_Neptune.png/revision/latest?cb=20240823003341"
+        },
+        {
+            "id": "juno-saturn",
+            "name": "Saturn",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e9/Juno_Skin_Saturn.png/revision/latest?cb=20240823004813"
+        },
+        {
+            "id": "juno-venus",
+            "name": "Venus",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7f/Juno_Skin_Venus.png/revision/latest?cb=20240823010754"
+        },
+        {
+            "id": "juno-owcs",
+            "name": "OWCS",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e1/Juno_Skin_OWCS.png/revision/latest?cb=20250228004604"
+        },
+        {
+            "id": "juno-away-owcs",
+            "name": "Away OWCS",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ce/Juno_Skin_Away_OWCS.png/revision/latest?cb=20250228004442"
+        },
+        {
+            "id": "juno-ember",
+            "name": "Ember",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4b/Juno_Skin_Ember.png/revision/latest?cb=20250408211455"
+        },
+        {
+            "id": "juno-scarlet-ember",
+            "name": "Scarlet Ember",
+            "rarity": "legendary",
+            "image_url": null
+        },
+        {
+            "id": "juno-stadium-all-star",
+            "name": "Stadium All-Star",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/18/Juno_Skin_Stadium_All-Star.png/revision/latest?cb=20250424210546"
+        },
+        {
+            "id": "juno-uravity",
+            "name": "Uravity",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a8/Juno_Skin_Uravity.png/revision/latest?cb=20241017221952"
+        },
+        {
+            "id": "juno-celestial",
+            "name": "Celestial",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4e/Juno_Skin_Celestial.png/revision/latest?cb=20250611210046"
+        },
+        {
+            "id": "juno-fearless",
+            "name": "FEARLESS",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f9/Juno_Skin_FEARLESS.png/revision/latest?cb=20250318225639"
+        },
+        {
+            "id": "juno-chun-li",
+            "name": "Chun-Li",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e9/Juno_Skin_Chun-Li.png/revision/latest?cb=20250520182026"
+        },
+        {
+            "id": "juno-freshman-teo-minh",
+            "name": "Freshman Teo Minh",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/Juno_Skin_Freshman_Teo_Minh.png/revision/latest?cb=20250624225929"
+        },
+        {
+            "id": "juno-forget-me-not",
+            "name": "Forget-Me-Not",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a5/Juno_Skin_Forget-Me-Not.png/revision/latest?cb=20250827045851"
+        },
+        {
+            "id": "juno-music-festival",
+            "name": "Music Festival",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2c/Juno_Skin_Music_Festival.png/revision/latest?cb=20250918215047"
+        },
+        {
+            "id": "juno-heart-of-hope",
+            "name": "Heart of Hope",
+            "rarity": "mythic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/20/Juno_Skin_Heart_of_Hope.png/revision/latest?cb=20250611210507"
+        }
+    ]
+  },
+  {
+    "id": "kiriko",
+    "name": "Kiriko",
+    "role": "support",
+    "portrait_url": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/088aff2153bdfa426984b1d5c912f6af0ab313f0865a81be0edd114e9a2f79f9.png",
+    "skins": [
+        {
+            "id": "kiriko-overwatch-2",
+            "name": "Overwatch 2",
+            "rarity": "common",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e2/Kiriko_Skin_Overwatch_2.png/revision/latest?cb=20230502161558"
+        },
+        {
+            "id": "kiriko-ajisai",
+            "name": "Ajisai",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Kiriko_Skin_Ajisai.png/revision/latest?cb=20221216201453"
+        },
+        {
+            "id": "kiriko-fuji",
+            "name": "Fuji",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b4/Kiriko_Skin_Fuji.png/revision/latest?cb=20221216201528"
+        },
+        {
+            "id": "kiriko-take",
+            "name": "Take",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c5/Kiriko_Skin_Take.png/revision/latest?cb=20221216201611"
+        },
+        {
+            "id": "kiriko-tanpopo",
+            "name": "Tanpopo",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/48/Kiriko_Skin_Tanpopo.png/revision/latest?cb=20221216201641"
+        },
+        {
+            "id": "kiriko-matsuri",
+            "name": "Matsuri",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fe/Kiriko_Skin_Matsuri.png/revision/latest?cb=20221216201846"
+        },
+        {
+            "id": "kiriko-rogue",
+            "name": "Rogue",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a5/Kiriko_Skin_Rogue.png/revision/latest?cb=20230621173314"
+        },
+        {
+            "id": "kiriko-visual-kei",
+            "name": "Visual Kei",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9e/Kiriko_Skin_Visual_Kei.png/revision/latest?cb=20221214063816"
+        },
+        {
+            "id": "kiriko-sakura",
+            "name": "Sakura",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b8/Kiriko_Skin_Sakura.png/revision/latest?cb=20240215192857"
+        },
+        {
+            "id": "kiriko-suki",
+            "name": "Suki",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ce/Kiriko_Skin_Suki.png/revision/latest?cb=20241219045737"
+        },
+        {
+            "id": "kiriko-athleisure",
+            "name": "Athleisure",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/aa/Kiriko_Skin_Athleisure.png/revision/latest?cb=20221216201925"
+        },
+        {
+            "id": "kiriko-sukajan",
+            "name": "Sukajan",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/37/Kiriko_Skin_Sukajan.png/revision/latest?cb=20221216201953"
+        },
+        {
+            "id": "kiriko-hinotori",
+            "name": "Hinotori",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a0/Kiriko_Skin_Hinotori.png/revision/latest?cb=20221216202111"
+        },
+        {
+            "id": "kiriko-rainy-day",
+            "name": "Rainy Day",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f3/Kiriko_Skin_Rainy_Day.png/revision/latest?cb=20250222033224"
+        },
+        {
+            "id": "kiriko-streetwear",
+            "name": "Streetwear",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/25/Kiriko_Skin_Streetwear.png/revision/latest?cb=20250827040354"
+        },
+        {
+            "id": "kiriko-witch",
+            "name": "Witch",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b7/Kiriko_Skin_Witch.png/revision/latest?cb=20221216202031"
+        },
+        {
+            "id": "kiriko-terrible-tornado",
+            "name": "Terrible Tornado",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/81/Kiriko_Skin_Terrible_Tornado.png/revision/latest?cb=20230427171725"
+        },
+        {
+            "id": "kiriko-time-keeper",
+            "name": "Time Keeper",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Kiriko_Skin_Time_Keeper.png/revision/latest?cb=20230828134433"
+        },
+        {
+            "id": "kiriko-k-2000-blademaster",
+            "name": "K-2000 Blademaster",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fa/Kiriko_Skin_K-2000_Blademaster.png/revision/latest?cb=20230831093718"
+        },
+        {
+            "id": "kiriko-antifragile-kira-kira",
+            "name": "Antifragile Kira-Kira",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/32/Kiriko_Skin_Antifragile_Kira-Kira.png/revision/latest?cb=20231104211202"
+        },
+        {
+            "id": "kiriko-festive",
+            "name": "Festive",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/42/Kiriko_Skin_Festive.png/revision/latest?cb=20231210202010"
+        },
+        {
+            "id": "kiriko-hashimoto",
+            "name": "Hashimoto",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/49/Kiriko_Skin_Hashimoto.png/revision/latest?cb=20240419022401"
+        },
+        {
+            "id": "kiriko-lifeguard",
+            "name": "Lifeguard",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e8/Kiriko_Skin_Lifeguard.png/revision/latest?cb=20240623203538"
+        },
+        {
+            "id": "kiriko-oni",
+            "name": "Oni",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/54/Kiriko_Skin_Oni.png/revision/latest?cb=20240824184644"
+        },
+        {
+            "id": "kiriko-divinator",
+            "name": "Divinator",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4a/Kiriko_Skin_Divinator.png/revision/latest?cb=20241017154637"
+        },
+        {
+            "id": "kiriko-yatagarasu",
+            "name": "Yatagarasu",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d3/Kiriko_Skin_Yatagarasu.png/revision/latest?cb=20241017160100"
+        },
+        {
+            "id": "kiriko-himiko-toga",
+            "name": "Himiko Toga",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c2/Kiriko_Skin_Himiko_Toga.png/revision/latest?cb=20241017221435"
+        },
+        {
+            "id": "kiriko-idunn",
+            "name": "Idunn",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d2/Kiriko_Skin_Idunn.png/revision/latest?cb=20241211042529"
+        },
+        {
+            "id": "kiriko-bai-ze",
+            "name": "Bai Ze",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/66/Kiriko_Skin_Bai_Ze.png/revision/latest?cb=20250222033202"
+        },
+        {
+            "id": "kiriko-guangmu-tingwang",
+            "name": "Guangmu Tingwang",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/67/Kiriko_Skin_Guangmu_Tingwang.png/revision/latest?cb=20250222033219"
+        },
+        {
+            "id": "kiriko-blue-flame",
+            "name": "Blue Flame",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cd/Kiriko_Skin_Blue_Flame.png/revision/latest?cb=20250325010737"
+        },
+        {
+            "id": "kiriko-heart-of-passion",
+            "name": "Heart of Passion",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c1/Kiriko_Skin_Heart_of_Passion.png/revision/latest?cb=20250612014656"
+        },
+        {
+            "id": "kiriko-juri",
+            "name": "Juri",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2c/Kiriko_Skin_Juri.png/revision/latest?cb=20250612015208"
+        },
+        {
+            "id": "kiriko-sophomore-kamori",
+            "name": "Sophomore Kamori",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/33/Kiriko_Skin_Sophomore_Kamori.png/revision/latest?cb=20250827040619"
+        },
+        {
+            "id": "kiriko-demon",
+            "name": "Demon",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/63/Kiriko_Skin_Demon.png/revision/latest?cb=20250827040407"
+        },
+        {
+            "id": "kiriko-hydrangea",
+            "name": "Hydrangea",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Kiriko_Skin_Hydrangea.png/revision/latest?cb=20250827040418"
+        },
+        {
+            "id": "kiriko-vampire",
+            "name": "Vampire",
+            "rarity": "legendary",
+            "image_url": null
+        },
+        {
+            "id": "kiriko-inari",
+            "name": "Inari",
+            "rarity": "legendary",
+            "image_url": null
+        },
+        {
+            "id": "kiriko-amaterasu",
+            "name": "Amaterasu",
+            "rarity": "mythic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d4/Kiriko_Skin_Amaterasu.png/revision/latest?cb=20240503031419"
+        }
+    ]
+  },
+  {
+    "id": "lifeweaver",
+    "name": "Lifeweaver",
+    "role": "support",
+    "portrait_url": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/39d4514f1b858bc228035b09d5a74ed41f8eeefc9a0d1873570b216ba04334df.png",
+    "skins": [
+        {
+            "id": "lifeweaver-overwatch-2",
+            "name": "Overwatch 2",
+            "rarity": "common",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Lifeweaver_Skin_Overwatch_2.png/revision/latest?cb=20250613020102"
+        },
+        {
+            "id": "lifeweaver-amsonia",
+            "name": "Amsonia",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/18/Lifeweaver_Skin_Amsonia.png/revision/latest?cb=20230903114243"
+        },
+        {
+            "id": "lifeweaver-hydrangea",
+            "name": "Hydrangea",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b9/Lifeweaver_Skin_Hydrangea.png/revision/latest?cb=20230416221820"
+        },
+        {
+            "id": "lifeweaver-magnolia",
+            "name": "Magnolia",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f4/Lifeweaver_Skin_Magnolia.png/revision/latest?cb=20230416221845"
+        },
+        {
+            "id": "lifeweaver-orchid",
+            "name": "Orchid",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0d/Lifeweaver_Skin_Orchid.png/revision/latest?cb=20230416221908"
+        },
+        {
+            "id": "lifeweaver-cassia",
+            "name": "Cassia",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/57/Lifeweaver_Skin_Cassia.png/revision/latest?cb=20230414100551"
+        },
+        {
+            "id": "lifeweaver-ghostbloom",
+            "name": "Ghostbloom",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/53/Lifeweaver_Skin_Ghostbloom.png/revision/latest?cb=20250613014012"
+        },
+        {
+            "id": "lifeweaver-baldr",
+            "name": "Baldr",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Lifeweaver_Skin_Baldr.png/revision/latest?cb=20250613014700"
+        },
+        {
+            "id": "lifeweaver-lotus",
+            "name": "Lotus",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/63/Lifeweaver_Skin_Lotus.png/revision/latest?cb=20230414100726"
+        },
+        {
+            "id": "lifeweaver-synthwave",
+            "name": "Synthwave",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/04/Lifeweaver_Skin_Synthwave.png/revision/latest?cb=20230903115401"
+        },
+        {
+            "id": "lifeweaver-cotton-candy",
+            "name": "Cotton Candy",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4c/Lifeweaver_Skin_Cotton_Candy.png/revision/latest?cb=20241017231128"
+        },
+        {
+            "id": "lifeweaver-regent",
+            "name": "Regent",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/95/Lifeweaver_Skin_Regent.png/revision/latest?cb=20230414100901"
+        },
+        {
+            "id": "lifeweaver-sovereign",
+            "name": "Sovereign",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/04/Lifeweaver_Skin_Sovereign.png/revision/latest?cb=20230414101030"
+        },
+        {
+            "id": "lifeweaver-vampire-regent",
+            "name": "Vampire Regent",
+            "rarity": "legendary",
+            "image_url": null
+        },
+        {
+            "id": "lifeweaver-phi-ta-khon",
+            "name": "Phi Ta Khon",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9c/Lifeweaver_Skin_Phi_Ta_Khon.png/revision/latest?cb=20230414101239"
+        },
+        {
+            "id": "lifeweaver-demon-rocker",
+            "name": "Demon Rocker",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0b/Lifeweaver_Skin_Demon_Rocker.png/revision/latest?cb=20250613010540"
+        },
+        {
+            "id": "lifeweaver-poolside",
+            "name": "Poolside",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/19/Lifeweaver_Skin_Poolside.png/revision/latest?cb=20250827050755"
+        },
+        {
+            "id": "lifeweaver-black-swan",
+            "name": "Black Swan",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/78/Lifeweaver_Skin_Black_Swan.png/revision/latest?cb=20250613015917"
+        },
+        {
+            "id": "lifeweaver-cleric",
+            "name": "Cleric",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/de/Lifeweaver_Skin_Cleric.png/revision/latest?cb=20250613015754"
+        },
+        {
+            "id": "lifeweaver-harbinger",
+            "name": "Harbinger",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a9/Lifeweaver_Skin_Harbinger.png/revision/latest?cb=20250613015655"
+        },
+        {
+            "id": "lifeweaver-frozen-seer",
+            "name": "Frozen Seer",
+            "rarity": "legendary",
+            "image_url": null
+        },
+        {
+            "id": "lifeweaver-lifeguarder",
+            "name": "Lifeguarder",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/35/Lifeweaver_Skin_Lifeguarder.png/revision/latest?cb=20250613015520"
+        },
+        {
+            "id": "lifeweaver-eros",
+            "name": "Eros",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c5/Lifeweaver_Skin_Eros.png/revision/latest?cb=20250613012634"
+        },
+        {
+            "id": "lifeweaver-royal-butler",
+            "name": "Royal Butler",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cb/Lifeweaver_Skin_Royal_Butler.png/revision/latest?cb=20250613012023"
+        },
+        {
+            "id": "lifeweaver-sakura",
+            "name": "Sakura",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2f/Lifeweaver_Skin_Sakura.png/revision/latest?cb=20250825153003"
+        },
+        {
+            "id": "lifeweaver-fox",
+            "name": "Fox",
+            "rarity": "legendary",
+            "image_url": null
+        },
+        {
+            "id": "lifeweaver-divine-druid",
+            "name": "Divine Druid",
+            "rarity": "mythic",
+            "image_url": null
+        }
+      
+    ]
+  },
+  {
+    "id": "lucio",
+    "name": "Lúcio",
+    "role": "support",
+    "portrait_url": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e2ff2527610a0fbe0c9956f80925123ef3e66c213003e29d37436de30b90e4e1.png",
+    "skins": [
+        {
+            "id": "lucio-classic",
+            "name": "Classic",
+            "rarity": "common",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bd/L%C3%BAcio_Skin_Classic.png/revision/latest?cb=20240528221849"
+        },
+        {
+            "id": "lucio-overwatch-2",
+            "name": "Overwatch 2",
+            "rarity": "common",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/26/L%C3%BAcio_Skin_Overwatch_2.png/revision/latest?cb=20240528222000"
+        },
+        {
+            "id": "lucio-azul",
+            "name": "Azul",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/48/L%C3%BAcio_Skin_Azul.png/revision/latest?cb=20160915141438"
+        },
+        {
+            "id": "lucio-laranja",
+            "name": "Laranja",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/56/L%C3%BAcio_Skin_Laranja.png/revision/latest?cb=20160915141519"
+        },
+        {
+            "id": "lucio-roxo",
+            "name": "Roxo",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/26/L%C3%BAcio_Skin_Roxo.png/revision/latest?cb=20160915141540"
+        },
+        {
+            "id": "lucio-vermelho",
+            "name": "Vermelho",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9a/L%C3%BAcio_Skin_Vermelho.png/revision/latest?cb=20160915141613"
+        },
+        {
+            "id": "lucio-auditiva",
+            "name": "Auditiva",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/68/L%C3%BAcio_Skin_Auditiva.png/revision/latest?cb=20160915141425"
+        },
+        {
+            "id": "lucio-synaesthesia",
+            "name": "Synaesthesia",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/16/L%C3%BAcio_Skin_Synaesthesia.png/revision/latest?cb=20160915141601"
+        },
+        {
+            "id": "lucio-corredor",
+            "name": "Corredor",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/24/L%C3%BAcio_Skin_Corredor.png/revision/latest?cb=20230321175542"
+        },
+        {
+            "id": "lucio-bitrate",
+            "name": "Bitrate",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2d/L%C3%BAcio_Skin_Bitrate.png/revision/latest?cb=20180524014006"
+        },
+        {
+            "id": "lucio-gorgon",
+            "name": "Gorgon",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4c/L%C3%BAcio_Skin_Gorgon.png/revision/latest?cb=20221214054934"
+        },
+        {
+            "id": "lucio-andes",
+            "name": "Andes",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0f/L%C3%BAcio_Skin_Andes.png/revision/latest?cb=20161213231204"
+        },
+        {
+            "id": "lucio-boleiro",
+            "name": "Boleiro",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f5/L%C3%BAcio_Skin_Boleiro.png/revision/latest?cb=20240514221916"
+        },
+        {
+            "id": "lucio-victorian-ghost",
+            "name": "Victorian Ghost",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/L%C3%BAcio_Skin_Victorian_Ghost.png/revision/latest?cb=20231013195205"
+        },
+        {
+            "id": "lucio-lifeguard",
+            "name": "Lifeguard",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7a/L%C3%BAcio_Skin_Lifeguard.png/revision/latest?cb=20240623204545"
+        },
+        {
+            "id": "lucio-polar",
+            "name": "Polar",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d4/L%C3%BAcio_Skin_Polar.png/revision/latest?cb=20240824184924"
+        },
+        {
+            "id": "lucio-tianma",
+            "name": "Tianma",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bf/L%C3%BAcio_Skin_Tianma.png/revision/latest?cb=20250222033448"
+        },
+        {
+            "id": "lucio-disco",
+            "name": "Disco",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0b/L%C3%BAcio_Skin_Disco.png/revision/latest?cb=20221214055133"
+        },
+        {
+            "id": "lucio-octopus",
+            "name": "Octopus",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/L%C3%BAcio_Skin_Octopus.png/revision/latest?cb=20240623204638"
+        },
+        {
+            "id": "lucio-hippityhop",
+            "name": "HippityHop",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/L%C3%BAcio_Skin_HippityHop.png/revision/latest?cb=20160915141509"
+        },
+        {
+            "id": "lucio-ribbit",
+            "name": "Ribbit",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4b/L%C3%BAcio_Skin_Ribbit.png/revision/latest?cb=20160915141531"
+        },
+        {
+            "id": "lucio-breakaway",
+            "name": "Breakaway",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2b/L%C3%BAcio_Skin_Breakaway.png/revision/latest?cb=20160915141448"
+        },
+        {
+            "id": "lucio-slapshot",
+            "name": "Slapshot",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/89/L%C3%BAcio_Skin_Slapshot.png/revision/latest?cb=20160915141548"
+        },
+        {
+            "id": "lucio-capoeira",
+            "name": "Capoeira",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/L%C3%BAcio_Skin_Capoeira.png/revision/latest?cb=20180125121732"
+        },
+        {
+            "id": "lucio-samul-nori",
+            "name": "Samul Nori",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/22/L%C3%BAcio_Skin_Samul_Nori.png/revision/latest?cb=20230321175747"
+        },
+        {
+            "id": "lucio-equalizer",
+            "name": "Equalizer",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3b/L%C3%BAcio_Skin_Equalizer.png/revision/latest?cb=20180410214922"
+        },
+        {
+            "id": "lucio-jazzy",
+            "name": "Jazzy",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ab/L%C3%BAcio_Skin_Jazzy.png/revision/latest?cb=20170526223222"
+        },
+        {
+            "id": "lucio-poison-dart",
+            "name": "Poison Dart",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7b/L%C3%BAcio_Skin_Poison_Dart.png/revision/latest?cb=20221214054133"
+        },
+        {
+            "id": "lucio-selecao",
+            "name": "Seleção",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/52/L%C3%BAcio_Skin_Sele%C3%A7%C3%A3o.png/revision/latest?cb=20160917092838"
+        },
+        {
+            "id": "lucio-striker",
+            "name": "Striker",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d6/L%C3%BAcio_Skin_Striker.png/revision/latest?cb=20160917092853"
+        },
+        {
+            "id": "lucio-tropical",
+            "name": "Tropical",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/59/L%C3%BAcio_Skin_Tropical.png/revision/latest?cb=20250827051140"
+        },
+        {
+            "id": "lucio-satyr",
+            "name": "Satyr",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d5/L%C3%BAcio_Skin_Satyr.png/revision/latest?cb=20221213195727"
+        },
+        {
+            "id": "lucio-snow-fox",
+            "name": "Snow Fox",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d3/L%C3%BAcio_Skin_Snow_Fox.png/revision/latest?cb=20181227212538"
+        },
+        {
+            "id": "lucio-2019-pacific-all-stars",
+            "name": "2019 Pacific All-Stars",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/L%C3%BAcio_Skin_2019_Pacific_All-Stars.png/revision/latest?cb=20190516105511"
+        },
+        {
+            "id": "lucio-space-prince",
+            "name": "Space Prince",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/61/L%C3%BAcio_Skin_Space_Prince.png/revision/latest?cb=20230413205657"
+        },
+        {
+            "id": "lucio-grafiteiro",
+            "name": "Grafiteiro",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/44/L%C3%BAcio_Skin_Grafiteiro.png/revision/latest?cb=20231210202551"
+        },
+        {
+            "id": "lucio-streetwear",
+            "name": "Streetwear",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0e/L%C3%BAcio_Skin_Streetwear.png/revision/latest?cb=20250827051203"
+        },
+        {
+            "id": "lucio-hermes",
+            "name": "Hermes",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/42/L%C3%BAcio_Skin_Hermes.png/revision/latest?cb=20221214054533"
+        },
+        {
+            "id": "lucio-bard",
+            "name": "Bard",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/L%C3%BAcio_Skin_Bard.png/revision/latest?cb=20230620190305"
+        },
+        {
+            "id": "lucio-dark-faun",
+            "name": "Dark Faun",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bc/L%C3%BAcio_Skin_Dark_Faun.png/revision/latest?cb=20240215193836"
+        },
+        {
+            "id": "lucio-poet",
+            "name": "Poet",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0f/L%C3%BAcio_Skin_Poet.png/revision/latest?cb=20241017234531"
+        },
+        {
+            "id": "lucio-cyber-dj",
+            "name": "Cyber DJ",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/17/L%C3%BAcio_Skin_Cyber_DJ.png/revision/latest?cb=20241211044125"
+        },
+        {
+            "id": "lucio-royal-prince",
+            "name": "Royal Prince",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fd/L%C3%BAcio_Skin_Royal_Prince.png/revision/latest?cb=20250825152911"
+        }
+    ]
+  },
+  {
+    "id": "mercy",
+    "name": "Mercy",
+    "role": "support",
+    "portrait_url": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/2508ddd39a178d5f6ae993ab43eeb3e7961e5a54a9507e6ae347381193f28943.png",
+    "skins": [
+        {
+            "id": "mercy-overwatch-1",
+            "name": "Overwatch 1",
+            "rarity": "common",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ac/Mercy_Skin_Overwatch_1.png/revision/latest?cb=20240529000455"
+        },
+        {
+            "id": "mercy-overwatch-2",
+            "name": "Overwatch 2",
+            "rarity": "common",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8b/Mercy_Skin_Overwatch_2.png/revision/latest?cb=20240529001203"
+        },
+        {
+            "id": "mercy-celestial",
+            "name": "Celestial",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e1/Mercy_Skin_Celestial.png/revision/latest?cb=20160915183111"
+        },
+        {
+            "id": "mercy-mist",
+            "name": "Mist",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/21/Mercy_Skin_Mist.png/revision/latest?cb=20160915183331"
+        },
+        {
+            "id": "mercy-orchid",
+            "name": "Orchid",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/aa/Mercy_Skin_Orchid.png/revision/latest?cb=20160915183208"
+        },
+        {
+            "id": "mercy-verdant",
+            "name": "Verdant",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5d/Mercy_Skin_Verdant.png/revision/latest?cb=20160915183243"
+        },
+        {
+            "id": "mercy-amber",
+            "name": "Amber",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c1/Mercy_Skin_Amber.png/revision/latest?cb=20160915183058"
+        },
+        {
+            "id": "mercy-cobalt",
+            "name": "Cobalt",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d1/Mercy_Skin_Cobalt.png/revision/latest?cb=20160915183134"
+        },
+        {
+            "id": "mercy-fortune",
+            "name": "Fortune",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bc/Mercy_Skin_Fortune.png/revision/latest?cb=20170124225407"
+        },
+        {
+            "id": "mercy-camouflage",
+            "name": "Camouflage",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/68/Mercy_Skin_Camouflage.png/revision/latest?cb=20230220095237"
+        },
+        {
+            "id": "mercy-eidgenossin",
+            "name": "Eidgenossin",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Mercy_Skin_Eidgenossin.png/revision/latest?cb=20160917092929"
+        },
+        {
+            "id": "mercy-snow-angel",
+            "name": "Snow Angel",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bd/Mercy_Skin_Snow_Angel.png/revision/latest?cb=20200625181756"
+        },
+        {
+            "id": "mercy-overwatch-league-gray",
+            "name": "Overwatch League Gray",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/64/Mercy_Skin_Overwatch_League_Gray.png/revision/latest?cb=20180530005735"
+        },
+        {
+            "id": "mercy-infinite-seer",
+            "name": "Infinite Seer",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8c/Mercy_Skin_Infinite_Seer.png/revision/latest?cb=20230430134231"
+        },
+        {
+            "id": "mercy-owl-guardian",
+            "name": "Owl Guardian",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6c/Mercy_Skin_Owl_Guardian.png/revision/latest?cb=20230207213339"
+        },
+        {
+            "id": "mercy-honey-bee",
+            "name": "Honey Bee",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/70/Mercy_Skin_Honey_Bee.png/revision/latest?cb=20230207213533"
+        },
+        {
+            "id": "mercy-zombie-doctor",
+            "name": "Zombie Doctor",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Mercy_Skin_Zombie_Doctor.png/revision/latest?cb=20231013202349"
+        },
+        {
+            "id": "mercy-sigrun",
+            "name": "Sigrún",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/53/Mercy_Skin_Sigr%C3%BAn.png/revision/latest?cb=20160915183220"
+        },
+        {
+            "id": "mercy-valkyrie",
+            "name": "Valkyrie",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b3/Mercy_Skin_Valkyrie.png/revision/latest?cb=20160915183233"
+        },
+        {
+            "id": "mercy-devil",
+            "name": "Devil",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b0/Mercy_Skin_Devil.png/revision/latest?cb=20160915183147"
+        },
+        {
+            "id": "mercy-imp",
+            "name": "Imp",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/86/Mercy_Skin_Imp.png/revision/latest?cb=20160915183158"
+        },
+        {
+            "id": "mercy-rainy-day",
+            "name": "Rainy Day",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d6/Mercy_Skin_Rainy_Day.png/revision/latest?cb=20250223204129"
+        },
+        {
+            "id": "mercy-zhuque",
+            "name": "Zhuque",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/80/Mercy_Skin_Zhuque.png/revision/latest?cb=20180210160442"
+        },
+        {
+            "id": "mercy-seolbim",
+            "name": "Seolbim",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a0/Mercy_Skin_Seolbim.png/revision/latest?cb=20221213191827"
+        },
+        {
+            "id": "mercy-combat-medic-ziegler",
+            "name": "Combat Medic Ziegler",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9f/Mercy_Skin_Combat_Medic_Ziegler.png/revision/latest?cb=20170413204450"
+        },
+        {
+            "id": "mercy-dragoon",
+            "name": "Dragoon",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1e/Mercy_Skin_Dragoon.png/revision/latest?cb=20250228011920"
+        },
+        {
+            "id": "mercy-mage",
+            "name": "Mage",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d1/Mercy_Skin_Mage.png/revision/latest?cb=20221213192549"
+        },
+        {
+            "id": "mercy-winged-victory",
+            "name": "Winged Victory",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/Mercy_Skin_Winged_Victory.png/revision/latest?cb=20250228011932"
+        },
+        {
+            "id": "mercy-witch",
+            "name": "Witch",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e7/Mercy_Skin_Witch.png/revision/latest?cb=20250228011856"
+        },
+        {
+            "id": "mercy-sugar-plum-fairy",
+            "name": "Sugar Plum Fairy",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/86/Mercy_Skin_Sugar_Plum_Fairy.png/revision/latest?cb=20250228011908"
+        },
+        {
+            "id": "mercy-pink",
+            "name": "Pink",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8e/Mercy_Skin_Pink.png/revision/latest?cb=20180508223054"
+        },
+        {
+            "id": "mercy-rose-gold",
+            "name": "Rose Gold",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c9/Mercy_Skin_Rose_Gold.png/revision/latest?cb=20240623205819"
+        },
+        {
+            "id": "mercy-dr-ziegler",
+            "name": "Dr. Ziegler",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8d/Mercy_Skin_Dr._Ziegler.png/revision/latest?cb=20250228011845"
+        },
+
+
+        {
+            "id": "mercy-2019-atlantic-all-stars",
+            "name": "2019 Atlantic All-Stars",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a9/Mercy_Skin_2019_Atlantic_All-Stars.png/revision/latest?cb=20250228011412"
+        },
+        {
+            "id": "mercy-royal-knight",
+            "name": "Royal Knight",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/05/Mercy_Skin_Royal_Knight.png/revision/latest?cb=20230220095524"
+        },
+        {
+            "id": "mercy-royal-gladiator",
+            "name": "Royal Gladiator",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fd/Mercy_Skin_Royal_Gladiator.png/revision/latest?cb=20221213193352"
+        },
+
+
+        {
+            "id": "mercy-cosmic",
+            "name": "Cosmic",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/99/Mercy_Skin_Cosmic.png/revision/latest?cb=20250109063006"
+        },
+        {
+            "id": "mercy-crimson-knight",
+            "name": "Crimson Knight",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/59/Mercy_Skin_Crimson_Knight.png/revision/latest?cb=20250223203940"
+        },
+        {
+            "id": "mercy-stadium-all-star",
+            "name": "Stadium All-Star",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3d/Mercy_Skin_Stadium_All-Star.png/revision/latest?cb=20250624225005"
+        },
+        {
+            "id": "mercy-radiant-angel",
+            "name": "Radiant Angel",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Mercy_Skin_Radiant_Angel.png/revision/latest?cb=20250825152303"
+        },
+        {
+            "id": "mercy-scarlet-angel",
+            "name": "Scarlet Angel",
+            "rarity": "legendary",
+            "image_url": null
+        },
+        {
+            "id": "mercy-miko",
+            "name": "Miko",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/da/Mercy_Skin_Miko.png/revision/latest?cb=20221213192906"
+        },
+        {
+            "id": "mercy-lifeguard",
+            "name": "Lifeguard",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/77/Mercy_Skin_Lifeguard.png/revision/latest?cb=20250609000521"
+        },
+        {
+            "id": "mercy-jingle-belle",
+            "name": "Jingle Belle",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cf/Mercy_Skin_Jingle_Belle.png/revision/latest?cb=20250609000531"
+        },
+        {
+            "id": "mercy-mystic-swan",
+            "name": "Mystic Swan",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ae/Mercy_Skin_Mystic_Swan.png/revision/latest?cb=20250609000541"
+        },
+        {
+            "id": "mercy-beach-rescue",
+            "name": "Beach Rescue",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5d/Mercy_Skin_Beach_Rescue.png/revision/latest?cb=20240623205702"
+        },
+        {
+            "id": "mercy-formalwear",
+            "name": "Formalwear",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/56/Mercy_Skin_Formalwear.png/revision/latest?cb=20240824185517"
+        },
+        {
+            "id": "mercy-wyvern",
+            "name": "Wyvern",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9e/Mercy_Skin_Wyvern.png/revision/latest?cb=20240824185612"
+        },
+        {
+            "id": "mercy-conjurer",
+            "name": "Conjurer",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/be/Mercy_Skin_Conjurer.png/revision/latest?cb=20241019163259"
+        },
+        {
+            "id": "mercy-black-cat",
+            "name": "Black Cat",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/13/Mercy_Skin_Black_Cat.png/revision/latest?cb=20241116151447"
+        },
+        {
+            "id": "mercy-happy-holly",
+            "name": "Happy Holly",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/58/Mercy_Skin_Happy_Holly.png/revision/latest?cb=20250309170647"
+        },
+        {
+            "id": "mercy-rose-majesty",
+            "name": "Rose Majesty",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/73/Mercy_Skin_Rose_Majesty.png/revision/latest?cb=20241211050858"
+        },
+        {
+            "id": "mercy-fearless",
+            "name": "FEARLESS",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/80/Mercy_Skin_FEARLESS.png/revision/latest?cb=20250319003821"
+        },
+        {
+            "id": "mercy-wing-zero",
+            "name": "Wing Zero",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a8/Mercy_Skin_Wing_Zero.png/revision/latest?cb=20250609000010"
+        },
+        {
+            "id": "mercy-royal-princess",
+            "name": "Royal Princess",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f3/Mercy_Skin_Royal_Princess.png/revision/latest?cb=20250609000235"
+        },
+        {
+            "id": "mercy-sakura",
+            "name": "Sakura",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2d/Mercy_Skin_Sakura.png/revision/latest?cb=20250825152133"
+        },
+        {
+            "id": "mercy-poolside",
+            "name": "Poolside",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/45/Mercy_Skin_Poolside.png/revision/latest?cb=20250827055121"
+        },
+        {
+            "id": "mercy-panther",
+            "name": "Panther",
+            "rarity": "legendary",
+            "image_url": null
+        },
+        {
+            "id": "mercy-music-festival",
+            "name": "Music Festival",
+            "rarity": "legendary",
+            "image_url": null
+        },
+        {
+            "id": "mercy-fallen-angel",
+            "name": "Fallen Angel",
+            "rarity": "legendary",
+            "image_url": null
+        },
+        {
+            "id": "mercy-gothic-cat",
+            "name": "Gothic Cat",
+            "rarity": "legendary",
+            "image_url": null
+        },
+        {
+            "id": "mercy-vengeance",
+            "name": "Vengeance",
+            "rarity": "mythic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/34/Mercy_Skin_Vengeance.png/revision/latest?cb=20240419023832"
+        }
+    ]
+  },
+  {
+    "id": "moira",
+    "name": "Moira",
+    "role": "support",
+    "portrait_url": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/000beeb5606e01497897fa9210dd3b1e78e1159ebfd8afdc9e989047d7d3d08f.png",
+    "skins": [
+        {
+            "id": "moira-classic",
+            "name": "Classic",
+            "rarity": "common",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/Moira_Skin_Classic.png/revision/latest?cb=20240529020353"
+        },
+        {
+            "id": "moira-overwatch-2",
+            "name": "Overwatch 2",
+            "rarity": "common",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/31/Moira_Skin_Overwatch_2.png/revision/latest?cb=20240529020518"
+        },
+        {
+            "id": "moira-fiery",
+            "name": "Fiery",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d9/Moira_Skin_Fiery.png/revision/latest?cb=20171108140851"
+        },
+        {
+            "id": "moira-royal",
+            "name": "Royal",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bf/Moira_Skin_Royal.png/revision/latest?cb=20171108141120"
+        },
+        {
+            "id": "moira-selkie",
+            "name": "Selkie",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/87/Moira_Skin_Selkie.png/revision/latest?cb=20171108141143"
+        },
+        {
+            "id": "moira-whiskey",
+            "name": "Whiskey",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/37/Moira_Skin_Whiskey.png/revision/latest?cb=20171108141201"
+        },
+        {
+            "id": "moira-ornate",
+            "name": "Ornate",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Moira_Skin_Ornate.png/revision/latest?cb=20171108141034"
+        },
+        {
+            "id": "moira-pale",
+            "name": "Pale",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e2/Moira_Skin_Pale.png/revision/latest?cb=20171108141440"
+        },
+        {
+            "id": "moira-eireannach",
+            "name": "Éireannach",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d2/Moira_Skin_%C3%89ireannach.png/revision/latest?cb=20180810032415"
+        },
+        {
+            "id": "moira-holly",
+            "name": "Holly",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/85/Moira_Skin_Holly.png/revision/latest?cb=20230228202919"
+        },
+        {
+            "id": "moira-overwatch-league-gray",
+            "name": "Overwatch League Gray",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a3/Moira_Skin_Overwatch_League_Gray.png/revision/latest?cb=20180405023629"
+        },
+        {
+            "id": "moira-elite",
+            "name": "Elite",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/36/Moira_Skin_Elite.png/revision/latest?cb=20250612150923"
+        },
+        {
+            "id": "moira-hollow-heart",
+            "name": "Hollow Heart",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c0/Moira_Skin_Hollow_Heart.png/revision/latest?cb=20250612151038"
+        },
+        {
+            "id": "moira-rosewood",
+            "name": "Rosewood",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ac/Moira_Skin_Rosewood.png/revision/latest?cb=20250612151407"
+        },
+        {
+            "id": "moira-magma",
+            "name": "Magma",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/08/Moira_Skin_Magma.png/revision/latest?cb=20231210210456"
+        },
+        {
+            "id": "moira-pasque",
+            "name": "Pasque",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/10/Moira_Skin_Pasque.png/revision/latest?cb=20250827055302"
+        },
+        {
+            "id": "moira-glam",
+            "name": "Glam",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c0/Moira_Skin_Glam.png/revision/latest?cb=20171108140909"
+        },
+        {
+            "id": "moira-moon",
+            "name": "Moon",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Moira_Skin_Moon.png/revision/latest?cb=20171108140955"
+        },
+        {
+            "id": "moira-minister",
+            "name": "Minister",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bc/Moira_Skin_Minister.png/revision/latest?cb=20171108140933"
+        },
+        {
+            "id": "moira-oasis",
+            "name": "Oasis",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1b/Moira_Skin_Oasis.png/revision/latest?cb=20171108141015"
+        },
+        {
+            "id": "moira-mask-dancer",
+            "name": "Mask Dancer",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ad/Moira_Skin_Mask_Dancer.png/revision/latest?cb=20250612151738"
+        },
+        {
+            "id": "moira-blackwatch",
+            "name": "Blackwatch",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/84/Moira_Skin_Blackwatch.png/revision/latest?cb=20180410211427"
+        },
+        {
+            "id": "moira-scientist",
+            "name": "Scientist",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/61/Moira_Skin_Scientist.png/revision/latest?cb=20250612151824"
+        },
+        {
+            "id": "moira-venus",
+            "name": "Venus",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ae/Moira_Skin_Venus.png/revision/latest?cb=20250612151913"
+        },
+
+
+        {
+            "id": "moira-banshee",
+            "name": "Banshee",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6e/Moira_Skin_Banshee.png/revision/latest?cb=20181009221753"
+        },
+        {
+            "id": "moira-ice-empress",
+            "name": "Ice Empress",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e5/Moira_Skin_Ice_Empress.png/revision/latest?cb=20250612152120"
+        },
+        {
+            "id": "moira-wicked",
+            "name": "Wicked",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/28/Moira_Skin_Wicked.png/revision/latest?cb=20250612152225"
+        },
+        {
+            "id": "moira-wicked-reign",
+            "name": "Wicked Reign",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/12/Moira_Skin_Wicked_Reign.png/revision/latest?cb=20230928033708"
+        },
+
+
+        {
+            "id": "moira-demon-queen",
+            "name": "Demon Queen",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/59/Moira_Skin_Demon_Queen.png/revision/latest?cb=20230207221143"
+        },
+        {
+            "id": "moira-cyber-scientist",
+            "name": "Cyber Scientist",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/15/Moira_Skin_Cyber_Scientist.png/revision/latest?cb=20241211051623"
+        },
+        {
+            "id": "moira-vampire",
+            "name": "Vampire",
+            "rarity": "legendary",
+            "image_url": null
+        },
+        {
+            "id": "moira-solaris",
+            "name": "Solaris",
+            "rarity": "legendary",
+            "image_url": null
+        },
+        {
+            "id": "moira-mime",
+            "name": "Mime",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4b/Moira_Skin_Mime.png/revision/latest?cb=20250612152340"
+        },
+        {
+            "id": "moira-plague-doctor",
+            "name": "Plague Doctor",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Moira_Skin_Plague_Doctor.png/revision/latest?cb=20250612152451"
+        },
+        {
+            "id": "moira-lilith",
+            "name": "Lilith",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Moira_Skin_Lilith.png/revision/latest?cb=20231013203559"
+        },
+        {
+            "id": "moira-celestial",
+            "name": "Celestial",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ee/Moira_Skin_Celestial.png/revision/latest?cb=20250217194652"
+        },
+        {
+            "id": "moira-duowen-tingwang",
+            "name": "Duowen Tingwang",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/de/Moira_Skin_Duowen_Tingwang.png/revision/latest?cb=20250222035656"
+        },
+        {
+            "id": "moira-ancient-caller",
+            "name": "Ancient Caller",
+            "rarity": "mythic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6f/Moira_Skin_Ancient_Caller.png/revision/latest?cb=20240503025845"
+        }
+    ]
+  },
+  {
+    "id": "wuyang",
+    "name": "Wuyang",
+    "role": "support",
+    "portrait_url": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e4157a71bb307b4ca910d901773f43d187c22101c5f4284a0a5f3caba8ec4bdd.png",
+    "skins": [
+        {
+            "id": "wuyang-overwatch-2",
+            "name": "Overwatch 2",
+            "rarity": "common",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/74/Wuyang_Skin_Overwatch_2.png/revision/latest?cb=20250827025309"
+        },
+        {
+            "id": "wuyang-cui-zhu",
+            "name": "Cui Zhu",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/12/Wuyang_Skin_Cui_Zhu.png/revision/latest?cb=20250827025331"
+        },
+        {
+            "id": "wuyang-nong-mo",
+            "name": "Nong Mo",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a6/Wuyang_Skin_Nong_Mo.png/revision/latest?cb=20250827025353"
+        },
+        {
+            "id": "wuyang-su-lian",
+            "name": "Su Lian",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/06/Wuyang_Skin_Su_Lian.png/revision/latest?cb=20250827025849"
+        },
+        {
+            "id": "wuyang-zi-teng",
+            "name": "Zi Teng",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/36/Wuyang_Skin_Zi_Teng.png/revision/latest?cb=20250827025404"
+        },
+        {
+            "id": "wuyang-mermonster",
+            "name": "Mermonster",
+            "rarity": "legendary",
+            "image_url": null
+        },
+        {
+            "id": "wuyang-poolside",
+            "name": "Poolside",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d0/Wuyang_Skin_Poolside.png/revision/latest?cb=20250827025255"
+        },
+        {
+            "id": "wuyang-joker",
+            "name": "Joker",
+            "rarity": "legendary",
+            "image_url": null
+        },
+        {
+            "id": "wuyang-garou",
+            "name": "Garou",
+            "rarity": "legendary",
+            "image_url": null
+        }
+    ]
+  }, 
+  {
+    "id": "zenyatta",
+    "name": "Zenyatta",
+    "role": "support",
+    "portrait_url": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/71cabc939c577581f66b952f9c70891db779251e8e70f29de3c7bf494edacfe4.png",
+    "skins": [
+        {
+            "id": "zenyatta-classic",
+            "name": "Classic",
+            "rarity": "common",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0f/Zenyatta_Skin_Classic.png/revision/latest?cb=20240622154225"
+        },
+        {
+            "id": "zenyatta-overwatch-2",
+            "name": "Overwatch 2",
+            "rarity": "common",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fa/Zenyatta_Skin_Overwatch_2.png/revision/latest?cb=20240622154333"
+        },
+        {
+            "id": "zenyatta-air",
+            "name": "Air",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6c/Zenyatta_Skin_Air.png/revision/latest?cb=20160921222925"
+        },
+        {
+            "id": "zenyatta-earth",
+            "name": "Earth",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/61/Zenyatta_Skin_Earth.png/revision/latest?cb=20160921222953"
+        },
+        {
+            "id": "zenyatta-leaf",
+            "name": "Leaf",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Zenyatta_Skin_Leaf.png/revision/latest?cb=20160921223013"
+        },
+        {
+            "id": "zenyatta-water",
+            "name": "Water",
+            "rarity": "rare",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b5/Zenyatta_Skin_Water.png/revision/latest?cb=20160921223034"
+        },
+        {
+            "id": "zenyatta-ascendant",
+            "name": "Ascendant",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/29/Zenyatta_Skin_Ascendant.png/revision/latest?cb=20160921222932"
+        },
+        {
+            "id": "zenyatta-carbon-fiber",
+            "name": "Carbon Fiber",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b6/Zenyatta_Skin_Carbon_Fiber.png/revision/latest?cb=20180125122007"
+        },
+        {
+            "id": "zenyatta-harmonious",
+            "name": "Harmonious",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9d/Zenyatta_Skin_Harmonious.png/revision/latest?cb=20160921223000"
+        },
+        {
+            "id": "zenyatta-subaquatic",
+            "name": "Subaquatic",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d9/Zenyatta_Skin_Subaquatic.png/revision/latest?cb=20230331065142"
+        },
+        {
+            "id": "zenyatta-skullyatta",
+            "name": "Skullyatta",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/ff/Zenyatta_Skin_Skullyatta.png/revision/latest?cb=20161011211751"
+        },
+        {
+            "id": "zenyatta-pinocchio",
+            "name": "Pinocchio",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ee/Zenyatta_Skin_Pinocchio.png/revision/latest?cb=20230608055441"
+        },
+        {
+            "id": "zenyatta-bathmaster",
+            "name": "Bathmaster",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/91/Zenyatta_Skin_Bathmaster.png/revision/latest?cb=20231017231705"
+        },
+        {
+            "id": "zenyatta-beast-whisperer",
+            "name": "Beast Whisperer",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Zenyatta_Skin_Beast_Whisperer.png/revision/latest?cb=20231210214141"
+        },
+        {
+            "id": "zenyatta-8-bit",
+            "name": "8-Bit",
+            "rarity": "epic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dd/Zenyatta_Skin_8-Bit.png/revision/latest?cb=20250825145018"
+        },
+        {
+            "id": "zenyatta-cursed-teddy",
+            "name": "Cursed Teddy",
+            "rarity": "epic",
+            "image_url": null
+        },
+        {
+            "id": "zenyatta-djinnyatta",
+            "name": "Djinnyatta",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8e/Zenyatta_Skin_Djinnyatta.png/revision/latest?cb=20160921222947"
+        },
+        {
+            "id": "zenyatta-ifrit",
+            "name": "Ifrit",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Zenyatta_Skin_Ifrit.png/revision/latest?cb=20160921223006"
+        },
+        {
+            "id": "zenyatta-ra",
+            "name": "Ra",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d9/Zenyatta_Skin_Ra.png/revision/latest?cb=20160921223020"
+        },
+        {
+            "id": "zenyatta-sunyatta",
+            "name": "Sunyatta",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bd/Zenyatta_Skin_Sunyatta.png/revision/latest?cb=20160921223027"
+        },
+        {
+            "id": "zenyatta-sanzang",
+            "name": "Sanzang",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Zenyatta_Skin_Sanzang.png/revision/latest?cb=20170124225801"
+        },
+        {
+            "id": "zenyatta-zhuge-liang",
+            "name": "Zhuge Liang",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ec/Zenyatta_Skin_Zhuge_Liang.png/revision/latest?cb=20190127081359"
+        },
+        {
+            "id": "zenyatta-huitzilopochtli",
+            "name": "Huitzilopochtli",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d5/Zenyatta_Skin_Huitzilopochtli.png/revision/latest?cb=20221213184341"
+        },
+        {
+            "id": "zenyatta-zealot",
+            "name": "Zealot",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/ff/Zenyatta_Skin_Zealot.png/revision/latest?cb=20221213184828"
+        },
+        {
+            "id": "zenyatta-fastball",
+            "name": "Fastball",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/47/Zenyatta_Skin_Fastball.png/revision/latest?cb=20180810092141"
+        },
+        {
+            "id": "zenyatta-cultist",
+            "name": "Cultist",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/47/Zenyatta_Skin_Cultist.png/revision/latest?cb=20171011174806"
+        },
+        {
+            "id": "zenyatta-nutcracker",
+            "name": "Nutcracker",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Zenyatta_Skin_Nutcracker.png/revision/latest?cb=20161213231820"
+        },
+        {
+            "id": "zenyatta-toybot",
+            "name": "Toybot",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6a/Zenyatta_Skin_Toybot.png/revision/latest?cb=20210107194450"
+        },
+
+
+        {
+            "id": "zenyatta-clockwork",
+            "name": "Clockwork",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e6/Zenyatta_Skin_Clockwork.png/revision/latest?cb=20250611220848"
+        },
+        {
+            "id": "zenyatta-zen-nakji",
+            "name": "Zen-Nakji",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4a/Zenyatta_Skin_Zen-Nakji.png/revision/latest?cb=20250611220814"
+        },
+
+
+        {
+            "id": "zenyatta-cosmic",
+            "name": "Cosmic",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/Zenyatta_Skin_Cosmic.png/revision/latest?cb=20250611220710"
+        },
+        {
+            "id": "zenyatta-solaris",
+            "name": "Solaris",
+            "rarity": "legendary",
+            "image_url": null
+        },
+        {
+            "id": "zenyatta-royal-astronomer",
+            "name": "Royal Astronomer",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c0/Zenyatta_Skin_Royal_Astronomer.png/revision/latest?cb=20250611221155"
+        },
+        {
+            "id": "zenyatta-cybermonk",
+            "name": "Cybermonk",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/41/Zenyatta_Skin_Cybermonk.png/revision/latest?cb=20221213185056"
+        },
+        {
+            "id": "zenyatta-takoyaki",
+            "name": "Takoyaki",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dd/Zenyatta_Skin_Takoyaki.png/revision/latest?cb=20230207212605"
+        },
+        {
+            "id": "zenyatta-z-3n-destroyer",
+            "name": "Z-3N Destroyer",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/Zenyatta_Skin_Z-3N_Destroyer.png/revision/latest?cb=20250611214632"
+        },
+        {
+            "id": "zenyatta-kaiju",
+            "name": "Kaiju",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4d/Zenyatta_Skin_Kaiju.png/revision/latest?cb=20250611214547"
+        },
+        {
+            "id": "zenyatta-thrall",
+            "name": "Thrall",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/66/Zenyatta_Skin_Thrall.png/revision/latest?cb=20240919053635"
+        },
+        {
+            "id": "zenyatta-aang",
+            "name": "Aang",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ee/Zenyatta_Skin_Aang.png/revision/latest?cb=20250611214500"
+        },
+        {
+            "id": "zenyatta-celestial",
+            "name": "Celestial",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/31/Zenyatta_Skin_Celestial.png/revision/latest?cb=20250611211809"
+        },
+        {
+            "id": "zenyatta-dhalsim",
+            "name": "Dhalsim",
+            "rarity": "legendary",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/59/Zenyatta_Skin_Dhalsim.png/revision/latest?cb=20250611214741"
+        },
+        {
+            "id": "zenyatta-pixiu",
+            "name": "Pixiu",
+            "rarity": "mythic",
+            "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f0/Zenyatta_Skin_Pixiu.png/revision/latest?cb=20250611211255"
+        }
+    ]
+  }
+]

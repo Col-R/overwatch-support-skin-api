@@ -1,0 +1,146 @@
+[
+  {
+    "id": "wuyang-overwatch-2",
+    "name": "Overwatch 2",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/74/Wuyang_Skin_Overwatch_2.png/revision/latest?cb=20250827025309"
+  },
+  {
+    "id": "wuyang-cui-zhu",
+    "name": "Cui Zhu",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/12/Wuyang_Skin_Cui_Zhu.png/revision/latest?cb=20250827025331"
+  },
+  {
+    "id": "wuyang-nong-mo",
+    "name": "Nong Mo",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a6/Wuyang_Skin_Nong_Mo.png/revision/latest?cb=20250827025353"
+  },
+  {
+    "id": "wuyang-su-lian",
+    "name": "Su Lian",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/06/Wuyang_Skin_Su_Lian.png/revision/latest?cb=20250827025849"
+  },
+  {
+    "id": "wuyang-zi-teng",
+    "name": "Zi Teng",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/36/Wuyang_Skin_Zi_Teng.png/revision/latest?cb=20250827025404"
+  },
+  {
+    "id": "wuyang-mermonster",
+    "name": "Mermonster",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "wuyang-poolside",
+    "name": "Poolside",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d0/Wuyang_Skin_Poolside.png/revision/latest?cb=20250827025255"
+  },
+  {
+    "id": "wuyang-joker",
+    "name": "Joker",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "wuyang-garou",
+    "name": "Garou",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "wuyang-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": null
+  },
+  {
+    "id": "wuyang-glide",
+    "name": "Glide",
+    "rarity": "epic",
+    "image_url": null
+  },
+  {
+    "id": "wuyang-have-a-seat",
+    "name": "Have A Seat",
+    "rarity": "epic",
+    "image_url": null
+  },
+  {
+    "id": "wuyang-become-strong",
+    "name": "Become Strong",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "wuyang-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/93/Wuyang_VP_Heroic.png/revision/latest?cb=20250827061640"
+  },
+  {
+    "id": "wuyang-all-out-attack",
+    "name": "All-Out Attack",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "wuyang-pumpkin",
+    "name": "Pumpkin",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "wuyang-cute",
+    "name": "Cute",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d6/Spray_Wuyang_Cute.png/revision/latest?cb=20250913001918"
+  },
+  {
+    "id": "wuyang-pixel",
+    "name": "Pixel",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cf/Spray_Wuyang_Pixel.png/revision/latest?cb=20250913001936"
+  },
+  {
+    "id": "wuyang-wushu---gunshu-wuyang",
+    "name": "Wushu - Gunshu Wuyang",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/95/Spray_Wuyang_Wushu_-_Gunshu_Wuyang.png/revision/latest?cb=20250913001058"
+  },
+  {
+    "id": "wuyang-mala-mania",
+    "name": "Mala Mania",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4f/Spray_Wuyang_Mala_Mania.png/revision/latest?cb=20250913001953"
+  },
+  {
+    "id": "wuyang-joker-wuyang",
+    "name": "Joker Wuyang",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "wuyang-garou-wuyang",
+    "name": "Garou Wuyang",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "wuyang-mermonster-wuyang",
+    "name": "Mermonster Wuyang",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "wuyang-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": null
+  }
+]

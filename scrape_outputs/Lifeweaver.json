@@ -1,0 +1,482 @@
+[
+  {
+    "id": "lifeweaver-overwatch-2",
+    "name": "Overwatch 2",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Lifeweaver_Skin_Overwatch_2.png/revision/latest?cb=20250613020102"
+  },
+  {
+    "id": "lifeweaver-amsonia",
+    "name": "Amsonia",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/18/Lifeweaver_Skin_Amsonia.png/revision/latest?cb=20230903114243"
+  },
+  {
+    "id": "lifeweaver-hydrangea",
+    "name": "Hydrangea",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b9/Lifeweaver_Skin_Hydrangea.png/revision/latest?cb=20230416221820"
+  },
+  {
+    "id": "lifeweaver-magnolia",
+    "name": "Magnolia",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f4/Lifeweaver_Skin_Magnolia.png/revision/latest?cb=20230416221845"
+  },
+  {
+    "id": "lifeweaver-orchid",
+    "name": "Orchid",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0d/Lifeweaver_Skin_Orchid.png/revision/latest?cb=20230416221908"
+  },
+  {
+    "id": "lifeweaver-cassia",
+    "name": "Cassia",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/57/Lifeweaver_Skin_Cassia.png/revision/latest?cb=20230414100551"
+  },
+  {
+    "id": "lifeweaver-ghostbloom",
+    "name": "Ghostbloom",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/53/Lifeweaver_Skin_Ghostbloom.png/revision/latest?cb=20250613014012"
+  },
+  {
+    "id": "lifeweaver-baldr",
+    "name": "Baldr",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Lifeweaver_Skin_Baldr.png/revision/latest?cb=20250613014700"
+  },
+  {
+    "id": "lifeweaver-lotus",
+    "name": "Lotus",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/63/Lifeweaver_Skin_Lotus.png/revision/latest?cb=20230414100726"
+  },
+  {
+    "id": "lifeweaver-synthwave",
+    "name": "Synthwave",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/04/Lifeweaver_Skin_Synthwave.png/revision/latest?cb=20230903115401"
+  },
+  {
+    "id": "lifeweaver-cotton-candy",
+    "name": "Cotton Candy",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4c/Lifeweaver_Skin_Cotton_Candy.png/revision/latest?cb=20241017231128"
+  },
+  {
+    "id": "lifeweaver-regent",
+    "name": "Regent",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/95/Lifeweaver_Skin_Regent.png/revision/latest?cb=20230414100901"
+  },
+  {
+    "id": "lifeweaver-sovereign",
+    "name": "Sovereign",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/04/Lifeweaver_Skin_Sovereign.png/revision/latest?cb=20230414101030"
+  },
+  {
+    "id": "lifeweaver-vampire-regent",
+    "name": "Vampire Regent",
+    "rarity": "legendary",
+    "image_url": null
+  },
+  {
+    "id": "lifeweaver-phi-ta-khon",
+    "name": "Phi Ta Khon",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9c/Lifeweaver_Skin_Phi_Ta_Khon.png/revision/latest?cb=20230414101239"
+  },
+  {
+    "id": "lifeweaver-demon-rocker",
+    "name": "Demon Rocker",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0b/Lifeweaver_Skin_Demon_Rocker.png/revision/latest?cb=20250613010540"
+  },
+  {
+    "id": "lifeweaver-poolside",
+    "name": "Poolside",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/19/Lifeweaver_Skin_Poolside.png/revision/latest?cb=20250827050755"
+  },
+  {
+    "id": "lifeweaver-black-swan",
+    "name": "Black Swan",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/78/Lifeweaver_Skin_Black_Swan.png/revision/latest?cb=20250613015917"
+  },
+  {
+    "id": "lifeweaver-cleric",
+    "name": "Cleric",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/de/Lifeweaver_Skin_Cleric.png/revision/latest?cb=20250613015754"
+  },
+  {
+    "id": "lifeweaver-harbinger",
+    "name": "Harbinger",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a9/Lifeweaver_Skin_Harbinger.png/revision/latest?cb=20250613015655"
+  },
+  {
+    "id": "lifeweaver-frozen-seer",
+    "name": "Frozen Seer",
+    "rarity": "legendary",
+    "image_url": null
+  },
+  {
+    "id": "lifeweaver-lifeguarder",
+    "name": "Lifeguarder",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/35/Lifeweaver_Skin_Lifeguarder.png/revision/latest?cb=20250613015520"
+  },
+  {
+    "id": "lifeweaver-eros",
+    "name": "Eros",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c5/Lifeweaver_Skin_Eros.png/revision/latest?cb=20250613012634"
+  },
+  {
+    "id": "lifeweaver-royal-butler",
+    "name": "Royal Butler",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cb/Lifeweaver_Skin_Royal_Butler.png/revision/latest?cb=20250613012023"
+  },
+  {
+    "id": "lifeweaver-sakura",
+    "name": "Sakura",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2f/Lifeweaver_Skin_Sakura.png/revision/latest?cb=20250825153003"
+  },
+  {
+    "id": "lifeweaver-fox",
+    "name": "Fox",
+    "rarity": "legendary",
+    "image_url": null
+  },
+  {
+    "id": "lifeweaver-divine-druid",
+    "name": "Divine Druid",
+    "rarity": "mythic",
+    "image_url": null
+  },
+  {
+    "id": "lifeweaver-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Lifeweaver_Emote_Heroic.webm"
+  },
+  {
+    "id": "lifeweaver-clap",
+    "name": "Clap",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Lifeweaver_Emote_Clap.webm"
+  },
+  {
+    "id": "lifeweaver-crush",
+    "name": "Crush",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Lifeweaver_Emote_Crush.webm"
+  },
+  {
+    "id": "lifeweaver-laugh",
+    "name": "Laugh",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Lifeweaver_Emote_Laugh.webm"
+  },
+  {
+    "id": "lifeweaver-lounge",
+    "name": "Lounge",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Lifeweaver_Emote_Lounge.webm"
+  },
+  {
+    "id": "lifeweaver-smell-the-roses",
+    "name": "Smell the Roses",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Lifeweaver_Emote_Smell_the_Roses.webm"
+  },
+  {
+    "id": "lifeweaver-blooming-power",
+    "name": "Blooming Power",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Lifeweaver_Emote_Blooming_Power.webm"
+  },
+  {
+    "id": "lifeweaver-lazy-river",
+    "name": "Lazy River",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "lifeweaver-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/09/Lifeweaver_VP_Heroic.png/revision/latest?cb=20230417215603"
+  },
+  {
+    "id": "lifeweaver-gazing",
+    "name": "Gazing",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e3/Lifeweaver_VP_Gazing.png/revision/latest?cb=20230417215624"
+  },
+  {
+    "id": "lifeweaver-rose",
+    "name": "Rose",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/98/Lifeweaver_VP_Rose.png/revision/latest?cb=20230417215643"
+  },
+  {
+    "id": "lifeweaver-thorns",
+    "name": "Thorns",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e6/Lifeweaver_VP_Thorns.png/revision/latest?cb=20230417215703"
+  },
+  {
+    "id": "lifeweaver-serve",
+    "name": "Serve",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bf/Lifeweaver_VP_Serve.png/revision/latest?cb=20240324161248"
+  },
+  {
+    "id": "lifeweaver-take-a-bow",
+    "name": "Take a Bow",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e7/Lifeweaver_VP_Take_a_Bow.png/revision/latest?cb=20240324161438"
+  },
+  {
+    "id": "lifeweaver-rock-on",
+    "name": "Rock On!",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/26/Lifeweaver_VP_Rock_On%21.png/revision/latest?cb=20250827050929"
+  },
+  {
+    "id": "lifeweaver-all-out-attack",
+    "name": "All-Out Attack",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "lifeweaver-breezy",
+    "name": "Breezy",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f8/Spray_Lifeweaver_Breezy.png/revision/latest?cb=20230423012640"
+  },
+  {
+    "id": "lifeweaver-have-this-dance",
+    "name": "Have This Dance",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d1/Spray_Lifeweaver_Have_This_Dance.png/revision/latest?cb=20230423012650"
+  },
+  {
+    "id": "lifeweaver-icon",
+    "name": "Icon",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f9/Spray_Lifeweaver_Icon.png/revision/latest?cb=20230423012656"
+  },
+  {
+    "id": "lifeweaver-new-bloom",
+    "name": "New Bloom",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/60/Spray_Lifeweaver_New_Bloom.png/revision/latest?cb=20230423012705"
+  },
+  {
+    "id": "lifeweaver-rosy",
+    "name": "Rosy",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/df/Spray_Lifeweaver_Rosy.png/revision/latest?cb=20230423012712"
+  },
+  {
+    "id": "lifeweaver-royally-schocked",
+    "name": "Royally Schocked",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Spray_Lifeweaver_Royally_Schocked.png/revision/latest?cb=20230423012721"
+  },
+  {
+    "id": "lifeweaver-sending-love",
+    "name": "Sending Love",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/76/Spray_Lifeweaver_Sending_Love.png/revision/latest?cb=20230423013024"
+  },
+  {
+    "id": "lifeweaver-strike-a-pose",
+    "name": "Strike a Pose",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9c/Spray_Lifeweaver_Strike_a_Pose.png/revision/latest?cb=20230423013031"
+  },
+  {
+    "id": "lifeweaver-turning-heads",
+    "name": "Turning Heads",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ae/Spray_Lifeweaver_Turning_Heads.png/revision/latest?cb=20230423012617"
+  },
+  {
+    "id": "lifeweaver-cute",
+    "name": "Cute",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6b/Spray_Lifeweaver_Cute.png/revision/latest?cb=20230421221553"
+  },
+  {
+    "id": "lifeweaver-pixel",
+    "name": "Pixel",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/84/Spray_Lifeweaver_Pixel.png/revision/latest?cb=20230421221326"
+  },
+  {
+    "id": "lifeweaver-wai",
+    "name": "Wai",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a2/Spray_Lifeweaver_Wai.png/revision/latest?cb=20230423013121"
+  },
+  {
+    "id": "lifeweaver-dev-doodle-lifeweaver",
+    "name": "Dev Doodle Lifeweaver",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/86/Spray_Lifeweaver_Dev_Doodle_Lifeweaver.png/revision/latest?cb=20240427211809"
+  },
+  {
+    "id": "lifeweaver-dragon-dance",
+    "name": "Dragon Dance",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/05/Spray_Lifeweaver_Dragon_Dance.png/revision/latest?cb=20240130193421"
+  },
+  {
+    "id": "lifeweaver-rhythmic-gymnastics",
+    "name": "Rhythmic Gymnastics",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/42/Spray_Lifeweaver_Rhythmic_Gymnastics.png/revision/latest?cb=20230903155147"
+  },
+  {
+    "id": "lifeweaver-ornament",
+    "name": "Ornament",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/57/Spray_Lifeweaver_Ornament.png/revision/latest?cb=20240427183949"
+  },
+  {
+    "id": "lifeweaver-phi-ta-khon",
+    "name": "Phi Ta Khon",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4a/Spray_Lifeweaver_Phi_Ta_Khon.png/revision/latest?cb=20230423013129"
+  },
+  {
+    "id": "lifeweaver-wilting-life",
+    "name": "Wilting Life",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d8/Spray_Lifeweaver_Wilting_Life.png/revision/latest?cb=20240427025101"
+  },
+  {
+    "id": "lifeweaver-demon-rocker-lifeweaver",
+    "name": "Demon Rocker Lifeweaver",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7b/Spray_Lifeweaver_Demon_Rocker_Lifeweaver.png/revision/latest?cb=20250610020754"
+  },
+  {
+    "id": "lifeweaver-poolside-lifeweaver",
+    "name": "Poolside Lifeweaver",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a5/Spray_Lifeweaver_Poolside_Lifeweaver.png/revision/latest?cb=20250913000647"
+  },
+  {
+    "id": "lifeweaver-ballerino",
+    "name": "Ballerino",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/15/Spray_Lifeweaver_Ballerino.png/revision/latest?cb=20230903152847"
+  },
+  {
+    "id": "lifeweaver-divine-healing",
+    "name": "Divine Healing",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c0/Spray_Lifeweaver_Divine_Healing.png/revision/latest?cb=20230903153714"
+  },
+  {
+    "id": "lifeweaver-synth-lotus",
+    "name": "Synth Lotus",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f5/Spray_Lifeweaver_Synth_Lotus.png/revision/latest?cb=20230903153854"
+  },
+  {
+    "id": "lifeweaver-making-a-splash",
+    "name": "Making A Splash",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/54/Spray_Lifeweaver_Making_A_Splash.png/revision/latest?cb=20240831044130"
+  },
+  {
+    "id": "lifeweaver-eros-love",
+    "name": "Eros' Love",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/86/Spray_Lifeweaver_Eros%27_Love.png/revision/latest?cb=20250221010352"
+  },
+  {
+    "id": "lifeweaver-royal-macaron",
+    "name": "Royal Macaron",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c2/Spray_Lifeweaver_Royal_Macaron.png/revision/latest?cb=20250822224245"
+  },
+  {
+    "id": "lifeweaver-sakura-lifeweaver",
+    "name": "Sakura Lifeweaver",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/df/Spray_Lifeweaver_Sakura_Lifeweaver.png/revision/latest?cb=20250822224256"
+  },
+  {
+    "id": "lifeweaver-fox-lifeweaver",
+    "name": "Fox Lifeweaver",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "lifeweaver-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Lifeweaver_Intro_Heroic.webm"
+  },
+  {
+    "id": "lifeweaver-leap",
+    "name": "Leap",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Lifeweaver_Intro_Leap.webm"
+  },
+  {
+    "id": "lifeweaver-lotus",
+    "name": "Lotus",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Lifeweaver_Intro_Lotus.webm"
+  },
+  {
+    "id": "lifeweaver-healing-blossom",
+    "name": "Healing Blossom",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Lifeweaver_Intro_Healing_Blossom.webm"
+  },
+  {
+    "id": "lifeweaver-petal-plucking",
+    "name": "Petal Plucking",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Lifeweaver_Intro_Petal_Plucking.webm"
+  },
+  {
+    "id": "lifeweaver-rescue-run",
+    "name": "Rescue Run",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Lifeweaver_Intro_Rescue_Run.webm"
+  },
+  {
+    "id": "lifeweaver-petal-toss",
+    "name": "Petal Toss",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Lifeweaver_Intro_Petal_Toss.webm"
+  },
+  {
+    "id": "lifeweaver-all-out-attack",
+    "name": "All-Out Attack",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "lifeweaver-bookworm",
+    "name": "Bookworm",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Lifeweaver_Intro_Bookworm.webm"
+  }
+]

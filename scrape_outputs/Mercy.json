@@ -1,0 +1,1074 @@
+[
+  {
+    "id": "mercy-overwatch-1",
+    "name": "Overwatch 1",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ac/Mercy_Skin_Overwatch_1.png/revision/latest?cb=20240529000455"
+  },
+  {
+    "id": "mercy-overwatch-2",
+    "name": "Overwatch 2",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8b/Mercy_Skin_Overwatch_2.png/revision/latest?cb=20240529001203"
+  },
+  {
+    "id": "mercy-celestial",
+    "name": "Celestial",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e1/Mercy_Skin_Celestial.png/revision/latest?cb=20160915183111"
+  },
+  {
+    "id": "mercy-mist",
+    "name": "Mist",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/21/Mercy_Skin_Mist.png/revision/latest?cb=20160915183331"
+  },
+  {
+    "id": "mercy-orchid",
+    "name": "Orchid",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/aa/Mercy_Skin_Orchid.png/revision/latest?cb=20160915183208"
+  },
+  {
+    "id": "mercy-verdant",
+    "name": "Verdant",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5d/Mercy_Skin_Verdant.png/revision/latest?cb=20160915183243"
+  },
+  {
+    "id": "mercy-amber",
+    "name": "Amber",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c1/Mercy_Skin_Amber.png/revision/latest?cb=20160915183058"
+  },
+  {
+    "id": "mercy-cobalt",
+    "name": "Cobalt",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d1/Mercy_Skin_Cobalt.png/revision/latest?cb=20160915183134"
+  },
+  {
+    "id": "mercy-fortune",
+    "name": "Fortune",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bc/Mercy_Skin_Fortune.png/revision/latest?cb=20170124225407"
+  },
+  {
+    "id": "mercy-camouflage",
+    "name": "Camouflage",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/68/Mercy_Skin_Camouflage.png/revision/latest?cb=20230220095237"
+  },
+  {
+    "id": "mercy-eidgenossin",
+    "name": "Eidgenossin",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Mercy_Skin_Eidgenossin.png/revision/latest?cb=20160917092929"
+  },
+  {
+    "id": "mercy-snow-angel",
+    "name": "Snow Angel",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bd/Mercy_Skin_Snow_Angel.png/revision/latest?cb=20200625181756"
+  },
+  {
+    "id": "mercy-overwatch-league-gray",
+    "name": "Overwatch League Gray",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/64/Mercy_Skin_Overwatch_League_Gray.png/revision/latest?cb=20180530005735"
+  },
+  {
+    "id": "mercy-infinite-seer",
+    "name": "Infinite Seer",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8c/Mercy_Skin_Infinite_Seer.png/revision/latest?cb=20230430134231"
+  },
+  {
+    "id": "mercy-owl-guardian",
+    "name": "Owl Guardian",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6c/Mercy_Skin_Owl_Guardian.png/revision/latest?cb=20230207213339"
+  },
+  {
+    "id": "mercy-honey-bee",
+    "name": "Honey Bee",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/70/Mercy_Skin_Honey_Bee.png/revision/latest?cb=20230207213533"
+  },
+  {
+    "id": "mercy-zombie-doctor",
+    "name": "Zombie Doctor",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Mercy_Skin_Zombie_Doctor.png/revision/latest?cb=20231013202349"
+  },
+  {
+    "id": "mercy-sigrun",
+    "name": "Sigrún",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/53/Mercy_Skin_Sigr%C3%BAn.png/revision/latest?cb=20160915183220"
+  },
+  {
+    "id": "mercy-valkyrie",
+    "name": "Valkyrie",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b3/Mercy_Skin_Valkyrie.png/revision/latest?cb=20160915183233"
+  },
+  {
+    "id": "mercy-devil",
+    "name": "Devil",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b0/Mercy_Skin_Devil.png/revision/latest?cb=20160915183147"
+  },
+  {
+    "id": "mercy-imp",
+    "name": "Imp",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/86/Mercy_Skin_Imp.png/revision/latest?cb=20160915183158"
+  },
+  {
+    "id": "mercy-rainy-day",
+    "name": "Rainy Day",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d6/Mercy_Skin_Rainy_Day.png/revision/latest?cb=20250223204129"
+  },
+  {
+    "id": "mercy-zhuque",
+    "name": "Zhuque",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/80/Mercy_Skin_Zhuque.png/revision/latest?cb=20180210160442"
+  },
+  {
+    "id": "mercy-seolbim",
+    "name": "Seolbim",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a0/Mercy_Skin_Seolbim.png/revision/latest?cb=20221213191827"
+  },
+  {
+    "id": "mercy-combat-medic-ziegler",
+    "name": "Combat Medic Ziegler",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9f/Mercy_Skin_Combat_Medic_Ziegler.png/revision/latest?cb=20170413204450"
+  },
+  {
+    "id": "mercy-dragoon",
+    "name": "Dragoon",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1e/Mercy_Skin_Dragoon.png/revision/latest?cb=20250228011920"
+  },
+  {
+    "id": "mercy-mage",
+    "name": "Mage",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d1/Mercy_Skin_Mage.png/revision/latest?cb=20221213192549"
+  },
+  {
+    "id": "mercy-winged-victory",
+    "name": "Winged Victory",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/Mercy_Skin_Winged_Victory.png/revision/latest?cb=20250228011932"
+  },
+  {
+    "id": "mercy-witch",
+    "name": "Witch",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e7/Mercy_Skin_Witch.png/revision/latest?cb=20250228011856"
+  },
+  {
+    "id": "mercy-sugar-plum-fairy",
+    "name": "Sugar Plum Fairy",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/86/Mercy_Skin_Sugar_Plum_Fairy.png/revision/latest?cb=20250228011908"
+  },
+  {
+    "id": "mercy-pink",
+    "name": "Pink",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8e/Mercy_Skin_Pink.png/revision/latest?cb=20180508223054"
+  },
+  {
+    "id": "mercy-rose-gold",
+    "name": "Rose Gold",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c9/Mercy_Skin_Rose_Gold.png/revision/latest?cb=20240623205819"
+  },
+  {
+    "id": "mercy-dr-ziegler",
+    "name": "Dr. Ziegler",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8d/Mercy_Skin_Dr._Ziegler.png/revision/latest?cb=20250228011845"
+  },
+
+
+  {
+    "id": "mercy-2019-atlantic-all-stars",
+    "name": "2019 Atlantic All-Stars",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a9/Mercy_Skin_2019_Atlantic_All-Stars.png/revision/latest?cb=20250228011412"
+  },
+  {
+    "id": "mercy-royal-knight",
+    "name": "Royal Knight",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/05/Mercy_Skin_Royal_Knight.png/revision/latest?cb=20230220095524"
+  },
+  {
+    "id": "mercy-royal-gladiator",
+    "name": "Royal Gladiator",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fd/Mercy_Skin_Royal_Gladiator.png/revision/latest?cb=20221213193352"
+  },
+
+
+  {
+    "id": "mercy-cosmic",
+    "name": "Cosmic",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/99/Mercy_Skin_Cosmic.png/revision/latest?cb=20250109063006"
+  },
+  {
+    "id": "mercy-crimson-knight",
+    "name": "Crimson Knight",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/59/Mercy_Skin_Crimson_Knight.png/revision/latest?cb=20250223203940"
+  },
+  {
+    "id": "mercy-stadium-all-star",
+    "name": "Stadium All-Star",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3d/Mercy_Skin_Stadium_All-Star.png/revision/latest?cb=20250624225005"
+  },
+  {
+    "id": "mercy-radiant-angel",
+    "name": "Radiant Angel",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Mercy_Skin_Radiant_Angel.png/revision/latest?cb=20250825152303"
+  },
+  {
+    "id": "mercy-scarlet-angel",
+    "name": "Scarlet Angel",
+    "rarity": "legendary",
+    "image_url": null
+  },
+  {
+    "id": "mercy-miko",
+    "name": "Miko",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/da/Mercy_Skin_Miko.png/revision/latest?cb=20221213192906"
+  },
+  {
+    "id": "mercy-lifeguard",
+    "name": "Lifeguard",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/77/Mercy_Skin_Lifeguard.png/revision/latest?cb=20250609000521"
+  },
+  {
+    "id": "mercy-jingle-belle",
+    "name": "Jingle Belle",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cf/Mercy_Skin_Jingle_Belle.png/revision/latest?cb=20250609000531"
+  },
+  {
+    "id": "mercy-mystic-swan",
+    "name": "Mystic Swan",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ae/Mercy_Skin_Mystic_Swan.png/revision/latest?cb=20250609000541"
+  },
+  {
+    "id": "mercy-beach-rescue",
+    "name": "Beach Rescue",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5d/Mercy_Skin_Beach_Rescue.png/revision/latest?cb=20240623205702"
+  },
+  {
+    "id": "mercy-formalwear",
+    "name": "Formalwear",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/56/Mercy_Skin_Formalwear.png/revision/latest?cb=20240824185517"
+  },
+  {
+    "id": "mercy-wyvern",
+    "name": "Wyvern",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9e/Mercy_Skin_Wyvern.png/revision/latest?cb=20240824185612"
+  },
+  {
+    "id": "mercy-conjurer",
+    "name": "Conjurer",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/be/Mercy_Skin_Conjurer.png/revision/latest?cb=20241019163259"
+  },
+  {
+    "id": "mercy-black-cat",
+    "name": "Black Cat",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/13/Mercy_Skin_Black_Cat.png/revision/latest?cb=20241116151447"
+  },
+  {
+    "id": "mercy-happy-holly",
+    "name": "Happy Holly",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/58/Mercy_Skin_Happy_Holly.png/revision/latest?cb=20250309170647"
+  },
+  {
+    "id": "mercy-rose-majesty",
+    "name": "Rose Majesty",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/73/Mercy_Skin_Rose_Majesty.png/revision/latest?cb=20241211050858"
+  },
+  {
+    "id": "mercy-fearless",
+    "name": "FEARLESS",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/80/Mercy_Skin_FEARLESS.png/revision/latest?cb=20250319003821"
+  },
+  {
+    "id": "mercy-wing-zero",
+    "name": "Wing Zero",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a8/Mercy_Skin_Wing_Zero.png/revision/latest?cb=20250609000010"
+  },
+  {
+    "id": "mercy-royal-princess",
+    "name": "Royal Princess",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f3/Mercy_Skin_Royal_Princess.png/revision/latest?cb=20250609000235"
+  },
+  {
+    "id": "mercy-sakura",
+    "name": "Sakura",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2d/Mercy_Skin_Sakura.png/revision/latest?cb=20250825152133"
+  },
+  {
+    "id": "mercy-poolside",
+    "name": "Poolside",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/45/Mercy_Skin_Poolside.png/revision/latest?cb=20250827055121"
+  },
+  {
+    "id": "mercy-panther",
+    "name": "Panther",
+    "rarity": "legendary",
+    "image_url": null
+  },
+  {
+    "id": "mercy-music-festival",
+    "name": "Music Festival",
+    "rarity": "legendary",
+    "image_url": null
+  },
+  {
+    "id": "mercy-fallen-angel",
+    "name": "Fallen Angel",
+    "rarity": "legendary",
+    "image_url": null
+  },
+  {
+    "id": "mercy-gothic-cat",
+    "name": "Gothic Cat",
+    "rarity": "legendary",
+    "image_url": null
+  },
+  {
+    "id": "mercy-vengeance",
+    "name": "Vengeance",
+    "rarity": "mythic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/34/Mercy_Skin_Vengeance.png/revision/latest?cb=20240419023832"
+  },
+  {
+    "id": "mercy-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Mercy_Emote_Heroic.webm"
+  },
+  {
+    "id": "mercy-applause",
+    "name": "Applause",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Mercy_Emote_Applause.webm"
+  },
+  {
+    "id": "mercy-caduceus",
+    "name": "Caduceus",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Mercy_Emote_Caduceus.webm"
+  },
+  {
+    "id": "mercy-no-pulse",
+    "name": "No Pulse",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Mercy_Emote_No_Pulse.webm"
+  },
+  {
+    "id": "mercy-parasol",
+    "name": "Parasol",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Mercy_Emote_Parasol.webm"
+  },
+  {
+    "id": "mercy-relax",
+    "name": "Relax",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Mercy_Emote_Relax.webm"
+  },
+  {
+    "id": "mercy-the-best-medicine",
+    "name": "The Best Medicine",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Mercy_Emote_The_Best_Medicine.webm"
+  },
+  {
+    "id": "mercy-hustle",
+    "name": "Hustle",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Mercy_Emote_Hustle.webm"
+  },
+  {
+    "id": "mercy-flurry",
+    "name": "Flurry",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Mercy_Emote_Flurry.webm"
+  },
+  {
+    "id": "mercy-rainy-stroll",
+    "name": "Rainy Stroll",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Mercy_Emote_Rainy_Stroll.webm"
+  },
+  {
+    "id": "mercy-crazy-choreography",
+    "name": "Crazy Choreography",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Mercy_Emote_Crazy_Choreography.webm"
+  },
+  {
+    "id": "mercy-so-tough",
+    "name": "So Tough",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Mercy_Emote_So_Tough.webm"
+  },
+  {
+    "id": "mercy-lazy-river",
+    "name": "Lazy River",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "mercy-shuffle",
+    "name": "Shuffle",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "mercy-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8b/Mercy_Skin_Overwatch_2.png/revision/latest?cb=20240529001203"
+  },
+  {
+    "id": "mercy-angelic",
+    "name": "Angelic",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/81/Mercy_VP_Angelic.png/revision/latest?cb=20240529014152"
+  },
+  {
+    "id": "mercy-carefree",
+    "name": "Carefree",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ab/Mercy_VP_Carefree.png/revision/latest?cb=20240529014230"
+  },
+  {
+    "id": "mercy-ready-for-battle",
+    "name": "Ready for Battle",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9b/Mercy_VP_Ready_for_Battle.png/revision/latest?cb=20240529014311"
+  },
+  {
+    "id": "mercy-lantern",
+    "name": "Lantern",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/40/Mercy_VP_Lantern.png/revision/latest?cb=20240529014522"
+  },
+  {
+    "id": "mercy-parasol",
+    "name": "Parasol",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Mercy_VP_Parasol.png/revision/latest?cb=20240529014548"
+  },
+  {
+    "id": "mercy-medal",
+    "name": "Medal",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6a/Mercy_VP_Medal.png/revision/latest?cb=20240529014614"
+  },
+  {
+    "id": "mercy-rip",
+    "name": "R.I.P.",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/Mercy_VP_R.I.P..png/revision/latest?cb=20240529014826"
+  },
+  {
+    "id": "mercy-pumpkin",
+    "name": "Pumpkin",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/63/Mercy_VP_Pumpkin.png/revision/latest?cb=20240529014902"
+  },
+  {
+    "id": "mercy-mistletoe",
+    "name": "Mistletoe",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e0/Mercy_VP_Mistletoe.png/revision/latest?cb=20240529015011"
+  },
+  {
+    "id": "mercy-toast",
+    "name": "Toast",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7e/Mercy_VP_Toast.png/revision/latest?cb=20240529014941"
+  },
+  {
+    "id": "mercy-hero-mastery",
+    "name": "Hero Mastery",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9f/Mercy_VP_Hero_Mastery.png/revision/latest?cb=20240529015124"
+  },
+  {
+    "id": "mercy-rainy-day",
+    "name": "Rainy Day",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/68/Mercy_VP_Rainy_Day.png/revision/latest?cb=20250319004023"
+  },
+  {
+    "id": "mercy-triage",
+    "name": "Triage",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ca/Mercy_VP_Triage.png/revision/latest?cb=20240529015239"
+  },
+  {
+    "id": "mercy-blaster",
+    "name": "Blaster",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a9/Mercy_VP_Blaster.png/revision/latest?cb=20230505203911"
+  },
+  {
+    "id": "mercy-proud",
+    "name": "Proud",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/19/Mercy_VP_Proud.png/revision/latest?cb=20240529015153"
+  },
+  {
+    "id": "mercy-crazy-choreography",
+    "name": "Crazy Choreography",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e1/Mercy_VP_Crazy_Choreography.png/revision/latest?cb=20250319004152"
+  },
+  {
+    "id": "mercy-sakura-petals",
+    "name": "Sakura Petals",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7e/Mercy_VP_Sakura_Petals.png/revision/latest?cb=20250827055243"
+  },
+  {
+    "id": "mercy-all-out-attack",
+    "name": "All-Out Attack",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "mercy-owcs-trophy",
+    "name": "OWCS Trophy",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "mercy-arrow",
+    "name": "Arrow",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/44/Spray_Mercy_Arrow.png/revision/latest?cb=20160906021854"
+  },
+  {
+    "id": "mercy-bandage",
+    "name": "Bandage",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Spray_Mercy_Bandage.png/revision/latest?cb=20160906021947"
+  },
+  {
+    "id": "mercy-battle-ready",
+    "name": "Battle Ready",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/35/Spray_Mercy_Battle_Ready.png/revision/latest?cb=20160906022011"
+  },
+  {
+    "id": "mercy-blaster",
+    "name": "Blaster",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/78/Spray_Mercy_Blaster.png/revision/latest?cb=20160906022036"
+  },
+  {
+    "id": "mercy-eidgenossin",
+    "name": "Eidgenossin",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a3/Spray_Mercy_Eidgenossin.png/revision/latest?cb=20180204233837"
+  },
+  {
+    "id": "mercy-emblem",
+    "name": "Emblem",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7a/Spray_Mercy_Emblem.png/revision/latest?cb=20160906022133"
+  },
+  {
+    "id": "mercy-gauze",
+    "name": "Gauze",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/15/Spray_Mercy_Gauze.png/revision/latest?cb=20160906022159"
+  },
+  {
+    "id": "mercy-halo",
+    "name": "Halo",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ab/Spray_Mercy_Halo.png/revision/latest?cb=20160906022226"
+  },
+  {
+    "id": "mercy-heroes-never-die",
+    "name": "Heroes Never Die",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/06/Spray_Mercy_Heroes_Never_Die.png/revision/latest?cb=20160906022255"
+  },
+  {
+    "id": "mercy-huge-rez",
+    "name": "Huge Rez!!",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/51/Spray_Mercy_Huge_Rez%21%21.png/revision/latest?cb=20160906022321"
+  },
+  {
+    "id": "mercy-icon",
+    "name": "Icon",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e7/Spray_Mercy_Icon.png/revision/latest?cb=20160906022345"
+  },
+  {
+    "id": "mercy-light",
+    "name": "Light",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/db/Spray_Mercy_Light.png/revision/latest?cb=20160906022407"
+  },
+  {
+    "id": "mercy-medic",
+    "name": "Medic",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2c/Spray_Mercy_Medic.png/revision/latest?cb=20160906022433"
+  },
+  {
+    "id": "mercy-on-call",
+    "name": "On Call",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/57/Spray_Mercy_On_Call.png/revision/latest?cb=20160906022517"
+  },
+  {
+    "id": "mercy-patched-up",
+    "name": "Patched Up",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/20/Spray_Mercy_Patched_Up.png/revision/latest?cb=20160906022545"
+  },
+  {
+    "id": "mercy-resurrect",
+    "name": "Resurrect",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f6/Spray_Mercy_Resurrect.png/revision/latest?cb=20160906022647"
+  },
+  {
+    "id": "mercy-sigil",
+    "name": "Sigil",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/08/Spray_Mercy_Sigil.png/revision/latest?cb=20171206015807"
+  },
+  {
+    "id": "mercy-smile",
+    "name": "Smile",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f8/Spray_Mercy_Smile.png/revision/latest?cb=20160906022711"
+  },
+  {
+    "id": "mercy-stethoscope",
+    "name": "Stethoscope",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/28/Spray_Mercy_Stethoscope.png/revision/latest?cb=20160906022738"
+  },
+  {
+    "id": "mercy-sting",
+    "name": "Sting",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/79/Spray_Mercy_Sting.png/revision/latest?cb=20160906022801"
+  },
+  {
+    "id": "mercy-support",
+    "name": "Support",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2b/Spray_Mercy_Support.png/revision/latest?cb=20160906022824"
+  },
+  {
+    "id": "mercy-swiss",
+    "name": "Swiss",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c4/Spray_Mercy_Swiss.png/revision/latest?cb=20160906022851"
+  },
+  {
+    "id": "mercy-valkyrie",
+    "name": "Valkyrie",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a4/Spray_Mercy_Valkyrie.png/revision/latest?cb=20160906022918"
+  },
+  {
+    "id": "mercy-wings",
+    "name": "Wings",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/df/Spray_Mercy_Wings.png/revision/latest?cb=20160906022939"
+  },
+  {
+    "id": "mercy-ziegler",
+    "name": "Ziegler",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/26/Spray_Mercy_Ziegler.png/revision/latest?cb=20160906023006"
+  },
+  {
+    "id": "mercy-cute",
+    "name": "Cute",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/66/Spray_Mercy_Cute.png/revision/latest?cb=20160906022059"
+  },
+  {
+    "id": "mercy-pixel",
+    "name": "Pixel",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c9/Spray_Mercy_Pixel.png/revision/latest?cb=20230425042845"
+  },
+  {
+    "id": "mercy-cure",
+    "name": "Cure",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c0/Spray_Mercy_Cure.png/revision/latest?cb=20181019045848"
+  },
+  {
+    "id": "mercy-pink",
+    "name": "Pink",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7d/Spray_Mercy_Pink.png/revision/latest?cb=20181019045856"
+  },
+  {
+    "id": "mercy-ribbon",
+    "name": "Ribbon",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0e/Spray_Mercy_Ribbon.png/revision/latest?cb=20181019045905"
+  },
+  {
+    "id": "mercy-together",
+    "name": "Together",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/17/Spray_Mercy_Together.png/revision/latest?cb=20181019045914"
+  },
+  {
+    "id": "mercy-rose-gold-heart",
+    "name": "Rose Gold Heart",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e3/Spray_Mercy_Rose_Gold_Heart.png/revision/latest?cb=20240621214113"
+  },
+  {
+    "id": "mercy-rose-gold-mercy",
+    "name": "Rose Gold Mercy",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dd/Spray_Mercy_Rose_Gold_Mercy.png/revision/latest?cb=20240621214321"
+  },
+  {
+    "id": "mercy-winged-ribbon",
+    "name": "Winged Ribbon",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/54/Spray_Mercy_Winged_Ribbon.png/revision/latest?cb=20240621214457"
+  },
+  {
+    "id": "mercy-reconstruction",
+    "name": "Reconstruction",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fc/Spray_Mercy_Reconstruction.png/revision/latest?cb=20221205180332"
+  },
+  {
+    "id": "mercy-dev-doodle-mercy",
+    "name": "Dev Doodle Mercy",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0b/Spray_Mercy_Dev_Doodle_Mercy.png/revision/latest?cb=20240427011517"
+  },
+  {
+    "id": "mercy-dragon-dance",
+    "name": "Dragon Dance",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ea/Spray_Mercy_Dragon_Dance.png/revision/latest?cb=20170125022709"
+  },
+  {
+    "id": "mercy-parasol",
+    "name": "Parasol",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/45/Spray_Mercy_Parasol.png/revision/latest?cb=20170125022745"
+  },
+  {
+    "id": "mercy-seolbim",
+    "name": "Seolbim",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e2/Spray_Mercy_Seolbim.png/revision/latest?cb=20240427011425"
+  },
+  {
+    "id": "mercy-combat-medic",
+    "name": "Combat Medic",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/48/Spray_Mercy_Combat_Medic.png/revision/latest?cb=20170505010001"
+  },
+  {
+    "id": "mercy-night-mission",
+    "name": "Night Mission",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/19/Spray_Mercy_Night_Mission.png/revision/latest?cb=20240427205408"
+  },
+  {
+    "id": "mercy-dragoon",
+    "name": "Dragoon",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/41/Spray_Mercy_Dragoon.png/revision/latest?cb=20240427213252"
+  },
+  {
+    "id": "mercy-queen-of-clubs",
+    "name": "Queen of Clubs",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/76/Spray_Mercy_Queen_of_Clubs.png/revision/latest?cb=20171206015813"
+  },
+  {
+    "id": "mercy-badminton",
+    "name": "Badminton",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c5/Spray_Mercy_Badminton.png/revision/latest?cb=20160906021918"
+  },
+  {
+    "id": "mercy-trick-or-treat",
+    "name": "Trick or Treat",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3c/Spray_Mercy_Trick_or_Treat.png/revision/latest?cb=20161011213311"
+  },
+  {
+    "id": "mercy-ornament",
+    "name": "Ornament",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5e/Spray_Mercy_Ornament.png/revision/latest?cb=20161214031226"
+  },
+  {
+    "id": "mercy-snow-angel",
+    "name": "Snow Angel",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/55/Spray_Mercy_Snow_Angel.png/revision/latest?cb=20161214031229"
+  },
+  {
+    "id": "mercy-winter-spell",
+    "name": "Winter Spell",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fb/Spray_Mercy_Winter_Spell.png/revision/latest?cb=20240430170109"
+  },
+  {
+    "id": "mercy-fallen-angel-mercy",
+    "name": "Fallen Angel Mercy",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "mercy-crows",
+    "name": "Crows",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9e/Spray_Mercy_Crows.png/revision/latest?cb=20240403224805"
+  },
+  {
+    "id": "mercy-infinite-vision",
+    "name": "Infinite Vision",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2d/Spray_Mercy_Infinite_Vision.png/revision/latest?cb=20240427185239"
+  },
+  {
+    "id": "mercy-angel-of-vengeance",
+    "name": "Angel of Vengeance",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/41/Spray_Mercy_Angel_of_Vengeance.png/revision/latest?cb=20240425154556"
+  },
+  {
+    "id": "mercy-mercy-and-vengeance",
+    "name": "Mercy and Vengeance",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8b/Spray_Mercy_Mercy_and_Vengeance.png/revision/latest?cb=20240425155008"
+  },
+  {
+    "id": "mercy-owl-guardian",
+    "name": "Owl Guardian",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/ba/Spray_Mercy_Owl_Guardian.png/revision/latest?cb=20240427213308"
+  },
+  {
+    "id": "mercy-lifebuoy",
+    "name": "Lifebuoy",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f0/Spray_Mercy_Lifebuoy.png/revision/latest?cb=20240427011442"
+  },
+  {
+    "id": "mercy-reindeer-headband",
+    "name": "Reindeer Headband",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c5/Spray_Mercy_Reindeer_Headband.png/revision/latest?cb=20240427213328"
+  },
+  {
+    "id": "mercy-mystic-swan",
+    "name": "Mystic Swan",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d3/Spray_Mercy_Mystic_Swan.png/revision/latest?cb=20240427011458"
+  },
+  {
+    "id": "mercy-cute-vengeance",
+    "name": "Cute Vengeance",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ad/Spray_Mercy_Cute_Vengeance.png/revision/latest?cb=20240427011537"
+  },
+  {
+    "id": "mercy-art-deco",
+    "name": "Art Deco",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b9/Spray_Mercy_Art_Deco.png/revision/latest?cb=20240831043332"
+  },
+  {
+    "id": "mercy-conjurors-curiosity",
+    "name": "Conjuror's Curiosity",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/54/Spray_Mercy_Conjuror%27s_Curiosity.png/revision/latest?cb=20241128020004"
+  },
+  {
+    "id": "mercy-black-cat-mercy",
+    "name": "Black Cat Mercy",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1f/Spray_Mercy_Black_Cat_Mercy.png/revision/latest?cb=20241128020019"
+  },
+  {
+    "id": "mercy-happy-holly-cookie",
+    "name": "Happy Holly Cookie",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4c/Spray_Mercy_Happy_Holly_Cookie.png/revision/latest?cb=20241217175328"
+  },
+  {
+    "id": "mercy-ducky",
+    "name": "Ducky",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/85/Spray_Mercy_Ducky.png/revision/latest?cb=20250222021225"
+  },
+  {
+    "id": "mercy-fearless-mercy",
+    "name": "FEARLESS Mercy",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cb/Spray_Mercy_FEARLESS_Mercy.png/revision/latest?cb=20250822224755"
+  },
+  {
+    "id": "mercy-sakura-mercy",
+    "name": "Sakura Mercy",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d6/Spray_Mercy_Sakura_Mercy.png/revision/latest?cb=20250822224908"
+  },
+  {
+    "id": "mercy-poolside-mercy",
+    "name": "Poolside Mercy",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c2/Spray_Mercy_Poolside_Mercy.png/revision/latest?cb=20250913001505"
+  },
+  {
+    "id": "mercy-panther-mercy",
+    "name": "Panther Mercy",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "mercy-festival-selfie",
+    "name": "Festival Selfie",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "mercy-zero-system",
+    "name": "Zero System",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/54/Spray_Mercy_Zero_System.png/revision/latest?cb=20250822224926"
+  },
+  {
+    "id": "mercy-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Mercy_Intro_Heroic.webm"
+  },
+  {
+    "id": "mercy-battle-angel",
+    "name": "Battle Angel",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Mercy_Intro_Battle_Angel.webm"
+  },
+  {
+    "id": "mercy-guardian-angel",
+    "name": "Guardian Angel",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Mercy_Intro_Guardian_Angel.webm"
+  },
+  {
+    "id": "mercy-heroes-never-die",
+    "name": "Heroes Never Die",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Mercy_Intro_Heroes_Never_Die.webm"
+  },
+  {
+    "id": "mercy-fortune",
+    "name": "Fortune",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Mercy_Intro_Fortune.webm"
+  },
+  {
+    "id": "mercy-all-out-attack",
+    "name": "All-Out Attack",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "mercy-ascending-flight",
+    "name": "Ascending Flight",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Mercy_Intro_Ascending_Flight.webm"
+  },
+  {
+    "id": "mercy-boogie",
+    "name": "Boogie",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "mercy-caduceus-carrier",
+    "name": "Caduceus Carrier",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "mercy-homemade-cookies",
+    "name": "Homemade Cookies",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Mercy_Intro_Homemade_Cookies.webm"
+  },
+  {
+    "id": "mercy-kitty-shimmy",
+    "name": "Kitty Shimmy",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Mercy_Intro_Kitty_Shimmy.webm"
+  },
+  {
+    "id": "mercy-rescue-run",
+    "name": "Rescue Run",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Mercy_Intro_Rescue_Run.webm"
+  },
+  {
+    "id": "mercy-on-the-scene",
+    "name": "On the Scene",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Mercy_Intro_On_the_Scene.webm"
+  }
+]

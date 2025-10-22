@@ -1,0 +1,1 @@
+This is a simple API containing all the Overwatch 2 support skins

@@ -1,0 +1,740 @@
+[
+  {
+    "id": "lucio-classic",
+    "name": "Classic",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bd/L%C3%BAcio_Skin_Classic.png/revision/latest?cb=20240528221849"
+  },
+  {
+    "id": "lucio-overwatch-2",
+    "name": "Overwatch 2",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/26/L%C3%BAcio_Skin_Overwatch_2.png/revision/latest?cb=20240528222000"
+  },
+  {
+    "id": "lucio-azul",
+    "name": "Azul",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/48/L%C3%BAcio_Skin_Azul.png/revision/latest?cb=20160915141438"
+  },
+  {
+    "id": "lucio-laranja",
+    "name": "Laranja",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/56/L%C3%BAcio_Skin_Laranja.png/revision/latest?cb=20160915141519"
+  },
+  {
+    "id": "lucio-roxo",
+    "name": "Roxo",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/26/L%C3%BAcio_Skin_Roxo.png/revision/latest?cb=20160915141540"
+  },
+  {
+    "id": "lucio-vermelho",
+    "name": "Vermelho",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9a/L%C3%BAcio_Skin_Vermelho.png/revision/latest?cb=20160915141613"
+  },
+  {
+    "id": "lucio-auditiva",
+    "name": "Auditiva",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/68/L%C3%BAcio_Skin_Auditiva.png/revision/latest?cb=20160915141425"
+  },
+  {
+    "id": "lucio-synaesthesia",
+    "name": "Synaesthesia",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/16/L%C3%BAcio_Skin_Synaesthesia.png/revision/latest?cb=20160915141601"
+  },
+  {
+    "id": "lucio-corredor",
+    "name": "Corredor",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/24/L%C3%BAcio_Skin_Corredor.png/revision/latest?cb=20230321175542"
+  },
+  {
+    "id": "lucio-bitrate",
+    "name": "Bitrate",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2d/L%C3%BAcio_Skin_Bitrate.png/revision/latest?cb=20180524014006"
+  },
+  {
+    "id": "lucio-gorgon",
+    "name": "Gorgon",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4c/L%C3%BAcio_Skin_Gorgon.png/revision/latest?cb=20221214054934"
+  },
+  {
+    "id": "lucio-andes",
+    "name": "Andes",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0f/L%C3%BAcio_Skin_Andes.png/revision/latest?cb=20161213231204"
+  },
+  {
+    "id": "lucio-boleiro",
+    "name": "Boleiro",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f5/L%C3%BAcio_Skin_Boleiro.png/revision/latest?cb=20240514221916"
+  },
+  {
+    "id": "lucio-victorian-ghost",
+    "name": "Victorian Ghost",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/L%C3%BAcio_Skin_Victorian_Ghost.png/revision/latest?cb=20231013195205"
+  },
+  {
+    "id": "lucio-lifeguard",
+    "name": "Lifeguard",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7a/L%C3%BAcio_Skin_Lifeguard.png/revision/latest?cb=20240623204545"
+  },
+  {
+    "id": "lucio-polar",
+    "name": "Polar",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d4/L%C3%BAcio_Skin_Polar.png/revision/latest?cb=20240824184924"
+  },
+  {
+    "id": "lucio-tianma",
+    "name": "Tianma",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bf/L%C3%BAcio_Skin_Tianma.png/revision/latest?cb=20250222033448"
+  },
+  {
+    "id": "lucio-disco",
+    "name": "Disco",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0b/L%C3%BAcio_Skin_Disco.png/revision/latest?cb=20221214055133"
+  },
+  {
+    "id": "lucio-octopus",
+    "name": "Octopus",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/L%C3%BAcio_Skin_Octopus.png/revision/latest?cb=20240623204638"
+  },
+  {
+    "id": "lucio-hippityhop",
+    "name": "HippityHop",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/L%C3%BAcio_Skin_HippityHop.png/revision/latest?cb=20160915141509"
+  },
+  {
+    "id": "lucio-ribbit",
+    "name": "Ribbit",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4b/L%C3%BAcio_Skin_Ribbit.png/revision/latest?cb=20160915141531"
+  },
+  {
+    "id": "lucio-breakaway",
+    "name": "Breakaway",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2b/L%C3%BAcio_Skin_Breakaway.png/revision/latest?cb=20160915141448"
+  },
+  {
+    "id": "lucio-slapshot",
+    "name": "Slapshot",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/89/L%C3%BAcio_Skin_Slapshot.png/revision/latest?cb=20160915141548"
+  },
+  {
+    "id": "lucio-capoeira",
+    "name": "Capoeira",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/L%C3%BAcio_Skin_Capoeira.png/revision/latest?cb=20180125121732"
+  },
+  {
+    "id": "lucio-samul-nori",
+    "name": "Samul Nori",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/22/L%C3%BAcio_Skin_Samul_Nori.png/revision/latest?cb=20230321175747"
+  },
+  {
+    "id": "lucio-equalizer",
+    "name": "Equalizer",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3b/L%C3%BAcio_Skin_Equalizer.png/revision/latest?cb=20180410214922"
+  },
+  {
+    "id": "lucio-jazzy",
+    "name": "Jazzy",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ab/L%C3%BAcio_Skin_Jazzy.png/revision/latest?cb=20170526223222"
+  },
+  {
+    "id": "lucio-poison-dart",
+    "name": "Poison Dart",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7b/L%C3%BAcio_Skin_Poison_Dart.png/revision/latest?cb=20221214054133"
+  },
+  {
+    "id": "lucio-selecao",
+    "name": "Seleção",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/52/L%C3%BAcio_Skin_Sele%C3%A7%C3%A3o.png/revision/latest?cb=20160917092838"
+  },
+  {
+    "id": "lucio-striker",
+    "name": "Striker",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d6/L%C3%BAcio_Skin_Striker.png/revision/latest?cb=20160917092853"
+  },
+  {
+    "id": "lucio-tropical",
+    "name": "Tropical",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/59/L%C3%BAcio_Skin_Tropical.png/revision/latest?cb=20250827051140"
+  },
+  {
+    "id": "lucio-satyr",
+    "name": "Satyr",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d5/L%C3%BAcio_Skin_Satyr.png/revision/latest?cb=20221213195727"
+  },
+  {
+    "id": "lucio-snow-fox",
+    "name": "Snow Fox",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d3/L%C3%BAcio_Skin_Snow_Fox.png/revision/latest?cb=20181227212538"
+  },
+  {
+    "id": "lucio-2019-pacific-all-stars",
+    "name": "2019 Pacific All-Stars",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/L%C3%BAcio_Skin_2019_Pacific_All-Stars.png/revision/latest?cb=20190516105511"
+  },
+  {
+    "id": "lucio-space-prince",
+    "name": "Space Prince",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/61/L%C3%BAcio_Skin_Space_Prince.png/revision/latest?cb=20230413205657"
+  },
+  {
+    "id": "lucio-grafiteiro",
+    "name": "Grafiteiro",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/44/L%C3%BAcio_Skin_Grafiteiro.png/revision/latest?cb=20231210202551"
+  },
+  {
+    "id": "lucio-streetwear",
+    "name": "Streetwear",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0e/L%C3%BAcio_Skin_Streetwear.png/revision/latest?cb=20250827051203"
+  },
+  {
+    "id": "lucio-hermes",
+    "name": "Hermes",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/42/L%C3%BAcio_Skin_Hermes.png/revision/latest?cb=20221214054533"
+  },
+  {
+    "id": "lucio-bard",
+    "name": "Bard",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/L%C3%BAcio_Skin_Bard.png/revision/latest?cb=20230620190305"
+  },
+  {
+    "id": "lucio-dark-faun",
+    "name": "Dark Faun",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bc/L%C3%BAcio_Skin_Dark_Faun.png/revision/latest?cb=20240215193836"
+  },
+  {
+    "id": "lucio-poet",
+    "name": "Poet",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0f/L%C3%BAcio_Skin_Poet.png/revision/latest?cb=20241017234531"
+  },
+  {
+    "id": "lucio-cyber-dj",
+    "name": "Cyber DJ",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/17/L%C3%BAcio_Skin_Cyber_DJ.png/revision/latest?cb=20241211044125"
+  },
+  {
+    "id": "lucio-royal-prince",
+    "name": "Royal Prince",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fd/L%C3%BAcio_Skin_Royal_Prince.png/revision/latest?cb=20250825152911"
+  },
+  {
+    "id": "lucio-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://overwatch.fandom.com/wiki/File:L%C3%BAcio_Emote_Heroic.webm"
+  },
+  {
+    "id": "lucio-capoeira",
+    "name": "Capoeira",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:L%C3%BAcio_Emote_Capoeira.webm"
+  },
+  {
+    "id": "lucio-chilling",
+    "name": "Chilling",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:L%C3%BAcio_Emote_Chilling.webm"
+  },
+  {
+    "id": "lucio-in-the-groove",
+    "name": "In the Groove",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:L%C3%BAcio_Emote_In_the_Groove.webm"
+  },
+  {
+    "id": "lucio-knee-slapper",
+    "name": "Knee Slapper",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:L%C3%BAcio_Emote_Knee_Slapper.webm"
+  },
+  {
+    "id": "lucio-nah",
+    "name": "Nah!",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:L%C3%BAcio_Emote_Nah!.webm"
+  },
+  {
+    "id": "lucio-smooth",
+    "name": "Smooth",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:L%C3%BAcio_Emote_Smooth.webm"
+  },
+  {
+    "id": "lucio-juggle",
+    "name": "Juggle",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:L%C3%BAcio_Emote_Juggle.webm"
+  },
+  {
+    "id": "lucio-a-suave-gift",
+    "name": "A Suave Gift",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:L%C3%BAcio_Emote_A_Suave_Gift.webm"
+  },
+  {
+    "id": "lucio-moonwalk",
+    "name": "Moonwalk",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:L%C3%BAcio_Emote_Moonwalk.webm"
+  },
+  {
+    "id": "lucio-dance-off",
+    "name": "Dance-Off",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "lucio-tuning",
+    "name": "Tuning",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:L%C3%BAcio_Emote_Tuning.webm"
+  },
+  {
+    "id": "lucio-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/26/L%C3%BAcio_Skin_Overwatch_2.png/revision/latest?cb=20240528222000"
+  },
+  {
+    "id": "lucio-confident",
+    "name": "Confident",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a9/L%C3%BAcio_VP_Confident.png/revision/latest?cb=20240528222259"
+  },
+  {
+    "id": "lucio-grooving",
+    "name": "Grooving",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cc/L%C3%BAcio_VP_Grooving.png/revision/latest?cb=20240528222358"
+  },
+  {
+    "id": "lucio-ready-for-action",
+    "name": "Ready for Action",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/L%C3%BAcio_VP_Ready_for_Action.png/revision/latest?cb=20240528222508"
+  },
+  {
+    "id": "lucio-drumming",
+    "name": "Drumming",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f4/L%C3%BAcio_VP_Drumming.png/revision/latest?cb=20240528222845"
+  },
+  {
+    "id": "lucio-handstand",
+    "name": "Handstand",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f5/L%C3%BAcio_VP_Handstand.png/revision/latest?cb=20240528222931"
+  },
+  {
+    "id": "lucio-medal",
+    "name": "Medal",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/42/L%C3%BAcio_VP_Medal.png/revision/latest?cb=20240528223015"
+  },
+  {
+    "id": "lucio-rip",
+    "name": "R.I.P.",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c0/L%C3%BAcio_VP_R.I.P..png/revision/latest?cb=20240528223303"
+  },
+  {
+    "id": "lucio-pumpkin-control",
+    "name": "Pumpkin Control",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e1/L%C3%BAcio_VP_Pumpkin_Control.png/revision/latest?cb=20240528223415"
+  },
+  {
+    "id": "lucio-toast",
+    "name": "Toast",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/65/L%C3%BAcio_VP_Toast.png/revision/latest?cb=20240528223458"
+  },
+  {
+    "id": "lucio-crouching",
+    "name": "Crouching",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1c/L%C3%BAcio_VP_Crouching.png/revision/latest?cb=20240528223845"
+  },
+  {
+    "id": "lucio-tagging",
+    "name": "Tagging",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3c/L%C3%BAcio_VP_Tagging.png/revision/latest?cb=20240528223939"
+  },
+  {
+    "id": "lucio-styling",
+    "name": "Styling",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e2/L%C3%BAcio_VP_Styling.png/revision/latest?cb=20240528224022"
+  },
+  {
+    "id": "lucio-acelerar",
+    "name": "Acelerar",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fe/Spray_L%C3%BAcio_Acelerar.png/revision/latest?cb=20160906012335"
+  },
+  {
+    "id": "lucio-baixo",
+    "name": "Baixo",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8d/Spray_L%C3%BAcio_Baixo.png/revision/latest?cb=20160906012403"
+  },
+  {
+    "id": "lucio-bass",
+    "name": "Bass",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f0/Spray_L%C3%BAcio_Bass.png/revision/latest?cb=20160906012431"
+  },
+  {
+    "id": "lucio-break-it-down",
+    "name": "Break it down",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/00/Spray_L%C3%BAcio_Break_it_down.png/revision/latest?cb=20230420050952"
+  },
+  {
+    "id": "lucio-capoeira",
+    "name": "Capoeira",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/51/Spray_L%C3%BAcio_Capoeira.png/revision/latest?cb=20180204233652"
+  },
+  {
+    "id": "lucio-cereal",
+    "name": "Cereal",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2b/Spray_L%C3%BAcio_Cereal.png/revision/latest?cb=20160906012556"
+  },
+  {
+    "id": "lucio-confident",
+    "name": "Confident",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/55/Spray_L%C3%BAcio_Confident.png/revision/latest?cb=20160906012620"
+  },
+  {
+    "id": "lucio-deck",
+    "name": "Deck",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/06/Spray_L%C3%BAcio_Deck.png/revision/latest?cb=20160906012710"
+  },
+  {
+    "id": "lucio-frog",
+    "name": "Frog",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/11/Spray_L%C3%BAcio_Frog.png/revision/latest?cb=20160906012803"
+  },
+  {
+    "id": "lucio-grin",
+    "name": "Grin",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/31/Spray_L%C3%BAcio_Grin.png/revision/latest?cb=20160906012829"
+  },
+  {
+    "id": "lucio-hero",
+    "name": "Hero",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5f/Spray_L%C3%BAcio_Hero.png/revision/latest?cb=20160906012857"
+  },
+  {
+    "id": "lucio-icon",
+    "name": "Icon",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c1/Spray_L%C3%BAcio_Icon.png/revision/latest?cb=20160906012924"
+  },
+  {
+    "id": "lucio-in-concert",
+    "name": "In concert",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d8/Spray_L%C3%BAcio_In_concert.png/revision/latest?cb=20230420051000"
+  },
+  {
+    "id": "lucio-kambo",
+    "name": "Kambo",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b1/Spray_L%C3%BAcio_Kambo.png/revision/latest?cb=20230420051009"
+  },
+  {
+    "id": "lucio-scratch",
+    "name": "Scratch",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e1/Spray_L%C3%BAcio_Scratch.png/revision/latest?cb=20160906013128"
+  },
+  {
+    "id": "lucio-signature",
+    "name": "Signature",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/50/Spray_L%C3%BAcio_Signature.png/revision/latest?cb=20160906013151"
+  },
+  {
+    "id": "lucio-spin",
+    "name": "Spin",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c0/Spray_L%C3%BAcio_Spin.png/revision/latest?cb=20160906013212"
+  },
+  {
+    "id": "lucio-tag",
+    "name": "Tag",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/29/Spray_L%C3%BAcio_Tag.png/revision/latest?cb=20160906013236"
+  },
+  {
+    "id": "lucio-triplo",
+    "name": "Triplo",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/86/Spray_L%C3%BAcio_Triplo.png/revision/latest?cb=20160906013258"
+  },
+  {
+    "id": "lucio-under-control",
+    "name": "Under Control",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4c/Spray_L%C3%BAcio_Under_Control.png/revision/latest?cb=20160906013325"
+  },
+  {
+    "id": "lucio-mural",
+    "name": "Mural",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e6/Spray_L%C3%BAcio_Mural.png/revision/latest?cb=20160906013036"
+  },
+  {
+    "id": "lucio-vinyl",
+    "name": "Vinyl",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f3/Spray_L%C3%BAcio_Vinyl.png/revision/latest?cb=20160906013358"
+  },
+  {
+    "id": "lucio-walk-of-fame",
+    "name": "Walk of Fame",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cd/Spray_L%C3%BAcio_Walk_of_Fame.png/revision/latest?cb=20160906013424"
+  },
+  {
+    "id": "lucio-wave",
+    "name": "Wave",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6a/Spray_L%C3%BAcio_Wave.png/revision/latest?cb=20160906013448"
+  },
+  {
+    "id": "lucio-cute",
+    "name": "Cute",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/44/Spray_L%C3%BAcio_Cute.png/revision/latest?cb=20230420050736"
+  },
+  {
+    "id": "lucio-pixel",
+    "name": "Pixel",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Spray_L%C3%BAcio_Pixel.png/revision/latest?cb=20230420050710"
+  },
+  {
+    "id": "lucio-bossa-nova",
+    "name": "Bossa Nova",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/02/Spray_L%C3%BAcio_Bossa_Nova.png/revision/latest?cb=20230423032653"
+  },
+  {
+    "id": "lucio-carnival",
+    "name": "Carnival",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Spray_L%C3%BAcio_Carnival.png/revision/latest?cb=20230423032700"
+  },
+  {
+    "id": "lucio-dragon-dance",
+    "name": "Dragon Dance",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a7/Spray_L%C3%BAcio_Dragon_Dance.png/revision/latest?cb=20170125022428"
+  },
+  {
+    "id": "lucio-keep-ups",
+    "name": "Keep Ups",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3c/Spray_L%C3%BAcio_Keep_Ups.png/revision/latest?cb=20170125022432"
+  },
+  {
+    "id": "lucio-samul-nori",
+    "name": "Samul Nori",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e5/Spray_L%C3%BAcio_Samul_Nori.png/revision/latest?cb=20230423032051"
+  },
+  {
+    "id": "lucio-skates",
+    "name": "Skates",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b9/Spray_L%C3%BAcio_Skates.png/revision/latest?cb=20170505005612"
+  },
+  {
+    "id": "lucio-turn-up-the-heat",
+    "name": "Turn Up The Heat",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1d/Spray_L%C3%BAcio_Turn_Up_The_Heat.png/revision/latest?cb=20230423032609"
+  },
+  {
+    "id": "lucio-jack-of-diamonds",
+    "name": "Jack of Diamonds",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/87/Spray_L%C3%BAcio_Jack_of_Diamonds.png/revision/latest?cb=20171206014939"
+  },
+  {
+    "id": "lucio-football",
+    "name": "Football",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d4/Spray_L%C3%BAcio_Football.png/revision/latest?cb=20160906012734"
+  },
+  {
+    "id": "lucio-gorgon",
+    "name": "Gorgon",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/47/Spray_L%C3%BAcio_Gorgon.png/revision/latest?cb=20230423031956"
+  },
+  {
+    "id": "lucio-satyr",
+    "name": "Satyr",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/21/Spray_L%C3%BAcio_Satyr.png/revision/latest?cb=20230423032014"
+  },
+  {
+    "id": "lucio-trick-or-treat",
+    "name": "Trick or Treat",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7b/Spray_L%C3%BAcio_Trick_or_Treat.png/revision/latest?cb=20161011213036"
+  },
+  {
+    "id": "lucio-hockey",
+    "name": "Hockey",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/26/Spray_L%C3%BAcio_Hockey.png/revision/latest?cb=20161214030224"
+  },
+  {
+    "id": "lucio-ornament",
+    "name": "Ornament",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/ba/Spray_L%C3%BAcio_Ornament.png/revision/latest?cb=20161214030228"
+  },
+  {
+    "id": "lucio-nebulum",
+    "name": "Nebulum",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/70/Spray_L%C3%BAcio_Nebulum.png/revision/latest?cb=20230423032852"
+  },
+  {
+    "id": "lucio-princes-speech",
+    "name": "Prince's Speech",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1b/Spray_L%C3%BAcio_Prince%27s_Speech.png/revision/latest?cb=20230423032900"
+  },
+  {
+    "id": "lucio-grafiteiro",
+    "name": "Grafiteiro",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fc/Spray_L%C3%BAcio_Grafiteiro.png/revision/latest?cb=20240427025521"
+  },
+  {
+    "id": "lucio-street-beast",
+    "name": "Street Beast",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/da/Spray_L%C3%BAcio_Street_Beast.png/revision/latest?cb=20240427025552"
+  },
+  {
+    "id": "lucio-beach-dj",
+    "name": "Beach DJ",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bc/Spray_L%C3%BAcio_Beach_DJ.png/revision/latest?cb=20240831042715"
+  },
+  {
+    "id": "lucio-royal-prince-lucio",
+    "name": "Royal Prince Lucio",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a4/Spray_L%C3%BAcio_Royal_Prince_Lucio.png/revision/latest?cb=20250822224437"
+  },
+  {
+    "id": "lucio-dev-doodle-lcio",
+    "name": "Dev Doodle lucio",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4f/Spray_L%C3%BAcio_Dev_Doodle_L%C3%BAcio.png/revision/latest?cb=20250610011217"
+  },
+  {
+    "id": "lucio-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://overwatch.fandom.com/wiki/File:L%C3%BAcio_Intro_Heroic.webm"
+  },
+  {
+    "id": "lucio-drop-the-beat",
+    "name": "Drop the Beat",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:L%C3%BAcio_Intro_Drop_the_Beat.webm"
+  },
+  {
+    "id": "lucio-freestyle",
+    "name": "Freestyle",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:L%C3%BAcio_Intro_Freestyle.webm"
+  },
+  {
+    "id": "lucio-in-the-groove",
+    "name": "In the Groove",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:L%C3%BAcio_Intro_In_the_Groove.webm"
+  },
+  {
+    "id": "lucio-drumming",
+    "name": "Drumming",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:L%C3%BAcio_Intro_Drumming.webm"
+  },
+  {
+    "id": "lucio-bicycle-kick",
+    "name": "Bicycle Kick",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:L%C3%BAcio_Intro_Bicycle_Kick.webm"
+  },
+  {
+    "id": "lucio-lion-dance",
+    "name": "Lion Dance",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:L%C3%BAcio_Intro_Lion_Dance.webm"
+  },
+  {
+    "id": "lucio-sonic-reload",
+    "name": "Sonic Reload",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:L%C3%BAcio_Intro_Sonic_Reload.webm"
+  }
+]

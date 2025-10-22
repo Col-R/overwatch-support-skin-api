@@ -1,0 +1,404 @@
+[
+  {
+    "id": "illari-overwatch-2",
+    "name": "Overwatch 2",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/74/Illari_Skin_Overwatch_2.png/revision/latest?cb=20240507030820"
+  },
+  {
+    "id": "illari-anqas",
+    "name": "Anqas",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Illari_Skin_Anqas.png/revision/latest?cb=20230827093359"
+  },
+  {
+    "id": "illari-chumpi",
+    "name": "Chumpi",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b5/Illari_Skin_Chumpi.png/revision/latest?cb=20230827092841"
+  },
+  {
+    "id": "illari-kulli",
+    "name": "Kulli",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/67/Illari_Skin_Kulli.png/revision/latest?cb=20230827093746"
+  },
+  {
+    "id": "illari-qumir",
+    "name": "Qumir",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/Illari_Skin_Qumir.png/revision/latest?cb=20230827094214"
+  },
+  {
+    "id": "illari-amethyst",
+    "name": "Amethyst",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Illari_Skin_Amethyst.png/revision/latest?cb=20230915200120"
+  },
+  {
+    "id": "illari-eclipse",
+    "name": "Eclipse",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7b/Illari_Skin_Eclipse.png/revision/latest?cb=20230915200210"
+  },
+  {
+    "id": "illari-nightfall",
+    "name": "Nightfall",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/23/Illari_Skin_Nightfall.png/revision/latest?cb=20231013200942"
+  },
+  {
+    "id": "illari-sophomore-ruiz",
+    "name": "Sophomore Ruiz",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e7/Illari_Skin_Sophomore_Ruiz.png/revision/latest?cb=20250825154025"
+  },
+  {
+    "id": "illari-shadowchild",
+    "name": "Shadowchild",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/67/Illari_Skin_Shadowchild.png/revision/latest?cb=20240215192227"
+  },
+  {
+    "id": "illari-daybreak",
+    "name": "Daybreak",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/83/Illari_Skin_Daybreak.png/revision/latest?cb=20230827094926"
+  },
+  {
+    "id": "illari-sundown",
+    "name": "Sundown",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/12/Illari_Skin_Sundown.png/revision/latest?cb=20230827095521"
+  },
+  {
+    "id": "illari-llama-pajamas",
+    "name": "Llama Pajamas",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8a/Illari_Skin_Llama_Pajamas.png/revision/latest?cb=20230827100117"
+  },
+  {
+    "id": "illari-nightraven",
+    "name": "Nightraven",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/06/Illari_Skin_Nightraven.png/revision/latest?cb=20231013201021"
+  },
+  {
+    "id": "illari-thoth",
+    "name": "Thoth",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0d/Illari_Skin_Thoth.png/revision/latest?cb=20240824184358"
+  },
+  {
+    "id": "illari-winter-jammies",
+    "name": "Winter Jammies",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f4/Illari_Skin_Winter_Jammies.png/revision/latest?cb=20231216205913"
+  },
+  {
+    "id": "illari-arcee",
+    "name": "Arcee",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7e/Illari_Skin_Arcee.png/revision/latest?cb=20240710022507"
+  },
+  {
+    "id": "illari-black-cat",
+    "name": "Black Cat",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2d/Illari_Skin_Black_Cat.png/revision/latest?cb=20241116135412"
+  },
+  {
+    "id": "illari-fearless",
+    "name": "FEARLESS",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b0/Illari_Skin_FEARLESS.png/revision/latest?cb=20250318235806"
+  },
+  {
+    "id": "illari-demon-rocker",
+    "name": "Demon Rocker",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b6/Illari_Skin_Demon_Rocker.png/revision/latest?cb=20250825153857"
+  },
+  {
+    "id": "illari-poolside",
+    "name": "Poolside",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/12/Illari_Skin_Poolside.png/revision/latest?cb=20250827043236"
+  },
+  {
+    "id": "illari-gothic-cat",
+    "name": "Gothic Cat",
+    "rarity": "legendary",
+    "image_url": null
+  },
+  {
+    "id": "illari-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Illari_Emote_-_Heroic.webm"
+  },
+  {
+    "id": "illari-cheer",
+    "name": "Cheer",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Illari_Emote_-_Cheer.webm"
+  },
+  {
+    "id": "illari-chuckle",
+    "name": "Chuckle",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Illari_Emote_-_Chuckle.webm"
+  },
+  {
+    "id": "illari-deep-breath",
+    "name": "Deep breath",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Illari_Emote_-_Deep_breath.webm"
+  },
+  {
+    "id": "illari-have-a-seat",
+    "name": "Have a seat",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Illari_Emote_-_Have_a_seat.webm"
+  },
+  {
+    "id": "illari-taunt",
+    "name": "Taunt",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Illari_Emote_-_Taunt.webm"
+  },
+  {
+    "id": "illari-rock-on",
+    "name": "Rock On!",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Illari_Emote_Rock_On!.webm"
+  },
+  {
+    "id": "illari-crazy-choreography",
+    "name": "Crazy Choreography",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Illari_Emote_Crazy_Choreography.webm"
+  },
+  {
+    "id": "illari-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1b/Illari_VP_Heroic.png/revision/latest?cb=20230827102125"
+  },
+  {
+    "id": "illari-basking",
+    "name": "Basking",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/19/Illari_VP_Basking.png/revision/latest?cb=20230827102139"
+  },
+  {
+    "id": "illari-over-the-shoulder",
+    "name": "Over the shoulder",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7a/Illari_VP_Over_the_shoulder.png/revision/latest?cb=20230827102130"
+  },
+  {
+    "id": "illari-stare-down",
+    "name": "Stare Down",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ca/Illari_VP_Stare_Down.png/revision/latest?cb=20230827102134"
+  },
+  {
+    "id": "illari-resolute",
+    "name": "Resolute",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/01/Illari_VP_Resolute.png/revision/latest?cb=20240528172701"
+  },
+  {
+    "id": "illari-last-child",
+    "name": "Last Child",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fb/Illari_VP_Last_Child.png/revision/latest?cb=20240822222625"
+  },
+  {
+    "id": "illari-have-a-seat",
+    "name": "Have a Seat",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f9/Illari_VP_Have_a_Seat.png/revision/latest?cb=20240528172629"
+  },
+  {
+    "id": "illari-inti-warrior",
+    "name": "Inti Warrior",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7f/Illari_VP_Inti_Warrior.png/revision/latest?cb=20250222032146"
+  },
+  {
+    "id": "illari-transformers",
+    "name": "Transformers",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a7/Illari_VP_Transformers.png/revision/latest?cb=20240711004523"
+  },
+  {
+    "id": "illari-crazy-choreography",
+    "name": "Crazy Choreography",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/02/Illari_VP_Crazy_Choreography.png/revision/latest?cb=20250319000628"
+  },
+  {
+    "id": "illari-braiding",
+    "name": "Braiding",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5a/Spray_Illari_Braiding.png/revision/latest?cb=20230827105326"
+  },
+  {
+    "id": "illari-burning-regret",
+    "name": "Burning Regret",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/69/Spray_Illari_Burning_Regret.png/revision/latest?cb=20230827105458"
+  },
+  {
+    "id": "illari-disappointed-chuo",
+    "name": "Disappointed Chuño",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/df/Spray_Illari_Disappointed_Chu%C3%B1o.png/revision/latest?cb=20230827105640"
+  },
+  {
+    "id": "illari-face-the-sunrise",
+    "name": "Face the Sunrise",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/99/Spray_Illari_Face_the_Sunrise.png/revision/latest?cb=20230827110504"
+  },
+  {
+    "id": "illari-geoglyph",
+    "name": "Geoglyph",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c4/Spray_Illari_Geoglyph.png/revision/latest?cb=20230827105757"
+  },
+  {
+    "id": "illari-icon",
+    "name": "Icon",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/db/Spray_Illari_Icon.png/revision/latest?cb=20230827105852"
+  },
+  {
+    "id": "illari-llama-love",
+    "name": "Llama Love",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2a/Spray_Illari_Llama_Love.png/revision/latest?cb=20230827105951"
+  },
+  {
+    "id": "illari-pan-flute",
+    "name": "Pan Flute",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/76/Spray_Illari_Pan_Flute.png/revision/latest?cb=20230827110052"
+  },
+  {
+    "id": "illari-solar-charge",
+    "name": "Solar Charge",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b6/Spray_Illari_Solar_Charge.png/revision/latest?cb=20230827110129"
+  },
+  {
+    "id": "illari-cute",
+    "name": "Cute",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9e/Spray_Illari_Cute.png/revision/latest?cb=20230827105205"
+  },
+  {
+    "id": "illari-pixel",
+    "name": "Pixel",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/69/Spray_Illari_Pixel.png/revision/latest?cb=20230827105203"
+  },
+  {
+    "id": "illari-dev-doodle-illari",
+    "name": "Dev Doodle Illari",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fc/Spray_Illari_Dev_Doodle_Illari.png/revision/latest?cb=20240427211408"
+  },
+  {
+    "id": "illari-dragon-dance",
+    "name": "Dragon Dance",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d4/Spray_Illari_Dragon_Dance.png/revision/latest?cb=20240130192451"
+  },
+  {
+    "id": "illari-football",
+    "name": "Football",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f6/Spray_Illari_Football.png/revision/latest?cb=20240709212540"
+  },
+  {
+    "id": "illari-ornament",
+    "name": "Ornament",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Spray_Illari_Ornament.png/revision/latest?cb=20240427183932"
+  },
+  {
+    "id": "illari-llama-pajamas",
+    "name": "Llama Pajamas",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4f/Spray_Illari_Llama_Pajamas.png/revision/latest?cb=20230827105202"
+  },
+  {
+    "id": "illari-moonraven",
+    "name": "Moonraven",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6c/Spray_Illari_Moonraven.png/revision/latest?cb=20240427025012"
+  },
+  {
+    "id": "illari-nightraven",
+    "name": "Nightraven",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/87/Spray_Illari_Nightraven.png/revision/latest?cb=20240427025038"
+  },
+  {
+    "id": "illari-thoth-insignia",
+    "name": "Thoth Insignia",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/aa/Spray_Illari_Thoth_Insignia.png/revision/latest?cb=20240831042940"
+  },
+  {
+    "id": "illari-sophomore-ruiz",
+    "name": "Sophomore Ruiz",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/24/Spray_Illari_Sophomore_Ruiz.png/revision/latest?cb=20250822224012"
+  },
+  {
+    "id": "illari-eclipse",
+    "name": "Eclipse",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/89/Spray_Illari_Eclipse.png/revision/latest?cb=20240427211350"
+  },
+  {
+    "id": "illari-black-cat-illari",
+    "name": "Black Cat Illari",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a6/Spray_Illari_Black_Cat_Illari.png/revision/latest?cb=20241128022351"
+  },
+  {
+    "id": "illari-fearless-illari",
+    "name": "FEARLESS Illari",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5a/Spray_Illari_FEARLESS_Illari.png/revision/latest?cb=20250822224728"
+  },
+  {
+    "id": "illari-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Illari_Intro_Heroic.webm"
+  },
+  {
+    "id": "illari-flaring-up",
+    "name": "Flaring Up",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Illari_Intro_Flaring_Up.webm"
+  },
+  {
+    "id": "illari-captive-sun",
+    "name": "Captive Sun",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Illari_Intro_Captive_Sun.webm"
+  },
+  {
+    "id": "illari-sun-kissed",
+    "name": "Sun-Kissed",
+    "rarity": "unknown",
+    "image_url": null
+  }
+]

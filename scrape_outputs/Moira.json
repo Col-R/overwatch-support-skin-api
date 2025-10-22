@@ -1,0 +1,720 @@
+[
+  {
+    "id": "moira-classic",
+    "name": "Classic",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/Moira_Skin_Classic.png/revision/latest?cb=20240529020353"
+  },
+  {
+    "id": "moira-overwatch-2",
+    "name": "Overwatch 2",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/31/Moira_Skin_Overwatch_2.png/revision/latest?cb=20240529020518"
+  },
+  {
+    "id": "moira-fiery",
+    "name": "Fiery",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d9/Moira_Skin_Fiery.png/revision/latest?cb=20171108140851"
+  },
+  {
+    "id": "moira-royal",
+    "name": "Royal",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bf/Moira_Skin_Royal.png/revision/latest?cb=20171108141120"
+  },
+  {
+    "id": "moira-selkie",
+    "name": "Selkie",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/87/Moira_Skin_Selkie.png/revision/latest?cb=20171108141143"
+  },
+  {
+    "id": "moira-whiskey",
+    "name": "Whiskey",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/37/Moira_Skin_Whiskey.png/revision/latest?cb=20171108141201"
+  },
+  {
+    "id": "moira-ornate",
+    "name": "Ornate",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Moira_Skin_Ornate.png/revision/latest?cb=20171108141034"
+  },
+  {
+    "id": "moira-pale",
+    "name": "Pale",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e2/Moira_Skin_Pale.png/revision/latest?cb=20171108141440"
+  },
+  {
+    "id": "moira-eireannach",
+    "name": "Éireannach",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d2/Moira_Skin_%C3%89ireannach.png/revision/latest?cb=20180810032415"
+  },
+  {
+    "id": "moira-holly",
+    "name": "Holly",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/85/Moira_Skin_Holly.png/revision/latest?cb=20230228202919"
+  },
+  {
+    "id": "moira-overwatch-league-gray",
+    "name": "Overwatch League Gray",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a3/Moira_Skin_Overwatch_League_Gray.png/revision/latest?cb=20180405023629"
+  },
+  {
+    "id": "moira-elite",
+    "name": "Elite",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/36/Moira_Skin_Elite.png/revision/latest?cb=20250612150923"
+  },
+  {
+    "id": "moira-hollow-heart",
+    "name": "Hollow Heart",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c0/Moira_Skin_Hollow_Heart.png/revision/latest?cb=20250612151038"
+  },
+  {
+    "id": "moira-rosewood",
+    "name": "Rosewood",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ac/Moira_Skin_Rosewood.png/revision/latest?cb=20250612151407"
+  },
+  {
+    "id": "moira-magma",
+    "name": "Magma",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/08/Moira_Skin_Magma.png/revision/latest?cb=20231210210456"
+  },
+  {
+    "id": "moira-pasque",
+    "name": "Pasque",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/10/Moira_Skin_Pasque.png/revision/latest?cb=20250827055302"
+  },
+  {
+    "id": "moira-glam",
+    "name": "Glam",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c0/Moira_Skin_Glam.png/revision/latest?cb=20171108140909"
+  },
+  {
+    "id": "moira-moon",
+    "name": "Moon",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Moira_Skin_Moon.png/revision/latest?cb=20171108140955"
+  },
+  {
+    "id": "moira-minister",
+    "name": "Minister",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bc/Moira_Skin_Minister.png/revision/latest?cb=20171108140933"
+  },
+  {
+    "id": "moira-oasis",
+    "name": "Oasis",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1b/Moira_Skin_Oasis.png/revision/latest?cb=20171108141015"
+  },
+  {
+    "id": "moira-mask-dancer",
+    "name": "Mask Dancer",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ad/Moira_Skin_Mask_Dancer.png/revision/latest?cb=20250612151738"
+  },
+  {
+    "id": "moira-blackwatch",
+    "name": "Blackwatch",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/84/Moira_Skin_Blackwatch.png/revision/latest?cb=20180410211427"
+  },
+  {
+    "id": "moira-scientist",
+    "name": "Scientist",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/61/Moira_Skin_Scientist.png/revision/latest?cb=20250612151824"
+  },
+  {
+    "id": "moira-venus",
+    "name": "Venus",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ae/Moira_Skin_Venus.png/revision/latest?cb=20250612151913"
+  },
+
+
+  {
+    "id": "moira-banshee",
+    "name": "Banshee",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6e/Moira_Skin_Banshee.png/revision/latest?cb=20181009221753"
+  },
+  {
+    "id": "moira-ice-empress",
+    "name": "Ice Empress",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e5/Moira_Skin_Ice_Empress.png/revision/latest?cb=20250612152120"
+  },
+  {
+    "id": "moira-wicked",
+    "name": "Wicked",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/28/Moira_Skin_Wicked.png/revision/latest?cb=20250612152225"
+  },
+  {
+    "id": "moira-wicked-reign",
+    "name": "Wicked Reign",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/12/Moira_Skin_Wicked_Reign.png/revision/latest?cb=20230928033708"
+  },
+
+
+  {
+    "id": "moira-demon-queen",
+    "name": "Demon Queen",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/59/Moira_Skin_Demon_Queen.png/revision/latest?cb=20230207221143"
+  },
+  {
+    "id": "moira-cyber-scientist",
+    "name": "Cyber Scientist",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/15/Moira_Skin_Cyber_Scientist.png/revision/latest?cb=20241211051623"
+  },
+  {
+    "id": "moira-vampire",
+    "name": "Vampire",
+    "rarity": "legendary",
+    "image_url": null
+  },
+  {
+    "id": "moira-solaris",
+    "name": "Solaris",
+    "rarity": "legendary",
+    "image_url": null
+  },
+  {
+    "id": "moira-mime",
+    "name": "Mime",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4b/Moira_Skin_Mime.png/revision/latest?cb=20250612152340"
+  },
+  {
+    "id": "moira-plague-doctor",
+    "name": "Plague Doctor",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Moira_Skin_Plague_Doctor.png/revision/latest?cb=20250612152451"
+  },
+  {
+    "id": "moira-lilith",
+    "name": "Lilith",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Moira_Skin_Lilith.png/revision/latest?cb=20231013203559"
+  },
+  {
+    "id": "moira-celestial",
+    "name": "Celestial",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ee/Moira_Skin_Celestial.png/revision/latest?cb=20250217194652"
+  },
+  {
+    "id": "moira-duowen-tingwang",
+    "name": "Duowen Tingwang",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/de/Moira_Skin_Duowen_Tingwang.png/revision/latest?cb=20250222035656"
+  },
+  {
+    "id": "moira-ancient-caller",
+    "name": "Ancient Caller",
+    "rarity": "mythic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6f/Moira_Skin_Ancient_Caller.png/revision/latest?cb=20240503025845"
+  },
+  {
+    "id": "moira-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Moira_Emote_Heroic.webm"
+  },
+  {
+    "id": "moira-at-your-service",
+    "name": "At Your Service",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Moira_Emote_At_Your_Service.webm"
+  },
+  {
+    "id": "moira-come-here",
+    "name": "Come Here",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Moira_Emote_Come_Here.webm"
+  },
+  {
+    "id": "moira-facepalm",
+    "name": "Facepalm",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Moira_Emote_Facepalm.webm"
+  },
+  {
+    "id": "moira-give-and-take",
+    "name": "Give and Take",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Moira_Emote_Give_and_Take.webm"
+  },
+  {
+    "id": "moira-how-amusing",
+    "name": "How Amusing",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Moira_Emote_How_Amusing.webm"
+  },
+  {
+    "id": "moira-waiting",
+    "name": "Waiting",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Moira_Emote_Waiting.webm"
+  },
+  {
+    "id": "moira-dance",
+    "name": "Dance",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Moira_Emote_Dance.webm"
+  },
+  {
+    "id": "moira-boo",
+    "name": "Boo",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Moira_Emote_Boo.webm"
+  },
+  {
+    "id": "moira-rope-pull",
+    "name": "Rope Pull",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Moira_Emote_Rope_Pull.webm"
+  },
+  {
+    "id": "moira-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/31/Moira_Skin_Overwatch_2.png/revision/latest?cb=20240529020518"
+  },
+  {
+    "id": "moira-orbs",
+    "name": "Orbs",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c8/Moira_VP_Orbs.png/revision/latest?cb=20240529020702"
+  },
+  {
+    "id": "moira-prim",
+    "name": "Prim",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a8/Moira_VP_Prim.png/revision/latest?cb=20240529020736"
+  },
+  {
+    "id": "moira-steepling",
+    "name": "Steepling",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4c/Moira_VP_Steepling.png/revision/latest?cb=20240529020755"
+  },
+  {
+    "id": "moira-the-lion-roars",
+    "name": "The Lion Roars",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a2/Moira_VP_The_Lion_Roars.png/revision/latest?cb=20240529020936"
+  },
+  {
+    "id": "moira-erlenmyer",
+    "name": "Erlenmyer",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e8/Moira_VP_Erlenmyer.png/revision/latest?cb=20240529021008"
+  },
+  {
+    "id": "moira-medal",
+    "name": "Medal",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Moira_VP_Medal.png/revision/latest?cb=20240529021137"
+  },
+  {
+    "id": "moira-pumpkin",
+    "name": "Pumpkin",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/50/Moira_VP_Pumpkin.png/revision/latest?cb=20240529021400"
+  },
+  {
+    "id": "moira-toast",
+    "name": "Toast",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/35/Moira_VP_Toast.png/revision/latest?cb=20240529021437"
+  },
+  {
+    "id": "moira-ponder",
+    "name": "Ponder",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3c/Moira_VP_Ponder.png/revision/latest?cb=20240529021515"
+  },
+  {
+    "id": "moira-twisted-offering",
+    "name": "Twisted Offering",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/18/Moira_VP_Twisted_Offering.png/revision/latest?cb=20240529021550"
+  },
+  {
+    "id": "moira-biohazard",
+    "name": "Biohazard",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a6/Spray_Moira_Biohazard.png/revision/latest?cb=20171203165208"
+  },
+  {
+    "id": "moira-burner",
+    "name": "Burner",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6a/Spray_Moira_Burner.png/revision/latest?cb=20171203165225"
+  },
+  {
+    "id": "moira-cell",
+    "name": "Cell",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/04/Spray_Moira_Cell.png/revision/latest?cb=20171203165245"
+  },
+  {
+    "id": "moira-erlenmeyer",
+    "name": "Erlenmeyer",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/aa/Spray_Moira_Erlenmeyer.png/revision/latest?cb=20171203165300"
+  },
+  {
+    "id": "moira-facepalm",
+    "name": "Facepalm",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d5/Spray_Moira_Facepalm.png/revision/latest?cb=20171203165319"
+  },
+  {
+    "id": "moira-fade",
+    "name": "Fade",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5c/Spray_Moira_Fade.png/revision/latest?cb=20171203165338"
+  },
+  {
+    "id": "moira-give",
+    "name": "Give",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0c/Spray_Moira_Give.png/revision/latest?cb=20171203165401"
+  },
+  {
+    "id": "moira-glam",
+    "name": "Glam",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a8/Spray_Moira_Glam.png/revision/latest?cb=20180204233913"
+  },
+  {
+    "id": "moira-hypothesis",
+    "name": "Hypothesis",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bb/Spray_Moira_Hypothesis.png/revision/latest?cb=20171203165416"
+  },
+  {
+    "id": "moira-icon",
+    "name": "Icon",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bc/Spray_Moira_Icon.png/revision/latest?cb=20171203165434"
+  },
+  {
+    "id": "moira-knot",
+    "name": "Knot",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Spray_Moira_Knot.png/revision/latest?cb=20171203165459"
+  },
+  {
+    "id": "moira-moira",
+    "name": "Moira",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/00/Spray_Moira_Moira.png/revision/latest?cb=20171203165521"
+  },
+  {
+    "id": "moira-nails",
+    "name": "Nails",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/84/Spray_Moira_Nails.png/revision/latest?cb=20171203165548"
+  },
+  {
+    "id": "moira-nervous",
+    "name": "Nervous",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8d/Spray_Moira_Nervous.png/revision/latest?cb=20171203165615"
+  },
+  {
+    "id": "moira-plotting",
+    "name": "Plotting",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f4/Spray_Moira_Plotting.png/revision/latest?cb=20171203165655"
+  },
+  {
+    "id": "moira-orb",
+    "name": "Orb",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Spray_Moira_Orb.png/revision/latest?cb=20171203165635"
+  },
+  {
+    "id": "moira-power-level",
+    "name": "Power Level",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/be/Spray_Moira_Power_Level.png/revision/latest?cb=20171203165719"
+  },
+  {
+    "id": "moira-reaction",
+    "name": "Reaction",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4d/Spray_Moira_Reaction.png/revision/latest?cb=20171203165805"
+  },
+  {
+    "id": "moira-self-experimentation",
+    "name": "Self-Experimentation",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/01/Spray_Moira_Self-Experimentation.png/revision/latest?cb=20171203165825"
+  },
+  {
+    "id": "moira-shadow",
+    "name": "Shadow",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/79/Spray_Moira_Shadow.png/revision/latest?cb=20171203165844"
+  },
+  {
+    "id": "moira-sigil",
+    "name": "Sigil",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f4/Spray_Moira_Sigil.png/revision/latest?cb=20171203165921"
+  },
+  {
+    "id": "moira-syringe",
+    "name": "Syringe",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/75/Spray_Moira_Syringe.png/revision/latest?cb=20171203165939"
+  },
+  {
+    "id": "moira-take",
+    "name": "Take",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Spray_Moira_Take.png/revision/latest?cb=20171203165957"
+  },
+  {
+    "id": "moira-test-murloc",
+    "name": "Test Murloc",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a1/Spray_Moira_Test_Murloc.png/revision/latest?cb=20171203170019"
+  },
+  {
+    "id": "moira-cute",
+    "name": "Cute",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/10/Spray_Moira_Cute.png/revision/latest?cb=20171203170043"
+  },
+  {
+    "id": "moira-pixel",
+    "name": "Pixel",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ca/Spray_Moira_Pixel.png/revision/latest?cb=20171203170109"
+  },
+  {
+    "id": "moira-dev-doodle-moira",
+    "name": "Dev Doodle Moira",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d2/Spray_Moira_Dev_Doodle_Moira.png/revision/latest?cb=20240427213607"
+  },
+  {
+    "id": "moira-dragon-dance",
+    "name": "Dragon Dance",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b8/Spray_Moira_Dragon_Dance.png/revision/latest?cb=20181019030842"
+  },
+  {
+    "id": "moira-dog-person",
+    "name": "Dog Person",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a4/Spray_Moira_Dog_Person.png/revision/latest?cb=20181019030835"
+  },
+  {
+    "id": "moira-talchum",
+    "name": "Talchum",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/82/Spray_Moira_Talchum.png/revision/latest?cb=20240427213501"
+  },
+  {
+    "id": "moira-foundation",
+    "name": "Foundation",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/14/Spray_Moira_Foundation.png/revision/latest?cb=20181019030859"
+  },
+  {
+    "id": "moira-mind-the-thorns",
+    "name": "Mind The Thorns",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Spray_Moira_Mind_The_Thorns.png/revision/latest?cb=20240427213520"
+  },
+  {
+    "id": "moira-nine-of-hearts",
+    "name": "Nine of Hearts",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a8/Spray_Moira_Nine_of_Hearts.png/revision/latest?cb=20181019030917"
+  },
+  {
+    "id": "moira-handball",
+    "name": "Handball",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cf/Spray_Moira_Handball.png/revision/latest?cb=20181019030736"
+  },
+  {
+    "id": "moira-banshee",
+    "name": "Banshee",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fb/Spray_Moira_Banshee.png/revision/latest?cb=20181019030749"
+  },
+  {
+    "id": "moira-trick-or-treat",
+    "name": "Trick or Treat",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/Spray_Moira_Trick_or_Treat.png/revision/latest?cb=20181019030758"
+  },
+  {
+    "id": "moira-chimney",
+    "name": "Chimney",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e2/Spray_Moira_Chimney.png/revision/latest?cb=20181019030813"
+  },
+  {
+    "id": "moira-ice-empress",
+    "name": "Ice Empress",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3d/Spray_Moira_Ice_Empress.png/revision/latest?cb=20240427213400"
+  },
+  {
+    "id": "moira-ornament",
+    "name": "Ornament",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f5/Spray_Moira_Ornament.png/revision/latest?cb=20181019030821"
+  },
+  {
+    "id": "moira-presents",
+    "name": "Presents",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/eb/Spray_Moira_Presents.png/revision/latest?cb=20240427213442"
+  },
+  {
+    "id": "moira-demon-queen",
+    "name": "Demon Queen",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/49/Spray_Moira_Demon_Queen.png/revision/latest?cb=20240427184918"
+  },
+  {
+    "id": "moira-demon-queen-dance",
+    "name": "Demon Queen Dance",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9b/Spray_Moira_Demon_Queen_Dance.png/revision/latest?cb=20240427184943"
+  },
+  {
+    "id": "moira-demon-queen-mask",
+    "name": "Demon Queen Mask",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/eb/Spray_Moira_Demon_Queen_Mask.png/revision/latest?cb=20240427185000"
+  },
+  {
+    "id": "moira-ancient-caller",
+    "name": "Ancient Caller",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/04/Spray_Moira_Ancient_Caller.png/revision/latest?cb=20240427190310"
+  },
+  {
+    "id": "moira-codex-page",
+    "name": "Codex Page",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/41/Spray_Moira_Codex_Page.png/revision/latest?cb=20240427190331"
+  },
+  {
+    "id": "moira-stained-glass-caller",
+    "name": "Stained Glass Caller",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7f/Spray_Moira_Stained_Glass_Caller.png/revision/latest?cb=20240427190353"
+  },
+  {
+    "id": "moira-cyber-genes",
+    "name": "Cyber Genes",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7b/Spray_Moira_Cyber_Genes.png/revision/latest?cb=20241217175343"
+  },
+  {
+    "id": "moira-hollow-heart-moira",
+    "name": "Hollow Heart Moira",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/Spray_Moira_Hollow_Heart_Moira.png/revision/latest?cb=20250610020846"
+  },
+  {
+    "id": "moira-vampire-moira",
+    "name": "Vampire Moira",
+    "rarity": "unknown",
+    "image_url": null
+  },
+  {
+    "id": "moira-mime",
+    "name": "Mime",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e9/Spray_Moira_Mime.png/revision/latest?cb=20240427213535"
+  },
+  {
+    "id": "moira-liliths-side",
+    "name": "Lilith's Side",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ce/Spray_Moira_Lilith%27s_Side.png/revision/latest?cb=20240427213552"
+  },
+  {
+    "id": "moira-celestial-sigil",
+    "name": "Celestial Sigil",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/19/Spray_Moira_Celestial_Sigil.png/revision/latest?cb=20250221010439"
+  },
+  {
+    "id": "moira-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Moira_Intro_Heroic.webm"
+  },
+  {
+    "id": "moira-coalescence",
+    "name": "Coalescence",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Moira_Intro_Coalescence.webm"
+  },
+  {
+    "id": "moira-transformation",
+    "name": "Transformation",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Moira_Intro_Transformation.webm"
+  },
+  {
+    "id": "moira-vanishing-act",
+    "name": "Vanishing Act",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Moira_Intro_Vanishing_Act.webm"
+  },
+  {
+    "id": "moira-serve",
+    "name": "Serve",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Moira_Intro_Serve.webm"
+  },
+  {
+    "id": "moira-be-beautiful",
+    "name": "Be Beautiful",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Moira_Intro_Be_Beautiful.webm"
+  },
+  {
+    "id": "moira-power-emanates",
+    "name": "Power Emanates",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Moira_Intro_Power_Emanates.webm"
+  },
+  {
+    "id": "moira-rigorous-testing",
+    "name": "Rigorous Testing",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Moira_Intro_Rigorous_Testing.webm"
+  }
+]
