@@ -1,0 +1,788 @@
+[
+  {
+    "id": "ana-classic",
+    "name": "Classic",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Ana_Skin_Classic.png/revision/latest?cb=20240330121756"
+  },
+  {
+    "id": "ana-overwatch-2",
+    "name": "Overwatch 2",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6e/Ana_Skin_Overwatch_2.png/revision/latest?cb=20230309221110"
+  },
+  {
+    "id": "ana-citrine",
+    "name": "Citrine",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3e/Ana_Skin_Citrine.png/revision/latest?cb=20240330122101"
+  },
+  {
+    "id": "ana-garnet",
+    "name": "Garnet",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/41/Ana_Skin_Garnet.png/revision/latest?cb=20240330124344"
+  },
+  {
+    "id": "ana-peridot",
+    "name": "Peridot",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6f/Ana_Skin_Peridot.png/revision/latest?cb=20240330125243"
+  },
+  {
+    "id": "ana-turquoise",
+    "name": "Turquoise",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/Ana_Skin_Turquoise.png/revision/latest?cb=20240330125415"
+  },
+  {
+    "id": "ana-merciful",
+    "name": "Merciful",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4f/Ana_Skin_Merciful.png/revision/latest?cb=20240330130047"
+  },
+  {
+    "id": "ana-shrike",
+    "name": "Shrike",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7f/Ana_Skin_Shrike.png/revision/latest?cb=20240330130724"
+  },
+  {
+    "id": "ana-tal",
+    "name": "Tal",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/eb/Ana_Skin_Tal.png/revision/latest?cb=20240330130919"
+  },
+  {
+    "id": "ana-cybermedic",
+    "name": "Cybermedic",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c0/Ana_Skin_Cybermedic.png/revision/latest?cb=20240330131400"
+  },
+  {
+    "id": "ana-ghoul",
+    "name": "Ghoul",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8c/Ana_Skin_Ghoul.png/revision/latest?cb=20240330132537"
+  },
+  {
+    "id": "ana-gingerbread",
+    "name": "Gingerbread",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/82/Ana_Skin_Gingerbread.png/revision/latest?cb=20221214065534"
+  },
+  {
+    "id": "ana-bastet",
+    "name": "Bastet",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/17/Ana_Skin_Bastet.png/revision/latest?cb=20190109032244"
+  },
+  {
+    "id": "ana-spiritwarder",
+    "name": "Spiritwarder",
+    "rarity": "epic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Ana_Skin_Spiritwarder.png/revision/latest?cb=20230915203153"
+  },
+  {
+    "id": "ana-polar",
+    "name": "Polar",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ae/Ana_Skin_Polar.png/revision/latest?cb=20230621180243"
+  },
+  {
+    "id": "ana-sakura",
+    "name": "Sakura",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/95/Ana_Skin_Sakura.png/revision/latest?cb=20250825155713"
+  },
+  {
+    "id": "ana-midnight-camo",
+    "name": "Midnight Camo",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bd/Ana_Skin_Midnight_Camo.png/revision/latest?cb=20230309221448"
+  },
+  {
+    "id": "ana-sanguine-curse",
+    "name": "Sanguine Curse",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3e/Ana_Skin_Sanguine_Curse.png/revision/latest?cb=20240215190351"
+  },
+  {
+    "id": "ana-ultrawatch",
+    "name": "Ultrawatch",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b9/Ana_Skin_Ultrawatch.png/revision/latest?cb=20240623195752"
+  },
+  {
+    "id": "ana-lightbringer",
+    "name": "Lightbringer",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/85/Ana_Skin_Lightbringer.png/revision/latest?cb=20250825155538"
+  },
+  {
+    "id": "ana-elite",
+    "name": "Elite",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4d/Ana_Skin_Elite.png/revision/latest?cb=20250827041206"
+  },
+  {
+    "id": "ana-wadjet",
+    "name": "Wadjet",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e1/Ana_Skin_Wadjet.png/revision/latest?cb=20160910203436"
+  },
+  {
+    "id": "ana-wasteland",
+    "name": "Wasteland",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Ana_Skin_Wasteland.png/revision/latest?cb=20160910203445"
+  },
+  {
+    "id": "ana-captain-amari",
+    "name": "Captain Amari",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Ana_Skin_Captain_Amari.png/revision/latest?cb=20160910203304"
+  },
+  {
+    "id": "ana-horus",
+    "name": "Horus",
+    "rarity": "legendary",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8e/Ana_Skin_Horus.png/revision/latest?cb=20160910203343"
+  },
+  {
+    "id": "ana-sniper",
+    "name": "Sniper",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6a/Ana_Skin_Sniper.png/revision/latest?cb=20210418104921"
+  },
+  {
+    "id": "ana-night-owl",
+    "name": "Night Owl",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9c/Ana_Skin_Night_Owl.png/revision/latest?cb=20220518043514"
+  },
+  {
+    "id": "ana-cabana",
+    "name": "Cabana",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b9/Ana_Skin_Cabana.png/revision/latest?cb=20180810021715"
+  },
+  {
+    "id": "ana-snow-owl",
+    "name": "Snow Owl",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/75/Ana_Skin_Snow_Owl.png/revision/latest?cb=20171216133834"
+  },
+  {
+    "id": "ana-botanist",
+    "name": "Botanist",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/21/Ana_Skin_Botanist.png/revision/latest?cb=20221214070040"
+  },
+  {
+    "id": "ana-nighthawker",
+    "name": "Nighthawker",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/06/Ana_Skin_Nighthawker.png/revision/latest?cb=20231207200829"
+  },
+  {
+    "id": "ana-oni",
+    "name": "Oni",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/89/Ana_Skin_Oni.png/revision/latest?cb=20240824180846"
+  },
+  {
+    "id": "ana-bog-witch",
+    "name": "Bog Witch",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/72/Ana_Skin_Bog_Witch.png/revision/latest?cb=20241017114915"
+  },
+  {
+    "id": "ana-blackbraid",
+    "name": "Blackbraid",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d1/Ana_Skin_Blackbraid.png/revision/latest?cb=20231207195752"
+  },
+  {
+    "id": "ana-arch-commandant-amari",
+    "name": "Arch-Commandant Amari",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bc/Ana_Skin_Arch-Commandant_Amari.png/revision/latest?cb=20240418234827"
+  },
+  {
+    "id": "ana-stakeout",
+    "name": "Stakeout",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c4/Ana_Skin_Stakeout.png/revision/latest?cb=20240516154012"
+  },
+  {
+    "id": "ana-tomb-walker",
+    "name": "Tomb Walker",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f8/Ana_Skin_Tomb_Walker.png/revision/latest?cb=20240824181059"
+  },
+  {
+    "id": "ana-demon",
+    "name": "Demon",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Ana_Skin_Demon.png/revision/latest?cb=20250827041134"
+  },
+  {
+    "id": "ana-blue-lotus",
+    "name": "Blue Lotus",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/60/Ana_Skin_Blue_Lotus.png/revision/latest?cb=20250827041152"
+  },
+  {
+    "id": "ana-cosmic",
+    "name": "Cosmic",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/29/Ana_Skin_Cosmic.png/revision/latest?cb=20250601183000"
+  },
+  {
+    "id": "ana-a-7000-wargod",
+    "name": "A-7000 Wargod",
+    "rarity": "mythic",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2a/Ana_Skin_A-7000_Wargod.png/revision/latest?cb=20240503031333"
+  },
+  {
+    "id": "ana-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Ana_Emote_Heroic.webm"
+  },
+  {
+    "id": "ana-disapproving",
+    "name": "Disapproving",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Ana_Emote_Disapproving.webm"
+  },
+  {
+    "id": "ana-not-impressed",
+    "name": "Not Impressed",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Ana_Emote_Not_Impressed.webm"
+  },
+  {
+    "id": "ana-protector",
+    "name": "Protector",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Ana_Emote_Protector.webm"
+  },
+  {
+    "id": "ana-take-a-knee",
+    "name": "Take a Knee",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Ana_Emote_Take_a_Knee.webm"
+  },
+  {
+    "id": "ana-tea-time",
+    "name": "Tea Time",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Ana_Emote_Tea_Time.webm"
+  },
+  {
+    "id": "ana-dance",
+    "name": "Dance",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Ana_Emote_Dance.webm"
+  },
+  {
+    "id": "ana-candy",
+    "name": "Candy",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Ana_Emote_Candy.webm"
+  },
+  {
+    "id": "ana-yut-nori",
+    "name": "Yut Nori",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Ana_Emote_Yut_Nori.webm"
+  },
+  {
+    "id": "ana-beach-ball",
+    "name": "Beach Ball",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Ana_Emote_Beach_Ball.webm"
+  },
+  {
+    "id": "ana-retro-hero",
+    "name": "Retro Hero",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Ana_Emote_Retro_Hero.webm"
+  },
+  {
+    "id": "ana-thumbs-down",
+    "name": "Thumbs Down",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Ana_Emote_Thumbs_Down.webm"
+  },
+  {
+    "id": "ana-thumbs-up",
+    "name": "Thumbs Up",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Ana_Emote_Thumbs_Up.webm"
+  },
+  {
+    "id": "ana-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6e/Ana_Skin_Overwatch_2.png/revision/latest?cb=20230309221110"
+  },
+  {
+    "id": "ana-mission-complete",
+    "name": "Mission Complete",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8c/Ana_VP_Mission_Complete.png/revision/latest?cb=20240527004015"
+  },
+  {
+    "id": "ana-protector",
+    "name": "Protector",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Ana_VP_Protector.png/revision/latest?cb=20240527004127"
+  },
+  {
+    "id": "ana-seated",
+    "name": "Seated",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f9/Ana_VP_Seated.png/revision/latest?cb=20240527004348"
+  },
+  {
+    "id": "ana-kneeling",
+    "name": "Kneeling",
+    "rarity": "rare",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b1/Ana_VP_Kneeling.png/revision/latest?cb=20190109094852"
+  },
+  {
+    "id": "ana-folded-hands",
+    "name": "Folded Hands",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/78/Ana_VP_Folded_Hands.png/revision/latest?cb=20240527004632"
+  },
+  {
+    "id": "ana-medal",
+    "name": "Medal",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/55/Ana_VP_Medal.png/revision/latest?cb=20240527004738"
+  },
+  {
+    "id": "ana-rip",
+    "name": "R.I.P.",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ed/Ana_VP_R.I.P..png/revision/latest?cb=20240527004920"
+  },
+  {
+    "id": "ana-toast",
+    "name": "Toast",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/27/Ana_VP_Toast.png/revision/latest?cb=20240527005200"
+  },
+  {
+    "id": "ana-shush",
+    "name": "Shush",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/ba/Ana_VP_Shush.png/revision/latest?cb=20230505203700"
+  },
+  {
+    "id": "ana-order-arms",
+    "name": "Order Arms",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/88/Ana_VP_Order_Arms.png/revision/latest?cb=20240527005256"
+  },
+  {
+    "id": "ana-feline-familiar",
+    "name": "Feline Familiar",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ae/Ana_VP_Feline_Familiar.png/revision/latest?cb=20241020153000"
+  },
+  {
+    "id": "ana-poised",
+    "name": "Poised",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/11/Ana_VP_Poised.png/revision/latest?cb=20250222030517"
+  },
+  {
+    "id": "ana-at-ease",
+    "name": "At Ease",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d2/Ana_VP_At_Ease.png/revision/latest?cb=20250827041501"
+  },
+  {
+    "id": "ana-retro-hero",
+    "name": "Retro Hero",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ce/Ana_VP_Retro_Hero.png/revision/latest?cb=20240621233217"
+  },
+  {
+    "id": "ana-action",
+    "name": "Action",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/24/Spray_Ana_Action.png/revision/latest?cb=20160905212716"
+  },
+  {
+    "id": "ana-ana",
+    "name": "Ana",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/81/Spray_Ana_Ana.png/revision/latest?cb=20160905212804"
+  },
+  {
+    "id": "ana-bearer",
+    "name": "Bearer",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1f/Spray_Ana_Bearer.png/revision/latest?cb=20160905212829"
+  },
+  {
+    "id": "ana-cheer",
+    "name": "Cheer",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3a/Spray_Ana_Cheer.png/revision/latest?cb=20160905212859"
+  },
+  {
+    "id": "ana-cracked",
+    "name": "Cracked",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6f/Spray_Ana_Cracked.png/revision/latest?cb=20160905212931"
+  },
+  {
+    "id": "ana-eyepatch",
+    "name": "Eyepatch",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a0/Spray_Ana_Eyepatch.png/revision/latest?cb=20160905213042"
+  },
+  {
+    "id": "ana-fareeha",
+    "name": "Fareeha",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0b/Spray_Ana_Fareeha.png/revision/latest?cb=20160905213237"
+  },
+  {
+    "id": "ana-gaze",
+    "name": "Gaze",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1d/Spray_Ana_Gaze.png/revision/latest?cb=20160905213309"
+  },
+  {
+    "id": "ana-grenade",
+    "name": "Grenade",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/45/Spray_Ana_Grenade.png/revision/latest?cb=20160905213335"
+  },
+  {
+    "id": "ana-guardian",
+    "name": "Guardian",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e1/Spray_Ana_Guardian.png/revision/latest?cb=20160905213409"
+  },
+  {
+    "id": "ana-hesitation",
+    "name": "Hesitation",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/01/Spray_Ana_Hesitation.png/revision/latest?cb=20160905213447"
+  },
+  {
+    "id": "ana-icon",
+    "name": "Icon",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/34/Spray_Ana_Icon.png/revision/latest?cb=20190124081038"
+  },
+  {
+    "id": "ana-letter",
+    "name": "Letter",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a4/Spray_Ana_Letter.png/revision/latest?cb=20160905213550"
+  },
+  {
+    "id": "ana-old-soldier",
+    "name": "Old Soldier",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fc/Spray_Ana_Old_Soldier.png/revision/latest?cb=20160905213753"
+  },
+  {
+    "id": "ana-overhead",
+    "name": "Overhead",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e6/Spray_Ana_Overhead.png/revision/latest?cb=20160905214047"
+  },
+  {
+    "id": "ana-photograph",
+    "name": "Photograph",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Spray_Ana_Photograph.png/revision/latest?cb=20160905220031"
+  },
+  {
+    "id": "ana-pillow",
+    "name": "Pillow",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9b/Spray_Ana_Pillow.png/revision/latest?cb=20171203170822"
+  },
+  {
+    "id": "ana-rifle",
+    "name": "Rifle",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/38/Spray_Ana_Rifle.png/revision/latest?cb=20160905220131"
+  },
+  {
+    "id": "ana-shadow",
+    "name": "Shadow",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/64/Spray_Ana_Shadow.png/revision/latest?cb=20160905220212"
+  },
+  {
+    "id": "ana-shhh",
+    "name": "Shhh",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8c/Spray_Ana_Shhh.png/revision/latest?cb=20160905220236"
+  },
+  {
+    "id": "ana-sidearm",
+    "name": "Sidearm",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d4/Spray_Ana_Sidearm.png/revision/latest?cb=20160905220630"
+  },
+  {
+    "id": "ana-wasteland",
+    "name": "Wasteland",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4c/Spray_Ana_Wasteland.png/revision/latest?cb=20180204233251"
+  },
+  {
+    "id": "ana-wedjat",
+    "name": "Wedjat",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b4/Spray_Ana_Wedjat.png/revision/latest?cb=20160905220700"
+  },
+  {
+    "id": "ana-wrist-launcher",
+    "name": "Wrist Launcher",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/32/Spray_Ana_Wrist_Launcher.png/revision/latest?cb=20160905220727"
+  },
+  {
+    "id": "ana-zzz",
+    "name": "Zzz",
+    "rarity": "common",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/00/Spray_Ana_Zzz.png/revision/latest?cb=20160905220748"
+  },
+  {
+    "id": "ana-cute",
+    "name": "Cute",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6e/Spray_Ana_Cute.png/revision/latest?cb=20160905213011"
+  },
+  {
+    "id": "ana-pixel",
+    "name": "Pixel",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/49/Spray_Ana_Pixel.png/revision/latest?cb=20160905220101"
+  },
+  {
+    "id": "ana-mask",
+    "name": "Mask",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/53/Spray_Ana_Mask.png/revision/latest?cb=20230318170524"
+  },
+  {
+    "id": "ana-on-the-prowl",
+    "name": "On the Prowl",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e0/Spray_Ana_On_the_Prowl.png/revision/latest?cb=20230420052923"
+  },
+  {
+    "id": "ana-protector",
+    "name": "Protector",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5f/Spray_Ana_Protector.png/revision/latest?cb=20230420052933"
+  },
+  {
+    "id": "ana-tea-break",
+    "name": "Tea Break",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b7/Spray_Ana_Tea_Break.png/revision/latest?cb=20230420053205"
+  },
+  {
+    "id": "ana-dance",
+    "name": "Dance",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/42/Spray_Ana_Dance.png/revision/latest?cb=20170125021840"
+  },
+  {
+    "id": "ana-dragon-dance",
+    "name": "Dragon Dance",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/Spray_Ana_Dragon_Dance.png/revision/latest?cb=20170125021922"
+  },
+  {
+    "id": "ana-ghillie-suit",
+    "name": "Ghillie Suit",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/56/Spray_Ana_Ghillie_Suit.png/revision/latest?cb=20230420052653"
+  },
+  {
+    "id": "ana-newborn",
+    "name": "Newborn",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8c/Spray_Ana_Newborn.png/revision/latest?cb=20170505004431"
+  },
+  {
+    "id": "ana-ace-of-hearts",
+    "name": "Ace of Hearts",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dd/Spray_Ana_Ace_of_Hearts.png/revision/latest?cb=20171203170902"
+  },
+  {
+    "id": "ana-sentinel",
+    "name": "Sentinel",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/74/Spray_Ana_Sentinel.png/revision/latest?cb=20230420052625"
+  },
+  {
+    "id": "ana-shooting",
+    "name": "Shooting",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/31/Spray_Ana_Shooting.png/revision/latest?cb=20160905220302"
+  },
+  {
+    "id": "ana-mummy",
+    "name": "Mummy",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/86/Spray_Ana_Mummy.png/revision/latest?cb=20230420053005"
+  },
+  {
+    "id": "ana-trick-or-treat",
+    "name": "Trick or Treat",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f0/Spray_Ana_Trick_or_Treat.png/revision/latest?cb=20161011212626"
+  },
+  {
+    "id": "ana-ornament",
+    "name": "Ornament",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/55/Spray_Ana_Ornament.png/revision/latest?cb=20161214024100"
+  },
+  {
+    "id": "ana-warm",
+    "name": "Warm",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Spray_Ana_Warm.png/revision/latest?cb=20161214024104"
+  },
+  {
+    "id": "ana-gingerbread",
+    "name": "Gingerbread",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Spray_Ana_Gingerbread.png/revision/latest?cb=20230420052732"
+  },
+  {
+    "id": "ana-botanist",
+    "name": "Botanist",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2e/Spray_Ana_Botanist.png/revision/latest?cb=20240427184348"
+  },
+  {
+    "id": "ana-alas",
+    "name": "Alas",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4a/Spray_Ana_Alas.png/revision/latest?cb=20240427024358"
+  },
+  {
+    "id": "ana-ana-vs-wargod",
+    "name": "Ana Vs. Wargod",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6f/Spray_Ana_Ana_Vs._Wargod.png/revision/latest?cb=20240427024439"
+  },
+  {
+    "id": "ana-warheads-end",
+    "name": "Warhead's End",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e7/Spray_Ana_Warhead%27s_End.png/revision/latest?cb=20240427024504"
+  },
+  {
+    "id": "ana-nighthawker",
+    "name": "Nighthawker",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0e/Spray_Ana_Nighthawker.png/revision/latest?cb=20240425191752"
+  },
+  {
+    "id": "ana-wicked-aim",
+    "name": "Wicked Aim",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/82/Spray_Ana_Wicked_Aim.png/revision/latest?cb=20240425154705"
+  },
+  {
+    "id": "ana-oni-ana",
+    "name": "Oni Ana",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8b/Spray_Ana_Oni_Ana.png/revision/latest?cb=20240831042839"
+  },
+  {
+    "id": "ana-wicked-glow",
+    "name": "Wicked Glow",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b8/Spray_Ana_Wicked_Glow.png/revision/latest?cb=20241023034758"
+  },
+  {
+    "id": "ana-sakura-emblem",
+    "name": "Sakura Emblem",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/Spray_Ana_Sakura_Emblem.png/revision/latest?cb=20250822223543"
+  },
+  {
+    "id": "ana-blue-lotus",
+    "name": "Blue Lotus",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f5/Spray_Ana_Blue_Lotus.png/revision/latest?cb=20250913002012"
+  },
+  {
+    "id": "ana-dev-doodle-ana",
+    "name": "Dev Doodle Ana",
+    "rarity": "unknown",
+    "image_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5a/Spray_Ana_Dev_Doodle_Ana.png/revision/latest?cb=20250610011035"
+  },
+  {
+    "id": "ana-heroic",
+    "name": "Heroic",
+    "rarity": "common",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Ana_Intro_Heroic.webm"
+  },
+  {
+    "id": "ana-guardian",
+    "name": "Guardian",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Ana_Intro_Guardian.webm"
+  },
+  {
+    "id": "ana-locked-on",
+    "name": "Locked On",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Ana_Intro_Locked_On.webm"
+  },
+  {
+    "id": "ana-shhh",
+    "name": "Shhh...",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Ana_Intro_Shhh....webm"
+  },
+  {
+    "id": "ana-under-fire",
+    "name": "Under Fire",
+    "rarity": "epic",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Ana_Intro_Under_Fire.webm"
+  },
+  {
+    "id": "ana-vacation",
+    "name": "Vacation",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Ana_Intro_Vacation.webm"
+  },
+  {
+    "id": "ana-at-ease",
+    "name": "At Ease",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Ana_Intro_At_Ease.webm"
+  },
+  {
+    "id": "ana-cauldron-bubble",
+    "name": "Cauldron Bubble",
+    "rarity": "unknown",
+    "image_url": "https://overwatch.fandom.com/wiki/File:Ana_Intro_Cauldron_Bubble.webm"
+  }
+]
