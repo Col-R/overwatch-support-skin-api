@@ -1,5 +1,5 @@
 # Overwatch Support Skins API
-###### A public API that provides structured, queryable data for Overwatch 2 support heroes and their skins. Built with TypeScript + Express, this project was designed as both a learning exercise and a portfolio piece to showcase API design, error handling, and various backend skills.
+#### A public API that provides structured, queryable data for Overwatch 2 support heroes and their skins. Built with TypeScript + Express, this project was designed as both a learning exercise and a portfolio piece to showcase API design, error handling, and various backend skills.
 
 ## Usage
 
