@@ -47,11 +47,11 @@ I built this project to:
 
 ## Challenges
 
-Getting clean, usable data in the format I wanted without having to do it manually was a challenge I didn't have much experience with prior to this project. By using higher order javascript functions and tight regex, I was able to overcome this hurder and obtain a clean JSON file for my API to use.
+Getting clean, usable data in the format I wanted without having to do it manually was a challenge I didn't have much experience with prior to this project. By using higher order javascript functions and tight regex, I was able to overcome this hurdle and obtain a clean JSON file for my API to use.
 
 ## Future Plans
 
-With the rate overwatch releases skins, even keeping this API up to date could prove a bit of a hassle. I will strive to do so on my own time, and hopefully other devs can follow my lead and create a similar project for the rest of the roster!
+With the rate overwatch releases skins, even keeping this API current could prove trying. I will strive to do so on my own time, and hopefully other devs can follow my lead and create a similar project for the rest of the roster!
 
 ## License
 
